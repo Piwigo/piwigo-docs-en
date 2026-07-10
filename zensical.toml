@@ -35,10 +35,10 @@ site_url = "https://piwigo.org/new-doc/"
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-Copyright &copy; 2002-2026 Piwigo
+<a href= "https://piwigo.org">Piwigo.org</a> &copy; 2002-2026
 """
 
-repo_url = "https://github.com/Piwigo/piwigo-docs-eng"
+repo_url = "https://github.com/Piwigo/piwigo-docs-en"
 edit_uri = "edit/main/docs/"
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
@@ -48,7 +48,114 @@ edit_uri = "edit/main/docs/"
 # can be defined using TOML syntax.
 #
 # Read more: https://zensical.org/docs/setup/navigation/
-# nav = []
+
+nav = [
+    {"Home"= "index.md"},
+    {"Get started" = [
+		"start-with-piwigo/index.md",
+		"start-with-piwigo/understand-everything-about-piwigo-in-2-minutes.md",
+		"start-with-piwigo/get-started-with-piwigo-in-15-minutes.md"
+	]},
+	{"Import and manage photos" = [
+		"import-and-manage-photos/index.md",
+		"import-and-manage-photos/importing-photos-into-piwigo.md",
+		"import-and-manage-photos/file-formats-compatible-piwigo.md",
+		"import-and-manage-photos/modifying-or-deleting-photos.md",
+		"import-and-manage-photos/batch-manager-piwigo.md",
+		"import-and-manage-photos/properties-metadata-photos-piwigo.md",
+		"import-and-manage-photos/multiple-formats-piwigo.md"
+	]},
+	{"Browsing your gallery" = [
+		"browsing-your-piwigo-gallery/index.md",
+		"browsing-your-piwigo-gallery/your-gallery-introduction.md",
+		"browsing-your-piwigo-gallery/albums-in-your-gallery.md",
+		"browsing-your-piwigo-gallery/the-photo-page-in-your-gallery.md",
+		"browsing-your-piwigo-gallery/tags-in-your-gallery.md",
+		"browsing-your-piwigo-gallery/search-for-a-photo-in-your-gallery.md",
+		"browsing-your-piwigo-gallery/manage-your-favorites.md",
+		"browsing-your-piwigo-gallery/user-collections-plugin-piwigo.md"
+	]},
+	{"Organizing albums" = [
+		"organizing-albums/index.md",
+		"organizing-albums/albums-and-sub-albums-piwigo.md",
+		"organizing-albums/how-to-create-an-album.md",
+		"organizing-albums/managing-your-albums.md",
+		"organizing-albums/editing-an-album.md",
+		"organizing-albums/permissions-and-album-visibility.md",
+		"organizing-albums/smart-albums-plugin-piwigo.md"
+	]},
+	{"Managing tags" = [
+		"tags-in-piwigo/index.md",
+		"tags-in-piwigo/tags-introduction.md",
+		"tags-in-piwigo/creating-and-managing-tags.md",
+		"tags-in-piwigo/tag-recognition-plugin-piwigo.md"
+	]},
+	{"Comments and rating" = [
+		"comments-and-ratings/index.md",
+		"comments-and-ratings/managing-comments.md",
+		"comments-and-ratings/plugins-comments-management-piwigo.md",
+		"comments-and-ratings/managing-ratings-votes.md"
+	]},
+	{"Managing users" = [
+		"managing-users/index.md",
+		"managing-users/users-introduction.md",
+		"managing-users/log-in-to-piwigo.md",
+		"managing-users/user-statuses.md",
+		"managing-users/creating-and-managing-users.md",
+		"managing-users/privacy-levels.md",
+		"managing-users/sending-notification-emails-to-users.md",
+		"managing-users/user-groups.md",
+		"managing-users/community-plugin-piwigo.md"
+	]},
+	{"Themes" = [
+		"piwigo-themes/index.md",
+		"piwigo-themes/piwigo-themes-introduction.md",
+		"piwigo-themes/modus-theme-piwigo.md",
+		"piwigo-themes/bootstrap-darkroom-theme-piwigo.md"
+	]},
+	{"Customizing your gallery" = [
+		"customizing-your-gallery/index.md",
+		"customizing-your-gallery/customization-options-for-your-gallery.md",
+		"customizing-your-gallery/managing-languages-available-gallery-piwigo.md",
+		"customizing-your-gallery/customizing-piwigo-gallery-menu-navbar.md",
+		"customizing-your-gallery/add-pages-to-piwigo-gallery.md",
+		"customizing-your-gallery/customizing-piwigo-gallery-plugins.md",
+		"customizing-your-gallery/customize-css-code-piwigo-gallery.md",
+		"customizing-your-gallery/adding-a-custom-banner-to-your-gallery.md"
+	]},
+	{"Administrating Piwigo" = [
+		"administration-piwigo/index.md",
+		"administration-piwigo/viewing-statistics-piwigo-gallery.md",
+		"administration-piwigo/maintenance-piwigo-gallery.md",
+		"administration-piwigo/plugins-for-administrators.md"
+	]},
+	{"Plugins" = [
+		"piwigo-plugins/index.md",
+		"piwigo-plugins/plugins-piwigo-presentation.md"
+	]},
+	{"Mobile apps" = [
+		"mobile-apps/index.md",
+		"mobile-apps/piwigo-ng-android-mobile-app.md",
+		"mobile-apps/piwigo-ios-mobile-app.md"
+	]},
+	{"Piwigo self-hosting" = [
+		"self-hosting-piwigo/index.md",
+		{"Installation guides" = [
+            "self-hosting-piwigo/installation-guides/requirements.md",
+            "self-hosting-piwigo/installation-guides/manual-installation.md",
+            "self-hosting-piwigo/installation-guides/docker-installation.md"
+        ]},
+        {"Update guides" = [
+            "self-hosting-piwigo/update-guides/automatic-update.md",
+            "self-hosting-piwigo/update-guides/manual-update.md",
+            "self-hosting-piwigo/update-guides/docker-update.md"
+        ]},
+		"self-hosting-piwigo/importing-and-synchronizing-ftp-photos.md",
+		"self-hosting-piwigo/editing-configuration-localfiles-editor-plugin.md",
+		"self-hosting-piwigo/move-your-piwigo-to-another-server.md",
+		"self-hosting-piwigo/issues-generation-thumbnails-representative.md",
+	]}
+]
 
 # With the "extra_css" option you can add your own CSS styling to customize
 # your Zensical project according to your needs. You can add any number of
