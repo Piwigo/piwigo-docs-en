@@ -1,0 +1,10 @@
+{#-
+    Overrides the copyright section to add "· Get help"
+-#}
+<div class="md-copyright">
+  {% if config.copyright %}
+    <div class="md-copyright__highlight">
+      {{ config.copyright }} <span class="pwg_custom_copyright_middledot">·</span> <a href="https://piwigo.org/contact">Get help</a>
+    </div>
+  {% endif %}
+</div>
