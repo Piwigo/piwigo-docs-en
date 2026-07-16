@@ -415,8 +415,8 @@ accent = "orange"
 # ----------------------------------------------------------------------------
 [project.extra]
 alternate = [
-    { name = "Français", link = "https://fr-doc.piwigo.org/", lang = "fr" },
-    #{ name = "Deutsch", link = "https://de-doc.piwigo.org/", lang = "de" },
+    { name = "Français", link = "https://doc-fr.piwigo.org/", lang = "fr" },
+    #{ name = "Deutsch", link = "https://doc-de.piwigo.org/", lang = "de" },
 ]
 
 [[project.extra.social]]
