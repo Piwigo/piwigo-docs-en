@@ -1,3 +1,7 @@
+---
+icon: lucide/help-circle
+---
+
 # Start with Piwigo
 
 You are discovering Piwigo and you want to quickly understand what it is, how it works and whether it's made for you? Read this article:

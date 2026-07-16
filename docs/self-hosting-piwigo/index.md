@@ -1,3 +1,7 @@
+---
+icon: lucide/cloudy
+---
+
 # Host your Piwigo gallery
 
 As a reminder, you can use Piwigo in two ways:

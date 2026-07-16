@@ -1,3 +1,7 @@
+---
+icon: lucide/tablet-smartphone
+---
+
 # Mobile apps
 
 Piwigo offers two mobile apps for iOS and Android.

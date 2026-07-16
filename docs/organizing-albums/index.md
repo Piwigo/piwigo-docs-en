@@ -1,3 +1,7 @@
+---
+icon: lucide/folder
+---
+
 # Organizing albums
 
 Discover here how albums work in Piwigo, how to use them and manage them in the administration.

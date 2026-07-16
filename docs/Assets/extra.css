@@ -4,7 +4,7 @@
 }
 
 /* Remove TOC in home page */
-body:has(#documentation-piwigo) .md-sidebar--secondary {
+body:has(#piwigo-documentation) .md-sidebar--secondary {
     display: none;
 }
 

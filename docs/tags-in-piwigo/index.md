@@ -1,3 +1,7 @@
+---
+icon: lucide/tags
+---
+
 # Managing tags
 
 Discover here how tags work in Piwigo, how to use them and manage them in the administration.

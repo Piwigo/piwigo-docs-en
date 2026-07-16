@@ -1,3 +1,7 @@
+---
+icon: lucide/image-down
+---
+
 # Import and manage photos
 
 To understand everything about the import and management of photos in Piwigo's administration, this is the right place!

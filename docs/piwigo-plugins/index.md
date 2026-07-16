@@ -1,3 +1,7 @@
+---
+icon: lucide/plug
+---
+
 # Plugins
 
 What are plugins useful for on Piwigo? How can you choose them and install them on your gallery? Read this article to learn how.

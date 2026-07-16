@@ -1,3 +1,7 @@
+---
+icon: lucide/app-window
+---
+
 # Browsing your Piwigo gallery
 
 To understand everything about your Piwigo gallery, how it works, and discover options and plugins to customize its features, this is the right place !

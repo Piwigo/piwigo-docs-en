@@ -1,3 +1,7 @@
+---
+icon: lucide/sliders-horizontal
+---
+
 # Customizing your gallery
 
 There are many options for customizing your Piwigo gallery! 
