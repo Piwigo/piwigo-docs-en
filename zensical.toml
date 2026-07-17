@@ -140,10 +140,10 @@ nav = [
 	]},
 	{"Piwigo self-hosting" = [
 		"self-hosting-piwigo/index.md",
-		{"Installation guides" = [
-            "self-hosting-piwigo/installation-guides/requirements.md",
-            "self-hosting-piwigo/installation-guides/manual-installation.md",
-            "self-hosting-piwigo/installation-guides/docker-installation.md"
+		{"Install guides" = [
+            "self-hosting-piwigo/install-guides/requirements.md",
+            "self-hosting-piwigo/install-guides/manual-install.md",
+            "self-hosting-piwigo/install-guides/docker-install.md"
         ]},
         {"Update guides" = [
             "self-hosting-piwigo/update-guides/automatic-update.md",
