@@ -37,10 +37,7 @@ Lastly, other tools are accessible to the right of the Admin Tools bar:
 
 ## Admin Messages: Adding a welcome message in the administration
 
-<aside>
-ℹ️ If you are a piwigo.com plan customer, this plugin is only available from the Enterprise plan and higher.
-
-</aside>
+!!! info "If you are a Piwigo Cloud plan customer, this plugin is only available from the Enterprise plan and higher"
 
 The **Admin Messages** plugin lets users add messages on the home page in Piwigo's administration (to communicate with the other administrators).
 
@@ -60,31 +57,23 @@ Once this plugin has been activated, all notification emails sent by Piwigo will
 
 Therefore, the notification emails will be delivered properly.
 
-<aside>
-ℹ️ Since February 2024, Protect Notif is activated by default on all new accounts created on piwigo.com.
+!!! info "Since February 2024, Protect Notif is activated by default on all new accounts created on Piwigo Cloud"
 
-</aside>
 
 ## Download Limits: Restricting the number of downloads per day
 
-<aside>
-ℹ️ If you are a piwigo.com plan customer, this plugin is only available from the Enterprise plan and higher.
-
-</aside>
+!!! info "If you are a Piwigo Cloud plan customer, this plugin is only available from the Enterprise plan and higher"
 
 The **Download Limits** plugin lets administrators restrict the number of downloads per day on their gallery.
 
-<aside>
-⚠️ Warning: the maximum number of downloads isn't customizable in Piwigo's interface but in a configuration file. If you are a piwigo.com customer, contact support to set it up.
+!!! warning "Warning"
+    The maximum number of downloads isn't customizable in Piwigo's interface but in a configuration file. If you are a Piwigo Cloud customer, contact support to set it up.
 
-</aside>
 
 ## Export Data: Exporting your Piwigo gallery's data
 
-<aside>
-ℹ️ If you are a piwigo.com plan customer, this plugin is only available from the Team plan and higher.
+!!! info "If you are a piwigo.com plan customer, this plugin is only available from the Team plan and higher"
 
-</aside>
 
 The **Export Data** plugin lets administrators export data from Piwigo to a spreadsheet.
 
@@ -160,10 +149,8 @@ By default, the basic version of FCK Editor is displayed on most pages, so the a
 
 The **LocalFiles Editor** plugin lets you edit Piwigo files directly from the administration.
 
-<aside>
-⚠️ Warning: this feature is for advanced users only!
+!!! warning "this feature is for advanced users only!"
 
-</aside>
 
 For piwigo.com customers, this plugin only lets you add custom CSS code.
 
@@ -247,10 +234,9 @@ The confirmation is saved in the form of a cookie for which you can choose the v
 
 ![Cookie Consent Config.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-d056bb42.jpg)
 
-<aside>
-⚠️ Warning: if your gallery is using third-party cookies, such as those from Google Analytics, this banner is not enough to collect the consent of your visitors, since it is only informational (the user can't reject the cookies, nor take back their consent).
+!!! warning "Warning"
+    If your gallery is using third-party cookies, such as those from Google Analytics, this banner is not enough to collect the consent of your visitors, since it is only informational (the user can't reject the cookies, nor take back their consent).
 
-</aside>
 
 ## Plugins for your gallery’s SEO
 

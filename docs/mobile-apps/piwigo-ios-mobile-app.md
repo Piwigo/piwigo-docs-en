@@ -50,10 +50,8 @@ Next, you can use the app to organize your photo library (if you have an adminis
 
 From the app, you can import the photos and videos of your mobile device to new or existing albums very easily.
 
-<aside>
-💡 Warning: you need to have an administrator account in order to add photos to Piwigo from your mobile app.
-
-</aside>
+!!! warning "Warning :"
+    You need to have an administrator account in order to add photos to Piwigo from your mobile app.
 
 The app can access your device’s photos based on your preferences. If you grant full access to your Photo Library, the app will display all 'smart' and shared albums with photos sorted by date and location.
 

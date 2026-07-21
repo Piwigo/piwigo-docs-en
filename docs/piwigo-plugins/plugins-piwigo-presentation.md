@@ -104,10 +104,8 @@ You can search for a plugin by keyword or filter the plugins (by date, author, t
 
 In this list are some plugins that aren't available on piwigo.com. These are community-made plugins, which the Piwigo developer team hasn't always tested or approved: therefore, we can't guarantee that they work correctly, nor that they are compatible!
 
-<aside>
-ℹ️ The plugins we are showcasing in the current documentation are the ones available on piwigo.com, which our team has tested and approved. However, of course, this does not mean that the other plugins available aren't interesting.
-
-</aside>
+!!! info "Info"
+    The plugins we are showcasing in the current documentation are the ones available on Piwigo Cloud, which our team has tested and approved. However, of course, this does not mean that the other plugins available aren't interesting.
 
 To install a new plugin, click on Add.
 

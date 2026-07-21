@@ -20,10 +20,7 @@ Depending on your theme, this icon could take the form of a wrench or even a pen
 
 The editing screen of an album gives you many possibilities.
 
-<aside>
-🆕 The screenshots below show the new version of the album editor, available from Piwigo version 14
-
-</aside>
+!!! abstract "The screenshots below show the new version of the album editor, available from Piwigo version 14"
 
 Let's start by looking into the first "Properties" tab.
 
@@ -89,10 +86,8 @@ Lastly, to open your album directly in the gallery, click on the "Open in galler
 
 At the bottom of the album editor screen, you have the option to lock an album.
 
-<aside>
-ℹ️ A locked album is inaccessible from the gallery, except for administrators. Most often, the locked status is used when an album is not yet ready to be made public in the gallery, because an administrator is working on it (preparation before publishing, maintenance...). This is therefore a "working", temporary status.
-
-</aside>
+!!! info "Info :"
+    A locked album is inaccessible from the gallery, except for administrators. Most often, the locked status is used when an album is not yet ready to be made public in the gallery, because an administrator is working on it (preparation before publishing, maintenance...). This is therefore a "working", temporary status.
 
 You can also lock / unlock a list of albums from the Albums > Properties > Lock menu.
 
@@ -100,10 +95,8 @@ You can also lock / unlock a list of albums from the Albums > Properties > Lock 
 
 When you edit an album, the second tab, "Photos sort order", lets you edit the order of photos as they are displayed in your album.
 
-<aside>
-ℹ️ By default, Piwigo sorts photos in the following way: by upload date (from newest to oldest), THEN by file name (from A to Z), THEN by ID (from smallest to biggest). You can edit this setting in Piwigo's configuration options. [Learn more](../customizing-your-gallery/customization-options-for-your-gallery.md)
-
-</aside>
+!!! info "Info :"
+    By default, Piwigo sorts photos in the following way: by upload date (from newest to oldest), THEN by file name (from A to Z), THEN by ID (from smallest to biggest). You can edit this setting in Piwigo's configuration options. [Learn more](../customizing-your-gallery/customization-options-for-your-gallery.md)
 
 ### Manually editing the order of photos
 
@@ -160,10 +153,8 @@ The people involved will receive an email containing a link to the album, along 
 
 ![Mail album.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-f7bfa0ea.jpg)
 
-<aside>
-ℹ️ Warning: before sending a notification, remember to make sure that the users have access to this album in the Permissions tab.
-
-</aside>
+!!! warning "Warning :"
+    Before sending a notification, remember to make sure that the users have access to this album in the Permissions tab.
 
 Article summary
 

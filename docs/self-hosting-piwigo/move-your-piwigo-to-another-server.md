@@ -61,11 +61,9 @@ You already have a Piwigo hosted on piwigo.com and you want to move it to your o
 
 ### I don't want to move my photos
 
-<aside>
-ℹ️ In the process below, we'll use the convention that the dot {.} corresponds to [http://www.exemple.com](http://www.exemple.com/)
-In your database (DB), we'll assume that your table prefix is piwigo_.
-
-</aside>
+!!! info "Info :"
+    In the process below, we'll use the convention that the dot {.} corresponds to [http://www.exemple.com](http://www.exemple.com/)
+    In your database (DB), we'll assume that your table prefix is `piwigo_`.
 
 1. First, activate the maintenance mode (Administration, Tools, Maintenance, action “Lock gallery”).
 2. Now go to your ./`my_gallery`/index.php address to check that the site is under maintenance.

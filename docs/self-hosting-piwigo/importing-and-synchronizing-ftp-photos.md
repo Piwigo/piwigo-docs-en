@@ -1,9 +1,6 @@
 # FTP import and synchronization
 
-<aside>
-💡 Read also: [Importing photos into Piwigo](../import-and-manage-photos/importing-photos-into-piwigo.md)
-
-</aside>
+!!! info "Read also: [Importing photos into Piwigo](../import-and-manage-photos/importing-photos-into-piwigo.md)"
 
 ## Introduction
 
@@ -15,10 +12,8 @@ If you have a large photo library, this photo upload method might be made for yo
 
 If you prefer, there are other methods for uploading your photos: to learn more, visit the section about [uploading photos to Piwigo](../import-and-manage-photos/importing-photos-into-piwigo.md).
 
-<aside>
-⚠️ This upload method is only available for self-hosted Piwigo galleries: therefore, it is not available for customers of a piwigo.com plan.
-
-</aside>
+!!! warning "Warning :"
+    This upload method is only available for self-hosted Piwigo galleries: therefore, it is not available for customers of a Piwigo Cloud plan.
 
 ## Pros and cons of this method
 
@@ -34,11 +29,9 @@ If you prefer, there are other methods for uploading your photos: to learn more,
 1. Create a directory on your computer.
 2. Paste photos inside of this directory.
     
-    <aside>
-    ⚠️ *Warning*: the name of the directories and files must only contain letters, numbers, and the "-", "_", or "." symbols. No spaces or characters with accents.
-    
-    </aside>
-    
+!!! warning "Warning :"
+    The name of the directories and files must only contain letters, numbers, and the "-", "_", or "." symbols. No spaces or characters with accents.
+
 3. With an FTP client, copy the directory in the `./galleries/` directory in your Piwigo setup.
 4. Log into your Piwigo gallery, go to the administration, in the Tools > Synchronization menu. Select the Directories + files options, Synchronize metadata, and do not select "Simulation only".
 
@@ -97,15 +90,11 @@ Some explanations to better understand this diagram:
 - By default, the elements other than photos (sounds, text files, anything you want...) are represented by a icon that corresponds to the extension of the file's name. As an option, a representative can be associated (see file plane-takeoff-video.avi in the example).
 - Multiple formats: you can offer a photo in multiple formats. In this example, there are 3 additional formats for img0001.jpg. You can activate this feature by adding `$conf['enable_formats'] = true;` to your local configuration and by setting a list of formats, such as `$conf['format_ext'] = array('cmyk.jpg', 'cr2', 'zip');`. [Learn more about multiple formats](../import-and-manage-photos/multiple-formats-piwigo.md)
 
-<aside>
-⚠️ *Warning*: the name of the directories and files must only contain letters, numbers, and the "-", "_", or "." symbols. No spaces or characters with accents.
+!!! warning "Warning :"
+    The name of the directories and files must only contain letters, numbers, and the "-", "_", or "." symbols. No spaces or characters with accents.
 
-</aside>
-
-<aside>
-💡 *Tip*: an album can contain both photos and sub-albums. Nevertheless, for each album, choosing between containing photos **or** sub-albums is strongly recommended.
-
-</aside>
+!!! tip "Tip :"
+    An album can contain both photos and sub-albums. Nevertheless, for each album, choosing between containing photos **or** sub-albums is strongly recommended.
 
 - Once the files are correctly placed in directories, go to the Administration > Tools > Synchronize screen.
 
@@ -113,10 +102,7 @@ Some explanations to better understand this diagram:
 
 As soon as you choose to transfer your files via FTP, synchronization is a necessary step whenever you *add* / *rename* / *move* / *delete* *any element* in your photos.
 
-<aside>
-⚠️ This feature is useless if you are transferring your files in another way.
-
-</aside>
+!!! warning "This feature is useless if you are transferring your files in another way."
 
 Go to Tools > Synchronize in the administration.
 
@@ -161,10 +147,7 @@ Piwigo allows you to not perform a change straight away in order for you to make
 
 As the name suggests, this feature will therefore simulate the result of the synchronization.
 
-<aside>
-⚠️ If you really want to synchronize your files, make sure this box is not ticked!
-
-</aside>
+!!! warning "If you really want to synchronize your files, make sure this box is not ticked!"
 
 ### **Reduce to single existing album**
 

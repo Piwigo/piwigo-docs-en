@@ -66,10 +66,7 @@ You can choose to sort comments by photo or by date, and use the search engine t
 
 ![Voir commentaires.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-89e11245.jpg)
 
-<aside>
-💡 Note: from this page, administrators can approve, edit and delete comments.
-
-</aside>
+!!! "note" Note: from this page, administrators can approve, edit and delete comments.
 
 ## Managing, editing, deleting comments
 
@@ -111,10 +108,8 @@ When an administrator is viewing a photo's comments in the gallery, they have ac
 
 ![Modifier ou supprimer.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-65f2ade6.jpg)
 
-<aside>
-ℹ️ If you selected the options that allow users to delete / edit their own comments, they will also have access to these actions on their comments (except for anonymous users who are not logged in).
-
-</aside>
+!!! info "Info"
+    If you selected the options that allow users to delete / edit their own comments, they will also have access to these actions on their comments (except for anonymous users who are not logged in).
 
 Of course, these actions are also available from the gallery's comment page.
 

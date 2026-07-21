@@ -8,10 +8,8 @@ As soon as you click on an album in your gallery, you will access the Album page
 
 In this article, we will discover how to browse the albums, how the Album page is structured, which features are available, and what customization options are available, as standard or with plugins.
 
-<aside>
-⚠️ Note: most of the screenshots presented in this article show a gallery that uses the Modus theme. The way the information and the icons are displayed might not be the same depending on the theme your gallery uses.
-
-</aside>
+!!! note "Note"
+  Most of the screenshots presented in this article show a gallery that uses the Modus theme. The way the information and the icons are displayed might not be the same depending on the theme your gallery uses.
 
 To learn more about the albums, read this set of articles:
 
@@ -46,19 +44,16 @@ The albums that appear are:
 - All the public albums
 - All the private albums you are allowed to view, if you are logged in. [Learn more about permissions](../organizing-albums/permissions-and-album-visibility.md)
 
-<aside>
-ℹ️ By default, the home page displays 12 albums per page. You can browse your albums using the page links at the bottom of the page. If you want to change the number of albums shown per page, go in the administration, then Configuration > Options, in the Display tab.
+!!! info "Info"
+    By default, the home page displays 12 albums per page. You can browse your albums using the page links at the bottom of the page. If you want to change the number of albums shown per page, go in the administration, then Configuration > Options, in the Display tab.
 
-</aside>
 
 By clicking on an album, you enter the Album's page.
 
 Its content is different depending on the album's content: it either contains photos directly (or other files), or sub-albums.
 
-<aside>
-ℹ️ To understand the concept of albums and sub-albums, [read this article](../organizing-albums/albums-and-sub-albums-piwigo.md). An album may contain both sub-albums and files, but we don't recommend this.
-
-</aside>
+!!! info "Info"
+    To understand the concept of albums and sub-albums, [read this article](../organizing-albums/albums-and-sub-albums-piwigo.md). An album may contain both sub-albums and files, but we don't recommend this.
 
 ## Album with sub-albums
 
@@ -84,10 +79,8 @@ If you have a lot of files in this album, page links will appear at the bottom, 
 
 If you want to display all the photos on the album page, you can activate the **RV Thumb Scroller** plugin. This plugin progressively loads the photos as the user scrolls through the page. 
 
-<aside>
-ℹ️ To change the number of photos displayed on an album page, go to your [user preferences](../managing-users/creating-and-managing-users.md); you can access them by clicking on the "Customize" menu in the gallery, or by editing your user profile in the administration.
-
-</aside>
+!!! info "Info"
+    To change the number of photos displayed on an album page, go to your [user preferences](../managing-users/creating-and-managing-users.md); you can access them by clicking on the "Customize" menu in the gallery, or by editing your user profile in the administration.
 
 ## The Album page tool bar
 
@@ -95,10 +88,8 @@ The tool bar gives you access to multiple features.
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-6b027860.png)
 
-<aside>
-ℹ️ Note: The icons and features available on your gallery depend on the theme you have chosen, on Piwigo's configuration, on the plugins activated... The examples displayed on this page show the default possibilities of the [Modus](../piwigo-themes/modus-theme-piwigo.md) theme. If you are using the [Bootstrap Darkroom](../piwigo-themes/bootstrap-darkroom-theme-piwigo.md) theme, for example, the features available are generally the same, but the icons are slightly different.
-
-</aside>
+!!! note "Note"
+    The icons and features available on your gallery depend on the theme you have chosen, on Piwigo's configuration, on the plugins activated... The examples displayed on this page show the default possibilities of the [Modus](../piwigo-themes/modus-theme-piwigo.md) theme. If you are using the [Bootstrap Darkroom](../piwigo-themes/bootstrap-darkroom-theme-piwigo.md) theme, for example, the features available are generally the same, but the icons are slightly different.
 
 ### Changing the photos' sort order
 
@@ -106,10 +97,7 @@ You can change the default sort order by clicking on the "Sorting" icon: this wa
 
 ![Ordre de tru.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-1e01d25d.jpg)
 
-<aside>
-ℹ️ To change the default sort order, go in the administration, in the Configuration > Options menu.
-
-</aside>
+!!! info "Info" To change the default sort order, go in the administration, in the Configuration > Options menu.
 
 ### Changing the size of the photos shown
 
@@ -336,10 +324,8 @@ The plugin's configuration allows you to set the size of the image displayed (by
 
 You can also choose whether or not to display the image's name, to apply a transparency effect when hovering over it, and to preload the images (not recommended for performance reasons).
 
-<aside>
-⚠️ Warning! If you are using the Modus theme, you first need to activate the **GThumb+** plugin in order to use the Image Preview plugin (see previous chapter).
-
-</aside>
+!!! warning "Warning"
+    If you are using the Modus theme, you first need to activate the **GThumb+** plugin in order to use the Image Preview plugin (see previous chapter).
 
 ### Lightbox: Display the photo in a pop-in window instead of the Photo page
 
@@ -377,10 +363,8 @@ With Piwigo, it is possible for each user to add a photo to their favorites to f
 
 The **Quick Fav** plugin allows you to add a photo with only one click from its thumbnail, on the Album page or another listing page.
 
-<aside>
-⚠️ Warning! For now, this plugin is only compatible with the Bootstrap Darkroom theme. Furthermore, it is only accessible to [piwigo.com](http://piwigo.com/) customers (this will be fixed soon).
-
-</aside>
+!!! warning "Warning"
+    For now, this plugin is only compatible with the Bootstrap Darkroom theme. Furthermore, it is only accessible to [piwigo.com](http://piwigo.com/) customers (this will be fixed soon).
 
 Once this plugin has been activated, a heart appears when hovering the mouse over a photo: a click on this heart adds the photo to the user's favorites.
 
@@ -404,10 +388,8 @@ When hovering the mouse over a photo on an album's page, some information about 
 
 Customizing the content of this tooltip is possible using the **Thumbnail Tooltip** plugin.
 
-<aside>
-⚠️ Warning: the Modus theme doesn't display a tooltip on the Album page. Due to this, the Thumbnail Tooltip plugin isn't compatible with Modus.
-
-</aside>
+!!! warning "Warning"
+  The Modus theme doesn't display a tooltip on the Album page. Due to this, the Thumbnail Tooltip plugin isn't compatible with Modus.
 
 Once the plugin has been activated, go into its configuration to set what you want to display in the tooltip, and which order to display it in.
 

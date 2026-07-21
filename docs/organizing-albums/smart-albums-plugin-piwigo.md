@@ -4,10 +4,7 @@ You can create "smart" albums, automatically fed by photos that fit certain crit
 
 To do this, you need to install the **SmartAlbums** plugin.
 
-<aside>
-ℹ️ If you are a piwigo.com customer, this plugin is only available from the Enterprise plan and higher.
-
-</aside>
+!!! info "If you are a Piwigo Cloud customer, this plugin is only available from the Enterprise plan and higher."
 
 Once the plugin has been activated, go to its configuration page.
 

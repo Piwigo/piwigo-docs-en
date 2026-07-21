@@ -14,12 +14,7 @@ The first tab lists the users created in your Piwigo gallery and lets you perfor
 - Edit multiple users in bulk
 - Edit the guest user (anonymous)
 
-<aside>
-💡
-
-Since Piwigo 15, you can sort the list of users displayed by name or creation date by clicking on the column heading. 
-
-</aside>
+!!! info "Piwigo 15, you can sort the list of users displayed by name or creation date by clicking on the column heading."
 
 ## How do I create a new user in the administration?
 
@@ -76,12 +71,7 @@ Click on the pencil icon to modify it; the user name then becomes editable in a 
 
 ![image.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-69830722.png)
 
-<aside>
-⚠️
-
-Please note: The username is also the identifier that allows users to login to Piwigo.  Do not change it without notifying users.
-
-</aside>
+!!! warning "The username is also the identifier that allows users to login to Piwigo.  Do not change it without notifying users."
 
 **Password**
 
@@ -114,10 +104,7 @@ To edit which albums the user has access to, simply move them from one column to
 
 ![Gérer les permissions.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-c0ac9326.jpg)
 
-<aside>
-ℹ️ If the user is part of a group, individual permissions have priority over group permissions. [Learn more about user groups](user-groups.md)
-
-</aside>
+!!! info "If the user is part of a group, individual permissions have priority over group permissions. [Learn more about user groups](user-groups.md)"
 
 ### Delete a user
 
@@ -195,10 +182,8 @@ From the user modification screen in administration, the “Preferences” tab l
 
 Users can also modify them themselves when logged into the gallery, by clicking on the “Customize” menu.
 
-<aside>
-ℹ️ The editing of preferences by users through the gallery can be deactivated in Piwigo's options (by deselecting the "Allow user customization" option). In this case, the "Customize" menu is only used to edit one's email address and / or password.
-
-</aside>
+!!! info "Info : "
+    The editing of preferences by users through the gallery can be deactivated in Piwigo's options (by deselecting the "Allow user customization" option). In this case, the "Customize" menu is only used to edit one's email address and / or password.
 
 To change the default preferences applied to new users, modify the “guest” profile (see later).
 
@@ -242,10 +227,7 @@ If you select this option, the menu will show the entire tree structure.
 
 This option lets you display the number of comments of each photo under the thumbnail on listing pages in the web gallery.
 
-<aside>
-ℹ️ This option is compatible with some themes (Elegant, Bootstrap Darkroom) but not with the Modus theme.
-
-</aside>
+!!! info "This option is compatible with some themes (Elegant, Bootstrap Darkroom) but not with the Modus theme."
 
 ![Nombre de commentaires.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-4d3944cc.jpg)
 
@@ -253,10 +235,7 @@ This option lets you display the number of comments of each photo under the thum
 
 This option lets you display the number of visits of each photo under the thumbnail on listing pages in the web gallery.
 
-<aside>
-ℹ️ This option is compatible with some themes (Elegant, Bootstrap Darkroom) but not with the Modus theme.
-
-</aside>
+!!! info "This option is compatible with some themes (Elegant, Bootstrap Darkroom) but not with the Modus theme."
 
 ![Nombre de visites.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-2d39be8e.jpg)
 
@@ -280,10 +259,7 @@ To view the detailed history of all actions of a user in the administration, you
 
 [Learn more about the activity history](../administration-piwigo/viewing-statistics-piwigo-gallery.md)
 
-<aside>
-ℹ️ If you are a piwigo.com customer, this plugin is only available from the Enterprise plan and higher.
-
-</aside>
+!!! info "If you are a Piwigo Cloud customer, this plugin is only available from the Enterprise plan and higher."
 
 ![Liste activité.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-49d3aeab.jpg)
 
@@ -379,19 +355,13 @@ This plugin lets you create users in bulk from a list of email addresses. The us
 
 You can then edit these users in bulk using selection mode (see chapter: [Editing users in bulk](creating-and-managing-users.md))**.**
 
-<aside>
-ℹ️ If you are a piwigo.com customer, this plugin is only available from the Enterprise plan and higher.
-
-</aside>
+!!! info "If you are a Piwigo Cloud customer, this plugin is only available from the Enterprise plan and higher."
 
 ## Add User Note: Adding a comment to a user
 
 To add a note or a comment to a user, you can activate the **Add User Note** plugin.
 
-<aside>
-ℹ️ If you are a piwigo.com customer, this plugin is only available from the Team plan and higher.
-
-</aside>
+!!! info "If you are a piwigo.com customer, this plugin is only available from the Team plan and higher"
 
 This plugin adds a “Notes” tab to a user's edit window.
 
@@ -405,10 +375,7 @@ When a note has been entered on a user, an icon appears next to its name in the 
 
 You can create custom fields associated with users.
 
-<aside>
-💡 If you are a piwigo.com plan customer, this plugin is only available from the Team plan and higher.
-
-</aside>
+!!! info "If you are a piwigo.com plan customer, this plugin is only available from the Team plan and higher."
 
 To do this, you need to activate the User Custom Fields plugin.
 

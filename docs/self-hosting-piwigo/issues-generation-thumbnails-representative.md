@@ -1,9 +1,6 @@
 # Issues with generating thumbnails and representatives
 
-<aside>
-💡 Read also: [Importing photos into Piwigo](../import-and-manage-photos/importing-photos-into-piwigo.md)
-
-</aside>
+!!! tip "Read also: [Importing photos into Piwigo](../import-and-manage-photos/importing-photos-into-piwigo.md)"
 
 When you upload files to Piwigo, there is a whole process at work. Files are uploaded to the server but also registered in the database, and some other files are generated on the go:
 
@@ -14,10 +11,8 @@ Thumbnails and representative generation can fail if something is not configured
 
 If you manage your server by yourself, you might need to investigate to  make it work properly: that’s what we will explain in this article.
 
-<aside>
-⚠️ This article is only for webmasters of a self hosted Piwigo library. If you are a [piwigo.com](http://piwigo.com) customer, you are not concerned: the hosting environment on piwigo.com is optimized.
-
-</aside>
+!!! warning "Warning :"
+    This article is only for webmasters of a self hosted Piwigo library. If you are a [Piwigo Cloud](http://piwigo.org) customer, you are not concerned: the hosting environment on Piwigo Cloud is optimized.
 
 ## 1- Photo thumbnails generation issues
 
@@ -27,10 +22,8 @@ To be sure, go to the batch manager in the administration and select your album.
 
 ### Check if an error is returned by the i.php url
 
-<aside>
-ℹ️ Piwigo calls i.php to generate the resized picture in ./_data/i/, then directly calls the resized picture from ./_data/i/. Many problem may appear: an overloading of the server, a picture that is too big or with a wrong extension, not enough permission on files/folders etc.
-
-</aside>
+!!! info "Info :"
+    Piwigo calls `i.php` to generate the resized picture in `./_data/i/`, then directly calls the resized picture from `./_data/i/`. Many problem may appear: an overloading of the server, a picture that is too big or with a wrong extension, not enough permission on files/folders etc.
 
 In the Batch Manager, right-click on a failed picture then “Display the picture” or “copy the url to the picture”, from your browser. You can also try to display the source code of the page (Ctrl+U usually) and search (Ctrl+F) for an url with “i.php”. Then go to this url with your browser and note any error message displayed.
 
@@ -70,10 +63,8 @@ To check which Graphics Library is used on your environment, you can go to the a
 
 ![ext-image-magick.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-7b656060.png)
 
-<aside>
-⚠️ Warning! Your server may not be using ImageMagick, but Imagick, a PHP feature that "encapsulates" ImageMagick, but does not generate previews for certain file formats. Be sure to use External Image Magick.
-
-</aside>
+!!! warnign "Warning :"
+    Your server may not be using ImageMagick, but Imagick, a PHP feature that "encapsulates" ImageMagick, but does not generate previews for certain file formats. Be sure to use External Image Magick.
 
 ## 2- Video thumbnails generation issues
 
@@ -96,10 +87,8 @@ $conf['ffmpeg_dir'] = '../../apps/ffmpeg/';
 
 If you need more technical support on this subject, check the [VideoJS documentation on GitHub](https://github.com/Piwigo/piwigo-videojs/wiki/How-to-add-videos#step-2-install): you will find detailed instruction about **ffmpeg** installation.
 
-<aside>
-⚠️ If ffmpeg is not available on your web hosting, you can not manage videos properly with your Piwigo. We recommend to switch to another web hoster.
-
-</aside>
+!!! warning "Warning :"
+    If ffmpeg is not available on your web hosting, you can not manage videos properly with your Piwigo. We recommend to switch to another web hoster.
 
 ## 3- Preview issues with some files type (PDF, PSD, HEIC…)
 

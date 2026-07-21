@@ -20,19 +20,14 @@ The people involved will receive an email containing a link to the album, along 
 
 ![Email de notification.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-fed62f4c.jpg)
 
-<aside>
-ℹ️ Warning: before sending a notification, remember to make sure users have access to this album in the Permissions tab.
-
-</aside>
+!!! warning "Warning :"
+    Before sending a notification, remember to make sure users have access to this album in the Permissions tab.
 
 ## Global notifications
 
 You can also set up emails to inform users of all the new content in the gallery since their last login.
 
-<aside>
-ℹ️ Warning: only users who have the "Webmaster" status can access this feature.
-
-</aside>
+!!! warning "Warning : only users who have the "Webmaster" status can access this feature."
 
 To do this, go into Users > Notification.
 
@@ -84,10 +79,7 @@ Once this plugin has been activated, all notification emails sent by Piwigo will
 
 Therefore, the notification emails will be delivered properly.
 
-<aside>
-ℹ️ Since February 2024, Protect Notif is activated by default on all new accounts created on piwigo.com.
-
-</aside>
+!!! info "Since February 2024, Protect Notif is activated by default on all new accounts created on Piwigo Cloud."
 
 Article summary
 

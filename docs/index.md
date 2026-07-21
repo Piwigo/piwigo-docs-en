@@ -53,5 +53,3 @@ Read the article below to learn how to browse this website and find answers to y
 The modification history for this documentation is listed on the :books: [Modification history](modification-history.md) page
 
 If you are looking for the documentation for developers, please go to the :fontawesome-brands-github: [Piwigo GitHub page](https://github.com/Piwigo/Piwigo/wiki).
-
--

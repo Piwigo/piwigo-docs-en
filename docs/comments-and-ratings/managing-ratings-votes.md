@@ -25,12 +25,10 @@ It lets you view all photos that have been rated, sorted by score (from highest 
 
 ![Mieux notées.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-3f36fdac.jpg)
 
-<aside>
-ℹ️ **Why use a weighted score rather than an average rating?**
+!!! info "Why use a weighted score rather than an average rating?"
+    
+    If we use the average rating, a photo with one 5/5 rating will be considered as having a better rating than a photo with 500 ratings and an average of 4,8/5. In a competition setting, this is not relevant.
 
-If we use the average rating, a photo with one 5/5 rating will be considered as having a better rating than a photo with 500 ratings and an average of 4,8/5. In a competition setting, this is not relevant.
-
-</aside>
 
 ## Managing ratings in the administration
 

@@ -122,10 +122,7 @@ This way, you will be able to view all downloads for one photo for the period of
 
 To view the detailed history of all the user's actions in Piwigo's administration, you simply need to go to the Activity tab on the Users page.
 
-<aside>
-ℹ️ If you are a piwigo.com customer, this feature is only available from the Team plan and higher.
-
-</aside>
+!!! info "If you are a Piwigo Cloud customer, this feature is only available from the Team plan and higher"
 
 This page shows all activities performed by users in your Piwigo gallery:
 
@@ -178,10 +175,8 @@ Once this plugin has been activated, it allows you to connect Piwigo to your ext
 
 You can choose the code's location (header or footer); you can also choose to exclude administrators or users who are not logged in from the statistics.
 
-<aside>
-⚠️ When using statistics tools such as Google Analytics, you must obtain the consent of visitors in your gallery. We suggest you follow the recommendations from the authorities of your visitors' countries in terms of data tracking and user consent collection
-
-</aside>
+!!! warning "Warning"
+    When using statistics tools such as Google Analytics, you must obtain the consent of visitors in your gallery. We suggest you follow the recommendations from the authorities of your visitors' countries in terms of data tracking and user consent collection
 
 ## **No Stats for Robots:** Excluding robots from the statistics
 

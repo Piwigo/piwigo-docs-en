@@ -29,10 +29,7 @@ You can also create a tag directly each time you are able to assign a tag to a p
 
 If you need to import a list of existing tags into your Piwigo gallery, or create several tags quickly, simply activate the "Add tags mass" plugin.
 
-<aside>
-ℹ️ If you are a piwigo.com customer, this plugin is only available from the Team plan and higher.
-
-</aside>
+!!! info "If you are a piwigo.com customer, this plugin is only available from the Team plan and higher"
 
 Once this plugin has been activated, go to the plugin's configuration to add tags in bulk.
 
@@ -40,10 +37,7 @@ Once this plugin has been activated, go to the plugin's configuration to add tag
 
 Simply add tags one after the other, line by line, in the form, and click on Submit to save them.
 
-<aside>
-💡 You can copy and paste a tag list into this form from a spreadsheet (Excel for example).
-
-</aside>
+!!! info "You can copy and paste a tag list into this form from a spreadsheet (Excel for example)."
 
 ### Importing tags from your IPTC keywords
 
@@ -53,10 +47,7 @@ These keywords are part of your photos' IPTC metadata, and they can be imported 
 
 This is the case by default: if you want to edit these settings, and you are a piwigo.com plan customer, you need to contact support.
 
-<aside>
-ℹ️ Warning! Piwigo does not handle the import of tags you may assign to a photo from MacOS's Finder.
-
-</aside>
+!!! warning "Piwigo does not handle the import of tags you may assign to a photo from MacOS's Finder."
 
 ## How do I associate tags with my photos?
 
@@ -84,10 +75,7 @@ If you want to create a new tag, simply enter its name in the input area. The "C
 
 ![Création de tag.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-4fae74ae.jpg)
 
-<aside>
-ℹ️ Remember to save your changes in order for them to be applied to your photo!
-
-</aside>
+!!! info "Remember to save your changes in order for them to be applied to your photo!"
 
 ### Associating tags with photos in bulk with the batch manager
 

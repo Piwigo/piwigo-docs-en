@@ -2,10 +2,8 @@
 
 There are many ways to import files into Piwigo.
 
-<aside>
-ℹ️ Most of the time, we are talking about photos, but what applies to photos also applies to every other image, video and document type in general (see article: [The different file formats in Piwigo](file-formats-compatible-piwigo.md)).
-
-</aside>
+!!! tip "Tip"
+    Most of the time, we are talking about photos, but what applies to photos also applies to every other image, video and document type in general (see article: [The different file formats in Piwigo](file-formats-compatible-piwigo.md)).
 
 This article allows you to discover how to add files:
 
@@ -13,10 +11,7 @@ This article allows you to discover how to add files:
 - from your gallery (for users that aren’t administrators)
 - from other sources
 
-<aside>
-⚠️ Some options, such as FTP upload, are only available to users who are using a self-hosted gallery.
-
-</aside>
+!!! warning "Some options, such as FTP upload, are only available to users who are using a self-hosted gallery."
 
 ## Importing photos from Piwigo's administration
 
@@ -176,10 +171,7 @@ Do you have photos on a Flickr account and wish to upload them to Piwigo? That's
 
 To do this, install the Flickr2Piwigo plugin.
 
-<aside>
-💡 If you are using a self-hosted gallery, make sure to have the latest version of the plugin.
-
-</aside>
+!!! warning "If you are using a self-hosted gallery, make sure to have the latest version of the plugin."
 
 The plugin setup page explains the various steps to connect your Piwigo gallery to Flickr.
 

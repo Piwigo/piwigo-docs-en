@@ -12,10 +12,7 @@ If you are using the Bootstrap Darkroom theme, the login button opens a modal wi
 
 ![Login BD.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-263eca8d.jpg)
 
-<aside>
-⚠️ Depending on the theme and your gallery's customization, the login screen might be different from what is shown in the previous images.
-
-</aside>
+!!! tip "Depending on the theme and your gallery's customization, the login screen might be different from what is shown in the previous images."
 
 The URL of your Piwigo log in page is [`mygallery.com`](http://mygallery.com)/identification.php, `mygallery.com` representing the root URL of your gallery. 
 
@@ -96,10 +93,8 @@ To learn how to create a user in the administration, [read this article](creatin
 
 If the option to "Allow user registration" has been activated, any visitor of the gallery will be able to create their account.
 
-<aside>
-ℹ️ To learn more about allowing or disallowing account creation for gallery visitors, [read this article](creating-and-managing-users.md).
+!!! info "To learn more about allowing or disallowing account creation for gallery visitors, [read this article](creating-and-managing-users.md)."
 
-</aside>
 
 To create a new account on a Piwigo gallery, you need to click on Login.
 
@@ -107,15 +102,11 @@ A "Register" button lets you create a new account.
 
 To create a new account, you need to give a username, an email and a password.
 
-<aside>
-ℹ️ If you want to add custom fields to the account creation form, you need to activate the User Custom Fields plugin. [Learn more](creating-and-managing-users.md)
+!!! info "If you want to add custom fields to the account creation form, you need to activate the User Custom Fields plugin. [Learn more](creating-and-managing-users.md)"
 
-</aside>
 
-<aside>
-ℹ️ If you want to avoid the creation of fake users by robots, you can monitor account creation using a Captcha input. To do this, you need to activate the **Crypto Captcha** plugin. [Learn more](creating-and-managing-users.md)
+!!! info "If you want to avoid the creation of fake users by robots, you can monitor account creation using a Captcha input. To do this, you need to activate the **Crypto Captcha** plugin. [Learn more](creating-and-managing-users.md)"
 
-</aside>
 
 User accounts created independently bu users on the gallery are not administrators but simple Users. To learn more about user statuses, [read this article](user-statuses.md).
 
@@ -142,19 +133,13 @@ There are two ways to do this: with the **LDAP Login** plugin and with the **Mic
 
 This plugin lets you connect Piwigo to an LDAP directory.
 
-<aside>
-⚠️ If you are a piwigo.com customer, this plugin is only available from the VIP plan and higher.
-
-</aside>
+!!! info "If you are a Piwigo Cloud customer, this plugin is only available from the VIP plan and higher."
 
 ### Microsoft 365 connect: connecting Piwigo to an Azure Active Directory
 
 This plugin lets you connect Piwigo to an Azure Active Directory.
 
-<aside>
-⚠️ If you are a piwigo.com customer, this plugin is only available from the VIP plan and higher.
-
-</aside>
+!!! info "If you are a Piwigo Cloud customer, this plugin is only available from the VIP plan and higher."
 
 This way, users can user their Microsoft 365 account to log into Piwigo.
 
@@ -165,10 +150,7 @@ This way, users can user their Microsoft 365 account to log into Piwigo.
 
 The **Password Policy** plugin lets you set up security rules on passwords: strength score, renewal policy, management of failed login attempts…
 
-<aside>
-⚠️ If you are a piwigo.com customer, this plugin is only available from the VIP plan and higher.
-
-</aside>
+!!! info "If you are a Piwigo Cloud customer, this plugin is only available from the VIP plan and higher."
 
 Once the Password Policy plugin has been activated in your Piwigo gallery, go to its configuration.
 
@@ -185,10 +167,7 @@ A score below 100 is considered to be weak. A score between 100 and 500 is withi
 
 - Test a password and obtain its score
     
-    <aside>
-    ℹ️ For example, the password `piwigo12` gets a weak score (48) while the password `Xhj89^h5M%` gets an average score (286).
-    
-    </aside>
+!!! info "For example, the password `piwigo12` gets a weak score (48) while the password `Xhj89^h5M%` gets an average score (286)."
     
 - Set whether or not the password reinforcement rule is activated for administrators
 - Activate the password renewal rule (in this case, the administrator will be able to force users to renew their password)

@@ -10,10 +10,8 @@ This way, when a user is logged into your gallery, they are only viewing albums 
 
 But in some cases, you might need to manage a finer level of rights, file-by-file, beyond albums. This is what "privacy levels" are useful for.
 
-<aside>
-⚠️ Warning! This is one of Piwigo's advanced features, which we don't recommend using if you are a beginner.
+!!! warning "Warning!" This is one of Piwigo's advanced features, which we don't recommend using if you are a beginner.
 
-</aside>
 
 ## Privacy levels: how does it work?
 
@@ -47,10 +45,9 @@ And users with the "None" status will only have access to files accessible for "
 
 This is a "cascading" model of right management, somewhat hard to understand and relatively "rigid", which is why we tend to not recommend it to beginner-level users.
 
-<aside>
-ℹ️ If you don't like the Admin, Family, Friends, and Contacts labels, you should know that they can be customized by reaching out to support if you have a piwigo.com account, or by editing them in the database if your Piwigo is self-hosted. However, adding another privacy level is impossible.
+!!! info "Info :"
+    If you don't like the Admin, Family, Friends, and Contacts labels, you should know that they can be customized by reaching out to support if you have a Piwigo Cloud account, or by editing them in the database if your Piwigo is self-hosted. However, adding another privacy level is impossible.
 
-</aside>
 
 Article summary
 

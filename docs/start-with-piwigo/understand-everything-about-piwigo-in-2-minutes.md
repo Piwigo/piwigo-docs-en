@@ -1,11 +1,6 @@
 # Introduction: understand everything about Piwigo in 2 minutes
 
-<aside>
-💡 Read also:
-
-[Get started with Piwigo in 15 minutes](get-started-with-piwigo-in-15-minutes.md)
-
-</aside>
+!!! info "Read also: [Get started with Piwigo in 15 minutes](get-started-with-piwigo-in-15-minutes.md)"
 
 ## What is Piwigo?
 

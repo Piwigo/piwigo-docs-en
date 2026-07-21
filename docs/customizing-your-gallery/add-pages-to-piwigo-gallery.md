@@ -137,10 +137,7 @@ This plugin forces users to enter a Captcha before sending the form. Several opt
 
 ![Plugin CC.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-5c63613e.jpg)
 
-<aside>
-💡 This plugin also allows you to add a Captcha for entering a comment or creating a new user.
-
-</aside>
+!!! info "This plugin also allows you to add a Captcha for entering a comment or creating a new user."
 
 ### ⚠️ Frequent problems with the Contact Form plugin
 

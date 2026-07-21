@@ -2,10 +2,7 @@
 
 Do you have an important number of photos and you want to tag them quickly and automatically? This is possible using the Tag Recognition plugin.
 
-<aside>
-⚠️ If you are a piwigo.com customer, this plugin is only available from the Enterprise plan and higher.
-
-</aside>
+!!! info "If you are a Piwigo Cloud customer, this plugin is only available from the Enterprise plan and higher."
 
 ## Choosing which API to use
 
@@ -20,10 +17,7 @@ Indeed, the plugin uses a third-party image recognition API, which handles photo
 
 The choice depends on your preferences and the amount of photos that need to be analyzed. Indeed, these two solutions offer a free plan, and fee-based offers above a certain amount. All the details are available on the providers' websites.
 
-<aside>
-⚠️ Since this plugin uses an external API, we cannot ensure that your data won't be used or sold. We recommend checking the data policy for each external API that you use with this plugin.
-
-</aside>
+!!! info "Since this plugin uses an external API, we cannot ensure that your data won't be used or sold. We recommend checking the data policy for each external API that you use with this plugin."
 
 ## Setting up Tag Recognition with Imagga
 

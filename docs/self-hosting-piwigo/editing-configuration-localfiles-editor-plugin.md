@@ -8,10 +8,8 @@ These settings are stored in a configuration file: `config_default.inc.php`
 
 This file must **NEVER** be edited: however, you can *overload it by using the* **LocalFiles Editor** *plugin*.
 
-<aside>
-💡 We very strongly recommend you don't edit Piwigo's files directly through FTP. Using the **LocalFiles Editor** plugin has many benefits, as you will see.
-
-</aside>
+!!! tip "Tip :"
+    We very strongly recommend you don't edit Piwigo's files directly through FTP. Using the **LocalFiles Editor** plugin has many benefits, as you will see.
 
 ## Activating the LocalFiles Editor plugin
 
@@ -52,18 +50,13 @@ Let's take the previous example again: let's imagine that you want to activate t
 
 You only need to copy the section that corresponds to the `'enable_formats'` setting and paste it in the Local Config tab of LocalFiles Editor. You can now replace the `false` value with `true` just like the example below.
 
-<aside>
-⚠️ Warning! The file must always start with `<?php` and end with `?>`.
-
-</aside>
+!!! warning "Warning! The file must always start with `<?php` and end with `?>`."
 
 ![LFE Code.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-cf33c6f7.jpg)
 
 Save the file: the setting is updated and the management of multiple formats is activated.
 
-<aside>
-💡 We recommend you also copy the explanation in the comments above the line that contains the configuration setting. This way, it will be easier for you to remember the role of each setting.
-
-</aside>
+!!! info "Info :"
+    We recommend you also copy the explanation in the comments above the line that contains the configuration setting. This way, it will be easier for you to remember the role of each setting.
 
 Article summary

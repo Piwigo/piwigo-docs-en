@@ -14,14 +14,12 @@ The most used action within a "normal" use of Piwigo is the "Lock gallery" actio
 
 The other actions are mainly used to delete unused data or refresh the information displayed on Piwigo.
 
-<aside>
-💡 **Why may these actions be necessary?**
+!!! info "Why may these actions be necessary?"
 
-In order to optimize page loading times, Piwigo is using cached data. For example, instead of counting the number of photos in each album every time a page is reloaded, this information is stored in the database. In theory, this information is always correct, but a mistake can sometimes happen and the cached information becomes false. In this case, deleting and regenerating the cache can be useful.
+    In order to optimize page loading times, Piwigo is using cached data. For example, instead of counting the number of photos in each album every time a page is reloaded, this information is stored in the database. In theory, this information is always correct, but a mistake can sometimes happen and the cached information becomes false. In this case, deleting and regenerating the cache can be useful.
+    
+    Furthermore, some data become useless with time. Deleting them from the database frees up storage space.
 
-Furthermore, some data become useless with time. Deleting them from the database frees up storage space.
-
-</aside>
 
 ### Actions on the gallery
 
@@ -75,19 +73,15 @@ This action lets you delete all tags that aren't associated with any photo.
 
 This action deletes the entire history of visits. The search screen in the history (accessible from the Tools > History > Search menu) will not show any data anymore.
 
-<aside>
-⚠️ Warning: all data will be lost, without any possibility of getting them back. However, the graphs available from the Statistics tab will still be displayed, except if you also delete the history summary (next paragraph).
+!!! danger "All data will be lost, without any possibility of getting them back. However, the graphs available from the Statistics tab will still be displayed, except if you also delete the history summary (next paragraph)"
 
-</aside>
 
 - **Purge history summary**
 
 This action deletes the statistical graphs available from the Tools > History > Statistics menu.
 
-<aside>
-⚠️ If you don't delete the history details (previous paragraph) along with it, the graphs will be recalculated from the information located in the detailed history.
+!!! warning "If you don't delete the history details (previous paragraph) along with it, the graphs will be recalculated from the information located in the detailed history"
 
-</aside>
 
 - **Purge sessions**
 

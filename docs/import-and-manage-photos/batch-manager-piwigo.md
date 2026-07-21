@@ -162,10 +162,7 @@ This way, you will be able to view all photos without a description in the blink
 
 To filter photos based on the user who uploaded them to Piwigo, you need to install the **Batch Manager, Added By** plugin.
 
-<aside>
-ℹ️ If you are a piwigo.com plan customer, this plugin is only available from the Team plan and higher.
-
-</aside>
+!!! info "If you are a Piwigo Cloud plan customer, this plugin is only available from the Team plan and higher"
 
 Once activated, this plugin adds a new "Added by" filter in the batch manager.
 
@@ -256,10 +253,8 @@ To do this, go into the Single mode tab.
 
 This page shows all the files that correspond to the filters you applied in the first tab.
 
-<aside>
-⚠️ If you edit these filters, make sure to click on "Refresh photo set": this will also update the selection shown in the "Single mode" tab.
-
-</aside>
+!!! warning "Warning"
+    If you edit these filters, make sure to click on "Refresh photo set": this will also update the selection shown in the "Single mode" tab.
 
 This way, you can edit the title, the author, the creation date, the privacy level, edit tags, edit associated album(s) edit the description for each file.
 

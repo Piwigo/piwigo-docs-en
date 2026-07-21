@@ -6,10 +6,7 @@ Multiple formats allow you to offer different versions when downloading a single
 - a JPG version, a PSD version and a PDF version
 - etc.
 
-<aside>
-ℹ️ If you are a piwigo.com customer, this plugin is only available from the Enterprise plan and higher.
-
-</aside>
+!!! info "If you are a piwigo.com customer, this plugin is only available from the Enterprise plan and higher."
 
 ## How do I activate multiple formats ?
 

@@ -244,10 +244,7 @@ If you manage a self hosted Piwigo gallery, you just have to edit the configurat
 
 If you want to replace some IPTC metadata in the files imported to your gallery with information written in the Piwigo properties (title, description, authors, tags), you need to install the **Write Metadata** plugin.
 
-<aside>
-ℹ️ If you are a piwigo.com plan customer, this plugin is only available from the Team plan and higher.
-
-</aside>
+!!! info "If you are a Piwigo Cloud plan customer, this plugin is only available from the Team plan and higher"
 
 ### Exif View: Translate your photos' EXIF values
 
@@ -265,14 +262,11 @@ Unlike the metadata, it's up to you to set your files' properties in Piwigo. You
 
 ![File properties.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-1c3748d1.jpg)
 
-<aside>
-ℹ️ To learn more about photo editing, read the following articles:
-
-[Modifying or deleting photos](modifying-or-deleting-photos.md)
-
-[Batch management: Modifying and managing a selection of photos](batch-manager-piwigo.md)
-
-</aside>
+!!! info "To learn more about photo editing, read the following articles :"
+    
+    - [Modifying or deleting photos](modifying-or-deleting-photos.md)
+    
+    - [Batch management: Modifying and managing a selection of photos](batch-manager-piwigo.md)
 
 Here are the properties and informations Piwigo offers by default to label a file.
 
@@ -379,10 +373,8 @@ But you can set a more refined privacy level by selecting another option in the 
 
 ![Other privacy levels.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-2737cf4d.png)
 
-<aside>
-⚠️ Warning: this feature should not be mistaken for the permissions by album! This is an advanced feature of Piwigo that might be somewhat hard to understand.
-
-</aside>
+!!! warning "Warning"
+    This feature should not be mistaken for the permissions by album! This is an advanced feature of Piwigo that might be somewhat hard to understand.
 
 To learn more about privacy levels, [read this article](../managing-users/privacy-levels.md).
 
@@ -420,10 +412,7 @@ Do you want to add custom properties to your gallery, or even edit the display o
 
 To do this, you need to install the **Manage Properties Photos** plugin.
 
-<aside>
-ℹ️ If you are a piwigo.com plan customer, this plugin is only available from the Enterprise plan and higher.
-
-</aside>
+!!! info "If you are a Piwigo Cloud plan customer, this plugin is only available from the Enterprise plan and higher"
 
 Once Manage Properties Photos is activated in your gallery, go in the plugin's configuration.
 
@@ -541,10 +530,7 @@ Do you wish to update the properties of a set of photos from an existing table (
 
 To do this, you need to install the **Properties Mass Update** plugin.
 
-<aside>
-ℹ️ If you are a piwigo.com plan customer, this plugin is only available from the Enterprise plan and higher.
-
-</aside>
+!!! info "If you are a Piwigo Cloud plan customer, this plugin is only available from the Enterprise plan and higher"
 
 ### Show Photo Identifier: Displaying the photo's identifier among properties
 
@@ -564,10 +550,7 @@ Adding an expiring date to a file can be necessary, to manage a license's validi
 
 To do this, you need to install the **Expiry Date** plugin.
 
-<aside>
-ℹ️ If you are a piwigo.com plan customer, this plugin is only available from the Enterprise plan and higher.
-
-</aside>
+!!! info "If you are a Piwigo Cloud plan customer, this plugin is only available from the Enterprise plan and higher"
 
 Once the plugin has been activated, a new "Expiry date" field appears on each photo, as well as in the batch manager.
 

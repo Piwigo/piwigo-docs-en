@@ -8,17 +8,12 @@ Once you are on your photo's page, click on the pen-shaped button in the tool ba
 
 ![edit-photo.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-c6929531.png)
 
-<aside>
-ℹ️ Depending on your theme, the button will not always appear in the same place. If you are the administrator and you don't see the edit button in your gallery, it means that this button was hidden. To display it, go in Piwigo's administration, into Configuration > Options, in the "Display" tab, then the "Photo page" section, and select "Activate icon "Edit photo"". [Learn more about Piwigo's configuration](../customizing-your-gallery/customization-options-for-your-gallery.md)
-
-</aside>
+!!! info "Info"
+    Depending on your theme, the button will not always appear in the same place. If you are the administrator and you don't see the edit button in your gallery, it means that this button was hidden. To display it, go in Piwigo's administration, into Configuration > Options, in the "Display" tab, then the "Photo page" section, and select "Activate icon "Edit photo"". [Learn more about Piwigo's configuration](../customizing-your-gallery/customization-options-for-your-gallery.md)
 
 The photo editing page will then open, which will allow you to edit its properties.
 
-<aside>
-ℹ️ You can also modify a photo from the administration, namely from the [batch management](batch-manager-piwigo.md) screen.
-
-</aside>
+!!! info "You can also modify a photo from the administration, namely from the [batch management](batch-manager-piwigo.md) screen."
 
 ![image.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-ee638764.png)
 
@@ -51,10 +46,7 @@ On the right part of the screen, your file's properties are shown, which you can
 
 ![image.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-4c7c49b8.png)
 
-<aside>
-⚠️ Don't forget to click on the "Save Settings" button to save your changes!
-
-</aside>
+!!! warning "Don't forget to click on the "Save Settings" button to save your changes!"
 
 To learn more about your files' properties, their role, understand why and how to edit them, and discover advanced options, read the [Managing your files' properties and metadata](properties-metadata-photos-piwigo.md) article.
 

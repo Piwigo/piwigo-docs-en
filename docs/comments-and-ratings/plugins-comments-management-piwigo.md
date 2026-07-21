@@ -20,10 +20,8 @@ This plugin lets you choose a set of emotes to add to your gallery. When enterin
 
 ![Smilies.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-f370aea2.jpg)
 
-<aside>
-ℹ️ Note: these emotes are the same kind of emotes you would find on discussion forums. They are not to be mistaken for emojis, which we use far more nowadays. Piwigo doesn't have an emoji keyboard.
-
-</aside>
+!!! note "Note"
+    These emotes are the same kind of emotes you would find on discussion forums. They are not to be mistaken for emojis, which we use far more nowadays. Piwigo doesn't have an emoji keyboard.
 
 ## **Subscribe to Comments: Enable notifications for anyone when new comments are posted**
 
@@ -75,10 +73,8 @@ To do this, simply install the **RV Akismet** plugin.
 
 Once the plugin has been activated, you need to create an Akismet account: this will give you access to an API key that you will need to enter in the plugin's configuration.
 
-<aside>
-ℹ️ You can create a free Akismet account, but some options require paying for a subscription. Free accounts are only for personal, non-commercial use.
-
-</aside>
+!!! info "Info"
+    You can create a free Akismet account, but some options require paying for a subscription. Free accounts are only for personal, non-commercial use.
 
 The plugin gives you a choice between two options:
 

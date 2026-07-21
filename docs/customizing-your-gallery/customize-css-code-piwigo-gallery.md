@@ -14,10 +14,7 @@ If your gallery uses the Bootstrap Darkroom theme, you can add custom CSS code i
 
 The **LocalFiles Editor** plugin lets you edit Piwigo files directly from the administration.
 
-<aside>
-⚠️ Warning: this feature is for experienced users only!
-
-</aside>
+!!! warning "This feature is for experienced users only!"
 
 For piwigo.com customers, this plugin only lets you add custom CSS code.
 
@@ -31,10 +28,9 @@ You then have access to a window that lets you load the CSS files of the themes 
 
 By adding custom CSS code with this method, you are making sure that Piwigo's code doesn't get "crushed": therefore, it is the best way to proceed, even if you have access to Piwigo's files (through FTP).
 
-<aside>
-⚠️ If you are using a self-hosted Piwigo gallery, don't edit the setup files directly! Otherwise, your changes will be crushed in the next update.
+!!! warning "Warning"
 
-</aside>
+    If you are using a self-hosted Piwigo gallery, don't edit the setup files directly! Otherwise, your changes will be crushed in the next update.
 
 Article summary
 

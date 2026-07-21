@@ -26,10 +26,8 @@ As soon as a person visits your gallery's website on the Internet without loggin
 
 For each private album, you will be able to decide who, among users and user groups, is allowed to view it.
 
-<aside>
-ℹ️ When creating a new root album in Piwigo, it is always public by default. If you want to change this behavior, contact support if you are a piwigo.com customer. If not, add the following setting to your configuration using [LocalFiles Editor](../self-hosting-piwigo/editing-configuration-localfiles-editor-plugin.md): `$conf['newcat_default_status'] = 'private';`
-
-</aside>
+!!! info "Info :"
+    When creating a new root album in Piwigo, it is always public by default. If you want to change this behavior, contact support if you are a piwigo.com customer. If not, add the following setting to your configuration using [LocalFiles Editor](../self-hosting-piwigo/editing-configuration-localfiles-editor-plugin.md): `$conf['newcat_default_status'] = 'private';`
 
 ### Editing permissions on an album
 
@@ -55,17 +53,12 @@ You have the option to grant access rights:
 
 To learn more about user groups, [read this article](../managing-users/user-groups.md).
 
-<aside>
-⚠️ Warning! If an album is private, no one will see it in the gallery, not even administrators! Therefore, make sure to grant yourself the rights on any private albums you create.
-
-</aside>
+!!! warning "Warning!"
+    If an album is private, no one will see it in the gallery, not even administrators! Therefore, make sure to grant yourself the rights on any private albums you create.
 
 The "Apply to sub-albums" checkbox lets you edit an album's permissions all at once, and apply these changes to all of its existing sub-albums.
 
-<aside>
-⚠️ Warning: this change doesn't apply to sub-albums that will be created in the future.
-
-</aside>
+!!! warning "Warning: this change doesn't apply to sub-albums that will be created in the future."
 
 ### Rules for permissions in the album hierarchy
 
@@ -81,10 +74,8 @@ Apart from the status (private / public), sub-albums don't automatically inherit
 
 Let's take an example: you have a private album, accessible to users X and Y. If you create a sub-album of this private album, it will not be accessible to users X and Y by default (only to administrators).
 
-<aside>
-ℹ️ If you want sub-albums to automatically inherit their parent albums' permissions, contact support if you are a piwigo.com customer. Otherwise, add the following setting to your configuration using [LocalFiles Editor](../self-hosting-piwigo/editing-configuration-localfiles-editor-plugin.md): `$conf['inheritance_by_default'];`
-
-</aside>
+!!! info "Info :"
+    If you want sub-albums to automatically inherit their parent albums' permissions, contact support if you are a piwigo.com customer. Otherwise, add the following setting to your configuration using [LocalFiles Editor](../self-hosting-piwigo/editing-configuration-localfiles-editor-plugin.md): `$conf['inheritance_by_default'];`
 
 ## Managing album access in bulk (public / private)
 
@@ -96,10 +87,7 @@ The first tab lets you easily switch an album from public status to private stat
 
 On this screen, you can see the list of all albums and sub-albums in your photo library in the column that corresponds to their status (Public and Private).
 
-<aside>
-ℹ️ Sub-albums are easily recognizable since their name appears as follows: Root album / Sub-album 1 / Sub-album 2
-
-</aside>
+!!! info "Sub-albums are easily recognizable since their name appears as follows: Root album / Sub-album 1 / Sub-album 2"
 
 To switch an album from public status to private status, you simply need to click on this album and click on the arrow below the first column: it is then moved to the "Private" column. To switch a private album to public, it's the opposite!
 
@@ -124,10 +112,8 @@ To lock or unlock a list of albums in your gallery, go in the administration, in
 
 The second tab works exactly the same way as the first one (see previous paragraph), except it allows you to lock / unlock albums.
 
-<aside>
-ℹ️ A locked album is inaccessible from the gallery, except for administrators. Most often, the locked status is used when an album is not yet ready to be made public in the gallery, because an administrator is working on it (preparation before publishing, maintenance...). This is therefore a "working", temporary status.
-
-</aside>
+!!! info "Info :"
+    A locked album is inaccessible from the gallery, except for administrators. Most often, the locked status is used when an album is not yet ready to be made public in the gallery, because an administrator is working on it (preparation before publishing, maintenance...). This is therefore a "working", temporary status.
 
 To lock or unlock a single album, you can also simply edit this album.
 
@@ -145,10 +131,7 @@ By default, in Piwigo, users who are authorized to download photos can download 
 
 If you need to manage the rights for each album, you can install the **Download Permissions** plugin.
 
-<aside>
-ℹ️ If you are a piwigo.com customer, this plugin is only available from the Enterprise plan and higher.
-
-</aside>
+!!! info "If you are a Piwigo Cloud customer, this plugin is only available from the Enterprise plan and higher."
 
 It will add a new tab to the Albums > Properties page, allowing you to set which albums users are allowed to download photos in, in the same way as the other tabs.
 

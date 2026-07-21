@@ -69,10 +69,8 @@ If you set it as "default", it will be displayed by default for all new users.
 
 But for each user, you can set which theme is displayed for them specifically: this is why it is possible to activate multiple themes at once.
 
-<aside>
-ℹ️ In the vast majority of cases, users only activate one theme, the same for all users (apart from the Smart Pocket theme, which, when activated, is automatically displayed when viewing the gallery from a mobile device).
-
-</aside>
+!!! info "Info :"
+    In the vast majority of cases, users only activate one theme, the same for all users (apart from the Smart Pocket theme, which, when activated, is automatically displayed when viewing the gallery from a mobile device).
 
 ## Changing the default theme
 
@@ -175,10 +173,7 @@ If you want to make switching themes in your gallery even easier, you can activa
 
 Once activated, this plugin adds a paintbrush-shaped icon in your gallery, which lets you switch themes in one click.
 
-<aside>
-ℹ️ Warning: this icon is visible to all visitors, not only administrators.
-
-</aside>
+!!! warning "Warning : this icon is visible to all visitors, not only administrators."
 
 ![Theme Switch.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-1b953541.jpg)
 
@@ -192,10 +187,8 @@ When this plugin is activated, an additional menu is added when an administrator
 
 ![Admin Tools.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-110f8230.jpg)
 
-<aside>
-ℹ️ This plugin also lets you switch languages with one click or view your gallery as any other user: therefore, it is very useful for testing.
-
-</aside>
+!!! info "Info :"
+    This plugin also lets you switch languages with one click or view your gallery as any other user: therefore, it is very useful for testing.
 
 [Learn more about the Admin Tools plugin](../administration-piwigo/plugins-for-administrators.md)
 

@@ -46,15 +46,10 @@ If you are using a self-hosted gallery, you can add it through the [LocalFiles E
 $conf['picture_ext'] = array('jpg','jpeg','png','gif','webp');
 ```
 
-<aside>
-💡 WebP is the type that's most "accepted by web browsers" to replace JPEG. WebP is supported when importing as well as when displaying, and Piwigo will generate a webp file for each size displayed in your gallery. WebP can replace JPEG with a better quality for a similar size, replace animated GIFs for a fraction of the size, and even replace PNGs with a compression that doesn't destroy the image and transparency.
+!!! tip "Tip"
+    WebP is the type that's most "accepted by web browsers" to replace JPEG. WebP is supported when importing as well as when displaying, and Piwigo will generate a webp file for each size displayed in your gallery. WebP can replace JPEG with a better quality for a similar size, replace animated GIFs for a fraction of the size, and even replace PNGs with a compression that doesn't destroy the image and transparency.
 
-</aside>
-
-<aside>
-⚠️ To accept animated WebP, you might need to update your server's operating system if your gallery is self-hosted.
-
-</aside>
+!!! warning "To accept animated WebP, you might need to update your server's operating system if your gallery is self-hosted"
 
 ### Specific case of the HEIC format
 
@@ -79,10 +74,7 @@ $conf['file_ext'] = array_merge(
   );
 ```
 
-<aside>
-⚠️ To accept HEIC files, you might need to update your server's operating system if your gallery is self-hosted.
-
-</aside>
+!!! warning "To accept HEIC files, you might need to update your server's operating system if your gallery is self-hosted"
 
 ## Video and audio files
 
@@ -96,10 +88,8 @@ Piwigo allows you to import video and audio files using the following extensions
 - .ogv
 - .mp3
 
-<aside>
-ℹ️ If you are using a self-hosted gallery, you need to install and activate the VideoJS plugin to display this file type. If you are a customer of a piwigo.com plan, this plugin is activated by default.
-
-</aside>
+!!! info "Info"
+    If you are using a self-hosted gallery, you need to install and activate the VideoJS plugin to display this file type. If you are a customer of a piwigo.com plan, this plugin is activated by default.
 
 When you upload a file into Piwigo, a preview thumbnail is created using the first image of your video. The video can be viewed from your gallery, using Piwigo's integrated video player. You can play the video using the big "play" button.
 
@@ -124,10 +114,8 @@ $conf['file_ext'] = array_merge(
   );
 ```
 
-<aside>
-⚠️ If are using a self hosted gallery and experience issues with video upload or thumbnail generation, [check this article](../self-hosting-piwigo/issues-generation-thumbnails-representative.md).
-
-</aside>
+!!! info "Info"
+    If are using a self hosted gallery and experience issues with video upload or thumbnail generation, [check this article](../self-hosting-piwigo/issues-generation-thumbnails-representative.md).
 
 ### **🎦 Specific case of MOV videos**
 
@@ -165,10 +153,8 @@ If you are a piwigo.com customer, you can ask support to set up automatic conver
 
 If we activate this option, .mov files imported into Piwigo from the administration will be automatically converted to .mp4. When downloading, the user chooses whether to download the .mov version or the .mp4 version.
 
-<aside>
-⚠️ Warning! If you choose to activate this option, it will use up more space on your storage space, as each video is stored in two versions, and .mov files are very large.
-
-</aside>
+!!! warning "Warning"
+    If you choose to activate this option, it will use up more space on your storage space, as each video is stored in two versions, and .mov files are very large.
 
 You can also choose to convert your .mov files to MP4 format before importing them into Piwigo, which has two advantages:
 
@@ -181,10 +167,8 @@ To find out how to convert a file, read the next chapter.
 
 If you want to import a video file that isn't accepted by Piwigo (an AVI file for example), you simply need to convert your video files to the MP4 format: you can do so with many video editing softwares, or with free online tools [such as this one](https://video.online-convert.com/convert-to-mp4).
 
-<aside>
-ℹ️ We recommend the MP4 file format with a H.264 video codec and AAC audio codec. This way, you can maintain a high quality standard even when the video is compressed. The MP4 files encoded this way weigh less: thus, they use less storage space, and save bandwidth. Lastly, this ensures that it is compatible with video players.
-
-</aside>
+!!! tip "Tip"
+    We recommend the MP4 file format with a H.264 video codec and AAC audio codec. This way, you can maintain a high quality standard even when the video is compressed. The MP4 files encoded this way weigh less: thus, they use less storage space, and save bandwidth. Lastly, this ensures that it is compatible with video players.
 
 ### ⚙️ VideoJS plugin configuration
 
@@ -228,10 +212,8 @@ $conf['file_ext'] = array_merge(
   );
 ```
 
-<aside>
-⚠️ If you're using a self-hosted gallery and are having problems generating thumbnails for PDF files, or viewing AI, PSD, HEIC, TIF or TIFF files, [check this article](../self-hosting-piwigo/issues-generation-thumbnails-representative.md).
-
-</aside>
+!!! info
+    If you're using a self-hosted gallery and are having problems generating thumbnails for PDF files, or viewing AI, PSD, HEIC, TIF or TIFF files, [check this article](../self-hosting-piwigo/issues-generation-thumbnails-representative.md).
 
 ### **Specific case of PDF files in Piwigo**
 
@@ -263,10 +245,7 @@ If you want to offer different file formats for a single image on your gallery (
 
 [Learn more about the multiple formats](multiple-formats-piwigo.md)
 
-<aside>
-ℹ️ If you are a piwigo.com plan customer, this feature is only available from the Enterprise plan and higher.
-
-</aside>
+!!! info "If you are a piwigo.com plan customer, this feature is only available from the Enterprise plan and higher"
 
 ## Embedded Videos: Bring files that are hosted on other platforms (YouTube...) into your gallery
 

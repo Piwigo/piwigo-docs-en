@@ -6,10 +6,8 @@ The Piwigo mobile app for Android can be installed on a smartphone or a tablet t
 
 You can download it on Google Play by searching for Piwigo NG in the search engine.
 
-<aside>
-⚠️ Warning! Other Piwigo apps exist on Google Play: one of them is obsolete, and the other, named "Piwigo Client - Basic", is not an official app. You need to make sure that you are using the **Piwigo NG** app. If you have installed another app, delete it from your phone.
-
-</aside>
+!!! warning "Warning!"
+    Other Piwigo apps exist on Google Play: one of them is obsolete, and the other, named "Piwigo Client - Basic", is not an official app. You need to make sure that you are using the **Piwigo NG** app. If you have installed another app, delete it from your phone.
 
 You can also access it by clicking on this link if you are viewing this page from your phone: [Download the Piwigo app on Google Play](https://play.google.com/store/apps/details?id=com.piwigo.piwigo_ng&gl=FR)
 
@@ -55,10 +53,7 @@ Next, you can use the app to organize your photo library (if you have an adminis
 
 From the app, you can import the photos and videos of your mobile device to new or existing albums very easily.
 
-<aside>
-💡 Warning: you need to have an administrator account in order to add photos to Piwigo from your mobile app.
-
-</aside>
+!!! warning "Warning: you need to have an administrator account in order to add photos to Piwigo from your mobile app."
 
 You can keep using the app while photos are being downloaded in the background.
 

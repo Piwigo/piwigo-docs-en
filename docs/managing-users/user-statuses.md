@@ -21,10 +21,8 @@ However, they don't have access to the gallery's theme configuration, nor the ad
 
 In most organizations, administrators are the photo library's managers: documentalist, communication manager, photographer…
 
-<aside>
-ℹ️ An administrator has access to all albums and all photos in the administration. However, once logged into the web gallery, permissions are applied: they only see public albums or private albums they have access to.
-
-</aside>
+!!! info "Info : "
+    An administrator has access to all albums and all photos in the administration. However, once logged into the web gallery, permissions are applied: they only see public albums or private albums they have access to.
 
 ## 2- **User**
 
@@ -52,10 +50,8 @@ Users with this status can't log into Piwigo.
 
 This status is useful to deactivate a user's account without deleting their history.
 
-<aside>
-⚠️ Warning! Not to be mistaken for the "guest account" or "guest", which is the generic name given to the profile of anonymous visitors (not logged into the gallery): see below
+!!! warning "Not to be mistaken for the "guest account" or "guest", which is the generic name given to the profile of anonymous visitors (not logged into the gallery): see below"
 
-</aside>
 
 ## Special case: the “Guest” user
 
