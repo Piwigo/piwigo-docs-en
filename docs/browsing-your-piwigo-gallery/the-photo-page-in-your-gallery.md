@@ -282,7 +282,7 @@ For an optimal display, here are the options we recommend you use in the Configu
 
 ![Social buttons paramètres.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-0e95eaba.jpg)
 
-!!! info "Info"
+!!! info "Info :"
     If you are using the Bootstrap Darkroom theme, you don't need to use this plugin, since the theme already includes buttons to share to social media.
 
 ### Back2Front: Handle double-sided images
@@ -313,7 +313,7 @@ If you want to prevent users from performing a right click on a photo to downloa
 
 Once this plugin has been activated, the right click will be ineffective on the Photo page, but also on other pages, except for administrators.
 
-!!! warning "Warning"
+!!! warning "Warning :"
     This plugin doesn't guarantee that your images are totally secure. Only setting your albums to private mode protects your photos.
 
 ### Hide title: Hide the photo's name in the breadcrumb trail
@@ -352,7 +352,7 @@ The plugin's configuration page lets you set up some options, such as the number
 
 ![Palette config.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-7830d4e6.jpg)
 
-!!! warning "Warning"
+!!! warning "Warning :"
     Activating the plugin doesn't generate palettes on every image of your photo library. A photo's palette is generated when it is displayed for the first time after activating the plugin. At first, the search by color will then yield very few results since your photos' palettes will not have been generated yet.
 
 Article summary

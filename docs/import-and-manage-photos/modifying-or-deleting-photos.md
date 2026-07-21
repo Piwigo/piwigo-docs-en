@@ -8,7 +8,7 @@ Once you are on your photo's page, click on the pen-shaped button in the tool ba
 
 ![edit-photo.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-c6929531.png)
 
-!!! info "Info"
+!!! info "Info :"
     Depending on your theme, the button will not always appear in the same place. If you are the administrator and you don't see the edit button in your gallery, it means that this button was hidden. To display it, go in Piwigo's administration, into Configuration > Options, in the "Display" tab, then the "Photo page" section, and select "Activate icon "Edit photo"". [Learn more about Piwigo's configuration](../customizing-your-gallery/customization-options-for-your-gallery.md)
 
 The photo editing page will then open, which will allow you to edit its properties.

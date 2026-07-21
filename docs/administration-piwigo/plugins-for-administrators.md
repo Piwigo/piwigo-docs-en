@@ -66,7 +66,7 @@ Therefore, the notification emails will be delivered properly.
 
 The **Download Limits** plugin lets administrators restrict the number of downloads per day on their gallery.
 
-!!! warning "Warning"
+!!! warning "Warning :"
     The maximum number of downloads isn't customizable in Piwigo's interface but in a configuration file. If you are a Piwigo Cloud customer, contact support to set it up.
 
 
@@ -234,7 +234,7 @@ The confirmation is saved in the form of a cookie for which you can choose the v
 
 ![Cookie Consent Config.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-d056bb42.jpg)
 
-!!! warning "Warning"
+!!! warning "Warning :"
     If your gallery is using third-party cookies, such as those from Google Analytics, this banner is not enough to collect the consent of your visitors, since it is only informational (the user can't reject the cookies, nor take back their consent).
 
 

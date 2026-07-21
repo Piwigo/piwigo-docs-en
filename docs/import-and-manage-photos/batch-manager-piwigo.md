@@ -253,7 +253,7 @@ To do this, go into the Single mode tab.
 
 This page shows all the files that correspond to the filters you applied in the first tab.
 
-!!! warning "Warning"
+!!! warning "Warning :"
     If you edit these filters, make sure to click on "Refresh photo set": this will also update the selection shown in the "Single mode" tab.
 
 This way, you can edit the title, the author, the creation date, the privacy level, edit tags, edit associated album(s) edit the description for each file.

@@ -102,7 +102,7 @@ By default, tags are all at the same level, unlike albums: they follow a tree st
 
 However, you can create a tag tree structure with one level using the **Tag Groups** plugin.
 
-!!! info "Info" If you are a piwigo.com customer, this plugin is only available from the Enterprise plan and higher.
+!!! info "Info :" If you are a piwigo.com customer, this plugin is only available from the Enterprise plan and higher.
 
 This plugin lets you create tag groups: for example, a "Color" group, in which you will find one tag per color; or a "City" group in which you will find one tag per city.
 

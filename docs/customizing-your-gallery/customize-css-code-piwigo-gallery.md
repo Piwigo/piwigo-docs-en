@@ -28,7 +28,7 @@ You then have access to a window that lets you load the CSS files of the themes 
 
 By adding custom CSS code with this method, you are making sure that Piwigo's code doesn't get "crushed": therefore, it is the best way to proceed, even if you have access to Piwigo's files (through FTP).
 
-!!! warning "Warning"
+!!! warning "Warning :"
 
     If you are using a self-hosted Piwigo gallery, don't edit the setup files directly! Otherwise, your changes will be crushed in the next update.
 

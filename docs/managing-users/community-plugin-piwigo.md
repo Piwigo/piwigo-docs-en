@@ -54,7 +54,7 @@ Here, choose which space in the gallery contributors can add photos in:
 - In the whole gallery (any album)
 - In a specific album
 
-!!! info "Info"
+!!! info "Info :"
     By default, activating the Community plugin creates a new "Community" album. You can opt for contributors' photos to go first into this album, for an administrator to sort and approve them.
 
 If you select "Apply to sub-albums", users will be allowed to add photos in the chosen album AND its sub-albums.

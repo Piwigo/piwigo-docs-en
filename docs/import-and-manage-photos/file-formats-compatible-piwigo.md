@@ -88,7 +88,7 @@ Piwigo allows you to import video and audio files using the following extensions
 - .ogv
 - .mp3
 
-!!! info "Info"
+!!! info "Info :"
     If you are using a self-hosted gallery, you need to install and activate the VideoJS plugin to display this file type. If you are a customer of a piwigo.com plan, this plugin is activated by default.
 
 When you upload a file into Piwigo, a preview thumbnail is created using the first image of your video. The video can be viewed from your gallery, using Piwigo's integrated video player. You can play the video using the big "play" button.
@@ -114,7 +114,7 @@ $conf['file_ext'] = array_merge(
   );
 ```
 
-!!! info "Info"
+!!! info "Info :"
     If are using a self hosted gallery and experience issues with video upload or thumbnail generation, [check this article](../self-hosting-piwigo/issues-generation-thumbnails-representative.md).
 
 ### **🎦 Specific case of MOV videos**
@@ -153,7 +153,7 @@ If you are a piwigo.com customer, you can ask support to set up automatic conver
 
 If we activate this option, .mov files imported into Piwigo from the administration will be automatically converted to .mp4. When downloading, the user chooses whether to download the .mov version or the .mp4 version.
 
-!!! warning "Warning"
+!!! warning "Warning :"
     If you choose to activate this option, it will use up more space on your storage space, as each video is stored in two versions, and .mov files are very large.
 
 You can also choose to convert your .mov files to MP4 format before importing them into Piwigo, which has two advantages:

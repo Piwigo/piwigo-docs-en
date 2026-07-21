@@ -73,7 +73,7 @@ To do this, simply install the **RV Akismet** plugin.
 
 Once the plugin has been activated, you need to create an Akismet account: this will give you access to an API key that you will need to enter in the plugin's configuration.
 
-!!! info "Info"
+!!! info "Info :"
     You can create a free Akismet account, but some options require paying for a subscription. Free accounts are only for personal, non-commercial use.
 
 The plugin gives you a choice between two options:

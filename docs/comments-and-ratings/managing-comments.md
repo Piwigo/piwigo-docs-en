@@ -108,7 +108,7 @@ When an administrator is viewing a photo's comments in the gallery, they have ac
 
 ![Modifier ou supprimer.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-65f2ade6.jpg)
 
-!!! info "Info"
+!!! info "Info :"
     If you selected the options that allow users to delete / edit their own comments, they will also have access to these actions on their comments (except for anonymous users who are not logged in).
 
 Of course, these actions are also available from the gallery's comment page.

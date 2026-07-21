@@ -175,7 +175,7 @@ Once this plugin has been activated, it allows you to connect Piwigo to your ext
 
 You can choose the code's location (header or footer); you can also choose to exclude administrators or users who are not logged in from the statistics.
 
-!!! warning "Warning"
+!!! warning "Warning :"
     When using statistics tools such as Google Analytics, you must obtain the consent of visitors in your gallery. We suggest you follow the recommendations from the authorities of your visitors' countries in terms of data tracking and user consent collection
 
 ## **No Stats for Robots:** Excluding robots from the statistics

@@ -44,7 +44,7 @@ The albums that appear are:
 - All the public albums
 - All the private albums you are allowed to view, if you are logged in. [Learn more about permissions](../organizing-albums/permissions-and-album-visibility.md)
 
-!!! info "Info"
+!!! info "Info :"
     By default, the home page displays 12 albums per page. You can browse your albums using the page links at the bottom of the page. If you want to change the number of albums shown per page, go in the administration, then Configuration > Options, in the Display tab.
 
 
@@ -52,7 +52,7 @@ By clicking on an album, you enter the Album's page.
 
 Its content is different depending on the album's content: it either contains photos directly (or other files), or sub-albums.
 
-!!! info "Info"
+!!! info "Info :"
     To understand the concept of albums and sub-albums, [read this article](../organizing-albums/albums-and-sub-albums-piwigo.md). An album may contain both sub-albums and files, but we don't recommend this.
 
 ## Album with sub-albums
@@ -79,7 +79,7 @@ If you have a lot of files in this album, page links will appear at the bottom, 
 
 If you want to display all the photos on the album page, you can activate the **RV Thumb Scroller** plugin. This plugin progressively loads the photos as the user scrolls through the page. 
 
-!!! info "Info"
+!!! info "Info :"
     To change the number of photos displayed on an album page, go to your [user preferences](../managing-users/creating-and-managing-users.md); you can access them by clicking on the "Customize" menu in the gallery, or by editing your user profile in the administration.
 
 ## The Album page tool bar
@@ -97,7 +97,7 @@ You can change the default sort order by clicking on the "Sorting" icon: this wa
 
 ![Ordre de tru.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-1e01d25d.jpg)
 
-!!! info "Info" To change the default sort order, go in the administration, in the Configuration > Options menu.
+!!! info "Info :" To change the default sort order, go in the administration, in the Configuration > Options menu.
 
 ### Changing the size of the photos shown
 
@@ -324,7 +324,7 @@ The plugin's configuration allows you to set the size of the image displayed (by
 
 You can also choose whether or not to display the image's name, to apply a transparency effect when hovering over it, and to preload the images (not recommended for performance reasons).
 
-!!! warning "Warning"
+!!! warning "Warning :"
     If you are using the Modus theme, you first need to activate the **GThumb+** plugin in order to use the Image Preview plugin (see previous chapter).
 
 ### Lightbox: Display the photo in a pop-in window instead of the Photo page
@@ -363,7 +363,7 @@ With Piwigo, it is possible for each user to add a photo to their favorites to f
 
 The **Quick Fav** plugin allows you to add a photo with only one click from its thumbnail, on the Album page or another listing page.
 
-!!! warning "Warning"
+!!! warning "Warning :"
     For now, this plugin is only compatible with the Bootstrap Darkroom theme. Furthermore, it is only accessible to [piwigo.com](http://piwigo.com/) customers (this will be fixed soon).
 
 Once this plugin has been activated, a heart appears when hovering the mouse over a photo: a click on this heart adds the photo to the user's favorites.
@@ -388,7 +388,7 @@ When hovering the mouse over a photo on an album's page, some information about 
 
 Customizing the content of this tooltip is possible using the **Thumbnail Tooltip** plugin.
 
-!!! warning "Warning"
+!!! warning "Warning :"
   The Modus theme doesn't display a tooltip on the Album page. Due to this, the Thumbnail Tooltip plugin isn't compatible with Modus.
 
 Once the plugin has been activated, go into its configuration to set what you want to display in the tooltip, and which order to display it in.

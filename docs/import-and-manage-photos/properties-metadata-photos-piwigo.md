@@ -373,7 +373,7 @@ But you can set a more refined privacy level by selecting another option in the 
 
 ![Other privacy levels.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-2737cf4d.png)
 
-!!! warning "Warning"
+!!! warning "Warning :"
     This feature should not be mistaken for the permissions by album! This is an advanced feature of Piwigo that might be somewhat hard to understand.
 
 To learn more about privacy levels, [read this article](../managing-users/privacy-levels.md).
