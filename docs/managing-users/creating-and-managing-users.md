@@ -347,7 +347,7 @@ The associated option to "Email admins when a new user registers" makes it so th
 
 You can choose to notify all administrators when creating a new account, or only the members of a group.
 
-## **User Mass Register: creating users in bulk**
+## User Mass Register: creating users in bulk
 
 If you want to create multiple users at once, you need to activate the **User Mass Register** plugin.
 

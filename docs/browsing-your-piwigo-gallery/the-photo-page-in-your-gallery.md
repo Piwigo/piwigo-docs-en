@@ -299,7 +299,7 @@ When a back side has been selected for a photo, a "See back" button appears on t
 
 ![Verso.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-692be821.jpg)
 
-### **AlwaysShowMetadata: Always show the files' metadata**
+### AlwaysShowMetadata: Always show the files' metadata
 
 By default, the metadata are hidden on your gallery's Photo page: you must click on an icon to show them.
 

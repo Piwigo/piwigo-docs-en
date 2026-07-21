@@ -69,7 +69,7 @@ Click on "Send" to trigger the sending of the email.
 
 ![Nouvelles photos.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-db8a2c92.jpg)
 
-## **Protect Notification: Editing the sender of notification emails**
+## Protect Notification: Editing the sender of notification emails
 
 Sometimes, notification emails sent by Piwigo may land in the spam folder. This comes from the fact that they are sent using the main administrator's (webmaster's) email address. Since the piwigo.com server isn't allowed to send emails from this email address, the emails are considered to be unsafe.
 

@@ -23,7 +23,7 @@ You then have access to the screen below, with an empty file.
 
 ![LFE auto hébergement.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-4b38d1fb.jpg)
 
-## **Default configuration**
+## Default configuration
 
 From this screen, you have access to the default configuration file, which lists all available configuration options in this file: to do this, click on the *Display reference file: "config_default.inc.php"* link in the top right corner of the screen.
 

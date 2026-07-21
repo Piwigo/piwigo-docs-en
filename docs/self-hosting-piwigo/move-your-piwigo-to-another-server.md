@@ -45,7 +45,7 @@ define('DB_COLLATE', '');
 ?>
 ```
 
-## **Move from Piwigo.com**
+## Move from Piwigo.com
 
 You already have a Piwigo hosted on piwigo.com and you want to move it to your own environment? Follow the guide.
 

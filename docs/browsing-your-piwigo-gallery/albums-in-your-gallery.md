@@ -183,7 +183,7 @@ To change the number of photos shown on an album page, go to your user preferenc
 
 ## Customizing the Album page with plugins
 
-### **Comments on albums: Displaying comments on the albums**
+### Comments on albums: Displaying comments on the albums
 
 By default, Piwigo lets users of your gallery post [comments](../comments-and-ratings/plugins-comments-management-piwigo.md) on photos, but not on albums.
 

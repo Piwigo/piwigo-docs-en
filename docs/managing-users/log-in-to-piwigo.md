@@ -146,7 +146,7 @@ This way, users can user their Microsoft 365 account to log into Piwigo.
 - The Piwigo user's email address must correspond to the Microsoft 365 account's email address.
 - You first need to register your Piwigo App in the Azure portal (explanation on the plugin's configuration page).
 
-## **Password Policy: Setting security rules for passwords**
+## Password Policy: Setting security rules for passwords
 
 The **Password Policy** plugin lets you set up security rules on passwords: strength score, renewal policy, management of failed login attempts…
 

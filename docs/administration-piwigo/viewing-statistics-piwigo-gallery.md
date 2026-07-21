@@ -165,7 +165,7 @@ Statistics by photo
 
 Statistics by month
 
-## **Statistics: Integrating an external statistics tool in Piwigo**
+## Statistics: Integrating an external statistics tool in Piwigo
 
 Do you want to follow your gallery's statistics with a Web Analytics tool you are already using such as Google Analytics, Matomo, Piwik, or many others?
 
@@ -178,7 +178,7 @@ You can choose the code's location (header or footer); you can also choose to ex
 !!! warning "Warning :"
     When using statistics tools such as Google Analytics, you must obtain the consent of visitors in your gallery. We suggest you follow the recommendations from the authorities of your visitors' countries in terms of data tracking and user consent collection
 
-## **No Stats for Robots:** Excluding robots from the statistics
+## No Stats for Robots:
 
 Statistics in Piwigo may sometimes be "polluted" by visits from robots (search engines, etc).
 

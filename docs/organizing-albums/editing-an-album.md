@@ -26,7 +26,7 @@ Let's start by looking into the first "Properties" tab.
 
 ![Edition album.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-e958fd3f.jpg)
 
-### **Viewing the album’s information**
+### Viewing the album’s information
 
 The screen shows information about your album.
 
@@ -82,7 +82,7 @@ From the tool bar on the right, you have access to multiple options.
 
 Lastly, to open your album directly in the gallery, click on the "Open in gallery" button in the bottom right corner.
 
-### **Locking an album**
+### Locking an album
 
 At the bottom of the album editor screen, you have the option to lock an album.
 
@@ -127,7 +127,7 @@ Don't forget to click on Save Settings to save your choices!
 
 The chosen sort order can be applied to sub-albums (if your album has any) by checking the box next to the save button.
 
-### **Reset Manual Order**
+### Reset Manual Order
 
 Do you want to sort photos within an album by choosing an automatic sort order, but apply changes to it? To do this, you can activate the **Reset Manual Order** plugin.
 

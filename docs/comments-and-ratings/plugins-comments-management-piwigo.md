@@ -4,7 +4,7 @@ In the article about [Managing comments](managing-comments.md), we introduced th
 
 ## Comment formatting options
 
-### **BBCode Bar: Adding a tool bar to format comments**
+### BBCode Bar: Adding a tool bar to format comments
 
 If you want users to be able to format their comments (bold text, italic text, bullet points...), simply install the **BBCode Bar** plugin.
 
@@ -23,7 +23,7 @@ This plugin lets you choose a set of emotes to add to your gallery. When enterin
 !!! note "Note"
     These emotes are the same kind of emotes you would find on discussion forums. They are not to be mistaken for emojis, which we use far more nowadays. Piwigo doesn't have an emoji keyboard.
 
-## **Subscribe to Comments: Enable notifications for anyone when new comments are posted**
+## Subscribe to Comments: Enable notifications for anyone when new comments are posted
 
 If you want a user (other than an administrator) to be able to get notified when a new comment is posted, simply install the **Subscribe to Comments** plugin.
 
@@ -47,7 +47,7 @@ Sadly, comment input areas are often popular among spam robots. Sometimes, it is
 
 Several plugins allow you to control comment input in Piwigo.
 
-### **Comments Blacklist: Banning certain words from comments**
+### Comments Blacklist: Banning certain words from comments
 
 To set a list of banned words in the comments, you can install the **Comments Blacklist** plugin.
 
@@ -55,7 +55,7 @@ This plugin lets you enter a list of banned words. If a comment containing these
 
 This allows you to ban words that are often used in "spam" comments, but also to avoid rude, offensive or inappropriate comments.
 
-### **Crypto Captcha: Adding a Captcha in the comment area**
+### Crypto Captcha: Adding a Captcha in the comment area
 
 To add a Captcha to the comment input form, you can install the **Crypto Captcha** plugin.
 
@@ -65,7 +65,7 @@ Several options are available to set up your Captcha.
 
 ![Captcha.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-216bec65.jpg)
 
-### **RV Akismet: Monitoring comments with Akismet**
+### RV Akismet: Monitoring comments with Akismet
 
 You can use the [Askimet](https://akismet.com/) online service, a reference in the field, to make sure comments that are entered in your gallery aren't spam.
 
@@ -81,7 +81,7 @@ The plugin gives you a choice between two options:
 - Rejecting all comments flagged as spam by Akismet
 - Moderating comments flagged as spam by Akismet (meaning, subjecting them to approval before posting).
 
-## **Comments on Albums: Allowing comments on Album pages**
+## Comments on Albums: Allowing comments on Album pages
 
 By default, Piwigo manages comments on photo pages.
 

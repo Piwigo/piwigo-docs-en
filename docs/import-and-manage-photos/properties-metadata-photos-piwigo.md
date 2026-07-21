@@ -6,7 +6,7 @@
 
 Here are some clarifications to start off with!
 
-### **What are metadata?**
+### What are metadata?
 
 The metadata are details from the original file. They are read and integrated by Piwigo during import.
 
@@ -39,7 +39,7 @@ The metadata displayed with the Modus theme
 
 The metadata displayed with the Bootstrap Darkroom theme
 
-### **What are properties?**
+### What are properties?
 
 Properties are Piwigo's in-house fields, allowing you to describe and sort your files.
 
@@ -270,7 +270,7 @@ Unlike the metadata, it's up to you to set your files' properties in Piwigo. You
 
 Here are the properties and informations Piwigo offers by default to label a file.
 
-### **Title**
+### Title
 
 This is the name of the photo that will be displayed in the gallery. Depending on your theme and the chosen settings, the title will be displayed in multiple places in your gallery.
 
@@ -278,7 +278,7 @@ By default, the name is created from the file's name, but you can change it.
 
 A photo's name allows you to find it easily using the search engine: this is therefore an important setting.
 
-### **Author**
+### Author
 
 This property allows you to mention the author, such as the photographer who took the photo, for example. It's an unrestricted, text-based field that can later be displayed in the gallery.
 
@@ -326,7 +326,7 @@ Note that a photo doesn't need to be linked to an album in order to represent it
 
 To learn more about albums, [read this set of articles](../organizing-albums/index.md).
 
-### **Tags**
+### Tags
 
 To organize and describe your photos, you can link them to tags (which you can also call keywords, or labels).
 
@@ -338,7 +338,7 @@ When editing a photo in the administration, the Tags field works the same way as
 
 To learn more about tags, [read this set of articles](../tags-in-piwigo/index.md).
 
-### **Description**
+### Description
 
 The Description property allows you to display a presentation text for your photo in your gallery.
 
@@ -361,7 +361,7 @@ To learn more about FCKEditor, [read this article](../administration-piwigo/plug
 
 To be able to translate descriptions into multiple languages, use the **Extended Description** plugin. To learn more about content translation with Extended Description, [read this article](../customizing-your-gallery/managing-languages-available-gallery-piwigo.md).
 
-### **Who can see this photo (privacy level)**
+### Who can see this photo (privacy level)
 
 This property allows you to set a file's Privacy level.
 
@@ -544,7 +544,7 @@ The **Download Counter** plugin allows you to count the number of downloads of a
 
 ![Download counter.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-294cb0db.jpg)
 
-### **Expiry Date: Adding an expiry date to a file**
+### Expiry Date: Adding an expiry date to a file
 
 Adding an expiring date to a file can be necessary, to manage a license's validity date, or even the validity of the image rights associated with a photo.
 

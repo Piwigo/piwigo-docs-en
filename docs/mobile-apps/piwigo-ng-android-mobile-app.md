@@ -37,7 +37,7 @@ The app also offers the ability to search for photos or view the most visited ph
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-59b08630.png)
 
-### **Organize your photos**
+### Organize your photos
 
 Next, you can use the app to organize your photo library (if you have an administrator account): moving albums, moving or copying photos from one album to another, renaming or deleting your albums, creating sub-albums, editing the properties of your photos (name, description, tags...), choosing an album's thumbnail…
 

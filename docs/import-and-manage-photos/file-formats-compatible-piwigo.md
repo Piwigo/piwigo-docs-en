@@ -117,7 +117,7 @@ $conf['file_ext'] = array_merge(
 !!! info "Info :"
     If are using a self hosted gallery and experience issues with video upload or thumbnail generation, [check this article](../self-hosting-piwigo/issues-generation-thumbnails-representative.md).
 
-### **🎦 Specific case of MOV videos**
+### 🎦 Specific case of MOV videos
 
 If you are saving videos from an iPhone, iPad or from the QuickTime software for Apple, the generated files will have a .mov extension. This file format is not compatible with Piwigo, as it does not display correctly in web browsers.
 
@@ -163,7 +163,7 @@ You can also choose to convert your .mov files to MP4 format before importing th
 
 To find out how to convert a file, read the next chapter.
 
-### **🎦 Converting your video files**
+### 🎦 Converting your video files
 
 If you want to import a video file that isn't accepted by Piwigo (an AVI file for example), you simply need to convert your video files to the MP4 format: you can do so with many video editing softwares, or with free online tools [such as this one](https://video.online-convert.com/convert-to-mp4).
 
@@ -215,7 +215,7 @@ $conf['file_ext'] = array_merge(
 !!! info
     If you're using a self-hosted gallery and are having problems generating thumbnails for PDF files, or viewing AI, PSD, HEIC, TIF or TIFF files, [check this article](../self-hosting-piwigo/issues-generation-thumbnails-representative.md).
 
-### **Specific case of PDF files in Piwigo**
+### Specific case of PDF files in Piwigo
 
 For PDF files, Piwigo generates a preview by extracting the first page and converting it to an image. This image is displayed in the album page.
 
@@ -225,7 +225,7 @@ Since Piwigo 15, on the file page, Piwigo includes a PDF reader that allows you 
 
 You can also click on the “Download this file” icon: you will download the document on your computer.
 
-## **📄 Other document formats**
+## 📄 Other document formats
 
 If you need to upload other file formats (Excel, Word, Open Office...) to an account hosted on piwigo.com, you can request it by contacting support if you are a piwigo.com customer, or by modifying your configuration file if you are using a self-hosted gallery.
 

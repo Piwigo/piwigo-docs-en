@@ -184,7 +184,7 @@ But on the home page, instead of the "Related Tags" menu, we will display a "Tag
 
 [Learn more about tags in your gallery](../browsing-your-piwigo-gallery/tags-in-your-gallery.md)
 
-### **Upload 1 Menu: adding an “Add photos” menu**
+### Upload 1 Menu: adding an “Add photos” menu
 
 !!! info "If you are a piwigo.com customer, this plugin is only available from the Team plan and higher."
 

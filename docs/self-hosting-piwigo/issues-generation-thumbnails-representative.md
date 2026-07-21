@@ -41,7 +41,7 @@ No error message?
 1. With Localfiles Editor, put this local config variable: `$conf['enable_i_log'] = true;` Then try to generate some size with the Batch Manager. Once started, you can go to _data/tmp/i.log and open the file to see if there is any error message in it. Post on the forum the content of this file.
 2. You can also read the instructions for “500 Internal error page” and use Imagemagick. Or post a url to your website on the forum with public visible pictures.
 
-### **Install ImageMagick**
+### Install ImageMagick
 
 GD Graphics Library and ImageMagick are both open source libraries for dynamic images generation. You can experience issues with thumbnail generation (among other problems) if you server uses the GD Graphics Library. 
 

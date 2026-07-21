@@ -25,7 +25,7 @@ You can also create a tag directly each time you are able to assign a tag to a p
 - from the photo editor
 - from the batch manager
 
-### **Add tags mass: Creating a tag list in bulk**
+### Add tags mass: Creating a tag list in bulk
 
 If you need to import a list of existing tags into your Piwigo gallery, or create several tags quickly, simply activate the "Add tags mass" plugin.
 

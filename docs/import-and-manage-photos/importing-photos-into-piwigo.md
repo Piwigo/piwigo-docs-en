@@ -147,7 +147,7 @@ To learn more, read the article below.
 
 [FTP import and synchronization](../self-hosting-piwigo/importing-and-synchronizing-ftp-photos.md)
 
-## **Importing files from Adobe Lightroom**
+## Importing files from Adobe Lightroom
 
 If you are using the Adobe Lightroom photo manager, you can install a plugin that will allow you to transfer photos directly to your Piwigo gallery. This plugin is not developed by Piwigo. It is sold for $15 by its creator.
 

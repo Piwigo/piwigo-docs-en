@@ -60,7 +60,7 @@ You can then select the photos to be modified among your favorite photos or sele
 
 To learn more about the batch manager, [read this article](../import-and-manage-photos/batch-manager-piwigo.md).
 
-## **Quick Fav: Add a photo to the favorites from the Album page**
+## Quick Fav: Add a photo to the favorites from the Album page
 
 By default, the "Add to favorites" button is only accessible from a photo's page.
 

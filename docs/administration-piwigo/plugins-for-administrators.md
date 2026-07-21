@@ -47,7 +47,7 @@ For each message, we show the administrator's name, the date, and the message.
 
 ![Messages admin.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-e0045482.jpg)
 
-## **Protect Notification: Changing the sender of notification emails**
+## Protect Notification: Changing the sender of notification emails
 
 Sometimes, notification emails sent by Piwigo may land in the spam folder. This comes from the fact that they are sent using the main administrator's (webmaster's) email address. If your server (or the piwigo.com server if you are a customer) isn't allowed to send emails from this email address, the emails are considered to be unsafe.
 
@@ -343,11 +343,11 @@ Knowing both of them is interesting since they can work side by side.
 
 This way, for example, you can add code in the <head> tag with the first, and in the website's footer (before closing the <body> tag) with the second.
 
-### **Add < head > element: Adding code in the <head> tag**
+### Add < head > element: Adding code in the <head> tag
 
 The **Add < head > element** plugin lets you add code (A Javascript script, for example) in your gallery's <head> tag. You can choose to activate this code in the gallery, the administration, or both.
 
-### Statistics**: Adding code in the <head> tag or the footer**
+### Statistics: Adding code in the <head> tag or the footer
 
 The Statistics plugin, made for inserting tracking code for an external statistics tool (such as Matomo or Google Analytics) in your gallery, also allows you to add code for another use.
 

@@ -24,7 +24,7 @@ In most organizations, administrators are the photo library's managers: document
 !!! info "Info : "
     An administrator has access to all albums and all photos in the administration. However, once logged into the web gallery, permissions are applied: they only see public albums or private albums they have access to.
 
-## 2- **User**
+## 2- User
 
 A User can log into your Piwigo gallery, but not the administration. By default, when you create a user, or when a user registers on their own, they have “User” status.
 
@@ -32,7 +32,7 @@ A User can view and download the files in your photo library they are entitled t
 
 Within an organization, in most cases, the majority of users have this status: they are the ones who log into the photo library to search for and download files they need.
 
-## 3- **Webmaster**
+## 3- Webmaster
 
 By default, the first user created when creating a Piwigo account or installing a Piwigo (main user) has webmaster status.
 

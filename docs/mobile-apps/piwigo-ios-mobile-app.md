@@ -34,7 +34,7 @@ The app also offers the ability to search for photos or view the most visited ph
 
 ![iPhone 17 Pro - 03.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-734b8af8.webp)
 
-### **Organize your photos**
+### Organize your photos
 
 Next, you can use the app to organize your photo library (if you have an administrator account): moving albums, moving or copying photos from one album to another, renaming or deleting your albums, creating sub-albums, editing the properties of your photos (name, description, tags...), choosing an album's thumbnail…
 
@@ -63,7 +63,7 @@ The upload interface lets you rename photos, enter a description, tags, and set 
 
 ![iPhone 17 Pro - 02.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-0a82c2e2.webp)
 
-### **Share your photos**
+### Share your photos
 
 Through AirDrop, e-mail, SMS, or on social media... Sharing your photos from the Piwigo app is super simple! You can also print them, copy them in the clipboard, assign them to contacts, use them as wallpaper or send them to your Apple Watch.
 

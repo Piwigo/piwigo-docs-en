@@ -174,25 +174,25 @@ Some plugins are useful for Piwigo galleries who use the Community plugin: here 
 
 !!! info "If you are a piwigo.com, this plugins are only available from the Team plan and higher."
 
-### **Upload 1 Menu**
+### Upload 1 Menu
 
 This plugin lets you show the "Upload photos" menu on the gallery's home page, next to the "Explore" menu.
 
 ![Upload 1 Menu.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-78529d2b.jpg)
 
-### **See My Photos**
+### See My Photos
 
 This plugin lets you show a "My photos" menu in the gallery. This way, each user can easily view the photos they have added to the gallery, all albums included.
 
 [Learn more](../customizing-your-gallery/customizing-piwigo-gallery-menu-navbar.md)
 
-### **See photos by user**
+### See photos by user
 
 This plugin lets the gallery's visitors easily filter photos based on the user who added them.
 
 [Learn more](../customizing-your-gallery/customizing-piwigo-gallery-menu-navbar.md)
 
-### **Photo added by**
+### Photo added by
 
 This plugin allows you to show the ID of the user who added the photo on its page, under the "Photo added by" field.
 

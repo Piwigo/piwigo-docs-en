@@ -32,7 +32,7 @@ When you click on "Related tags" from an album's page, only the list of tags tha
 
 **This way, the Related tags menu is a very useful tool to explore your photo library and refine a search as you go along.**
 
-### **Tags (tag clouds)**
+### Tags (tag clouds)
 
 The "Tags" submenu under "Explore" shows the number of tags that are in your gallery and lets you open a page that lists all your tags.
 
@@ -44,7 +44,7 @@ The opened Tags page shows tags in the form of a word cloud, with the size of ea
 
 Clicking on a tag shows all photos associated with this tag.
 
-### **Search by tag**
+### Search by tag
 
 When you type a word into the gallery search engine, if that word corresponds to a tag, you will see "1 tag found". You can then click on the tag to display the associated photos.
 

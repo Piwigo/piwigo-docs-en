@@ -49,7 +49,7 @@ The Collections page lists all collections created by the user, lets you open th
 
 When visiting a collection's page, several icons specific to the collection are available in the tool bar (depending on the permissions set in the plugin's configuration).
 
-### **Share a link to the collection**
+### Share a link to the collection
 
 ![collection.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-383da7f0.png)
 

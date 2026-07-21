@@ -155,7 +155,7 @@ For each action, you can see the object concerned (core, plugin or theme), the t
 
 ![image.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-46f517ca.png)
 
-## **Delete Hit/Rate: Deleting views (hits) and photo ratings**
+## Delete Hit/Rate: Deleting views (hits) and photo ratings
 
 If you want to reset views and photo ratings, you can install the **Delete Hit/Rate** plugin.
 

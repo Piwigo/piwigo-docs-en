@@ -125,7 +125,7 @@ The third tab works the exact same way as the two others (see previous chapters)
 
 To learn more about comments, [read this article](../comments-and-ratings/managing-comments.md).
 
-## **Download Permissions: Managing the download rights for each album**
+## Download Permissions: Managing the download rights for each album
 
 By default, in Piwigo, users who are authorized to download photos can download all photos in the gallery.
 
