@@ -47,11 +47,3 @@ If an album has no sub-albums, the number of photos is displayed. This way, when
 To learn more about the Album page and get to know all the possibilities to customize it, read the following article :
 
 [Albums in your gallery](../browsing-your-piwigo-gallery/albums-in-your-gallery.md)
-
-Article summary
-
----
-
-Next →
-
-[How to create an album?](how-to-create-an-album.md)

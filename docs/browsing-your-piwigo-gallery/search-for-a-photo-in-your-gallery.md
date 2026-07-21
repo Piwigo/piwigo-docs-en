@@ -215,15 +215,3 @@ To activate or deactivate the display of this button and this icon in your galle
 If your photos are correctly indexed using tags, the search by tag could be very powerful when it comes to finding a photo. You can search for a photo by tag by using the search engine, but also by browsing through tags using the "Related tags" feature or a tag cloud.
 
 Read this article to learn more: [Using tags in your gallery](tags-in-your-gallery.md)
-
-Article summary
-
----
-
-← Previous
-
-[Tags in your gallery](tags-in-your-gallery.md)
-
-Next →
-
-[Manage your favorites](manage-your-favorites.md)

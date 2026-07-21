@@ -1,9 +1,6 @@
 # Move your Piwigo to another server
 
 You want to move your Piwigo to a new web hoster,  move from piwigo.com to your own environment or move your gallery to a sub-directory? This is the right place!
-
-Article summary
-
 ## Move Piwigo to a new server
 
 To move your Piwigo to a new web hoster, you need to follow these steps in the right order.

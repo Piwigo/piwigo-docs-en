@@ -307,15 +307,3 @@ The plugin's configuration settings give you many customization options.
 In order to recognize which photos need to be shown in Panorama mode (180 or 360°), Piwigo relies on their name.
 
 By default, the photos need to contain _180 or _360 in their name in order to be displayed in Panorama mode, but this can be customized.
-
-Article summary
-
----
-
-← Previous
-
-[Importing photos into Piwigo](importing-photos-into-piwigo.md)
-
-Next →
-
-[Modifying or deleting photos](modifying-or-deleting-photos.md)

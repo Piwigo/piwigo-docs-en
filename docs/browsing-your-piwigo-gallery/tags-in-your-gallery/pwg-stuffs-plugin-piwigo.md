@@ -110,5 +110,3 @@ For example:
 - Module 3 *WELCOME*, (display settings: line A, 40%, displayed on main page only, only visible for logged in users), could contain their username and a welcome message.
 
 Upon arrival, the user sees the *EDITORIAL* in the top left, with the *NEWS* to the right. When logging in, NEWS is replaced with *WELCOME*. Then, when they start visiting the albums, these modules disappear to make more room for your gallery's content.
-
-Article summary

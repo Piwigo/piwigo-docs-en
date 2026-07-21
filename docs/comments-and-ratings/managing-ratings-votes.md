@@ -66,5 +66,3 @@ The Delete Hit/Rate plugin lets you reset all ratings:
 - Of all the photos in an album, straight from the album editor
 
 It also allows you to reset all ratings of the gallery from the Tools > Maintenance page.
-
-Article summary

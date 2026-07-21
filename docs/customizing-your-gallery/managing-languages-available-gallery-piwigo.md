@@ -108,15 +108,3 @@ This is particularly useful for including HTML or Javascript code in a descripti
 Note that the Extended Descriptions plugin gives you access to other features to customize your gallery.
 
 [Learn more about Extended Descriptions](customizing-piwigo-gallery-plugins.md)
-
-Article summary
-
----
-
-← Previous
-
-[Customization options for your gallery](customization-options-for-your-gallery.md)
-
-Next →
-
-[Customizing your gallery’s menu](customizing-piwigo-gallery-menu-navbar.md)

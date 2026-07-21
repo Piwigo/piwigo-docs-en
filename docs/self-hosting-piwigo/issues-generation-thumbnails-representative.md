@@ -107,7 +107,4 @@ On your gallery, your PDF will be also displayed with this default icon.
 In this case, the file is correctly uploaded to Piwigo, and can be downloaded by clicking on the “Download file” icoon. But the thumbnails are not correctly generated.
 
 To fix this issue, check if the **External** **ImageMagick** library is installed and if necessary, declare its path in the local configuration (as explained in a previous chapter on this page).
-
-Article summary
-
 This problem doesn't just affect PDFs: it also prevents thumbnails from being generated for PSD, AI, TIF, TIFF and HEIC files.

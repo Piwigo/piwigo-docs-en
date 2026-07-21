@@ -356,11 +356,3 @@ It allows you to enter the desired code and choose whether to insert it in the w
 The "Exclude administrators from statistics" option allows you to not activate the code you entered when an administrator is logged in.
 
 The "Exclude guests from statistics" option allows you to not activate the code you entered when the gallery's guests aren't logged in.
-
-Article summary
-
----
-
-← Previous
-
-[Maintenance of your Piwigo gallery](maintenance-piwigo-gallery.md)

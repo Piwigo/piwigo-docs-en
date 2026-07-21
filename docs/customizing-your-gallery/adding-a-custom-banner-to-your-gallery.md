@@ -96,9 +96,3 @@ The Header Manager plugin lets you have multiple different images for your banne
 You can even set up specific banners for each album.
 
 Indeed, on an album's editing page, the plugin adds a "Banner" tab, allowing you, for a given album, to choose which banner to display among the existing banners.
-
----
-
-← Previous
-
-[Customizing your gallery’s CSS](customize-css-code-piwigo-gallery.md)

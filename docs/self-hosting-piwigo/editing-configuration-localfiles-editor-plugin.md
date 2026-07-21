@@ -58,5 +58,3 @@ Save the file: the setting is updated and the management of multiple formats is 
 
 !!! info "Info :"
     We recommend you also copy the explanation in the comments above the line that contains the configuration setting. This way, it will be easier for you to remember the role of each setting.
-
-Article summary

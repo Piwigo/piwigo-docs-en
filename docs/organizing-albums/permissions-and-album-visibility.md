@@ -136,15 +136,3 @@ If you need to manage the rights for each album, you can install the **Download 
 It will add a new tab to the Albums > Properties page, allowing you to set which albums users are allowed to download photos in, in the same way as the other tabs.
 
 ![Téléchargement.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-1fd60f62.jpg)
-
-Article summary
-
----
-
-← Previous
-
-[Editing an album](editing-an-album.md)
-
-Next →
-
-[SmartAlbums](smart-albums-plugin-piwigo.md)

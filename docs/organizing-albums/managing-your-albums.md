@@ -88,15 +88,3 @@ To remove a permalink, click again on “Add / delete a permalink”. Select the
 The deleted link now appears in the “Permalinks history” list.
 
 ![image.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-2ba37b04.png)
-
-Article summary
-
----
-
-← Previous
-
-[How to create an album?](how-to-create-an-album.md)
-
-Next →
-
-[Editing an album](editing-an-album.md)

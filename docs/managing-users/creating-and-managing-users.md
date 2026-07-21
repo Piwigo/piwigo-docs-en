@@ -398,15 +398,3 @@ This plugin forces users to enter a Captcha before creating an account. This Cap
 Several options are available to set up your Captcha.
 
 ![Test Captcha.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-ac638942.jpg)
-
-Article summary
-
----
-
-← Previous
-
-[User statuses](user-statuses.md)
-
-Next →
-
-[Privacy levels](privacy-levels.md)

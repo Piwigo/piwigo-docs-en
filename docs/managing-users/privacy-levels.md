@@ -47,16 +47,3 @@ This is a "cascading" model of right management, somewhat hard to understand and
 
 !!! info "Info :"
     If you don't like the Admin, Family, Friends, and Contacts labels, you should know that they can be customized by reaching out to support if you have a Piwigo Cloud account, or by editing them in the database if your Piwigo is self-hosted. However, adding another privacy level is impossible.
-
-
-Article summary
-
----
-
-← Previous
-
-[Creating and managing users](creating-and-managing-users.md)
-
-Next →
-
-[Sending notification emails to users](sending-notification-emails-to-users.md)

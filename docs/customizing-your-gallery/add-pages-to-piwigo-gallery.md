@@ -150,15 +150,3 @@ As a result, emails sent through this form might not reach their destination: th
 If you encounter this type of issue, you can attempt to solve it by changing the email address of the recipients (avoid Gmail or Yahoo addresses).
 
 If you don't manage to solve the issue, we recommend you uninstall Contact Form.
-
-Article summary
-
----
-
-← Previous
-
-[Customizing your gallery’s menu](customizing-piwigo-gallery-menu-navbar.md)
-
-Next →
-
-[Customizing your gallery with plugins](customizing-piwigo-gallery-plugins.md)

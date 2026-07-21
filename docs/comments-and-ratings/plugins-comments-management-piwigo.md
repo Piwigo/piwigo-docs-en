@@ -104,12 +104,3 @@ Once this plugin has been activated, an Albums tab is added:
 - on the listing page that lists comments in the gallery
     
     ![Commentaire utilisateur.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-b2691fa8.jpg)
-    
-
-Article summary
-
----
-
-← Previous
-
-[Managing comments](managing-comments.md)

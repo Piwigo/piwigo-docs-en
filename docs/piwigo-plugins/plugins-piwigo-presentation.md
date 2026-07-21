@@ -142,11 +142,6 @@ This is also the case when the plugin adds a feature available from another scre
 For example, the **Rotate Image** plugin adds an image rotation feature on a photo's editing page: therefore, it doesn't require a settings page.
 
 ![Rotate Image.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-5d1afa3a.jpg)
-
-Article summary
-
----
-
 ## Plugins for all your needs
 
 All throughout this documentation, we are introducing plugins every time it is relevant.

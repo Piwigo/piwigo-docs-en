@@ -80,15 +80,3 @@ Once this plugin has been activated, all notification emails sent by Piwigo will
 Therefore, the notification emails will be delivered properly.
 
 !!! info "Since February 2024, Protect Notif is activated by default on all new accounts created on Piwigo Cloud."
-
-Article summary
-
----
-
-← Previous
-
-[Privacy levels](privacy-levels.md)
-
-Next →
-
-[User groups](user-groups.md)

@@ -67,16 +67,4 @@ In our [pricing plans](https://piwigo.com/pricing), we refer to the “Contribut
 
 This status is not a user type in the strict sense: it refers to non-administrator users who are authorised to import files into Piwigo when the Community plugin is enabled.
 
-For more information, read this article: [Managing contributors (Community plugin)](community-plugin-piwigo.md) 
-
-Article summary
-
----
-
-← Previous
-
-[Log in to Piwigo](log-in-to-piwigo.md)
-
-Next →
-
-[Creating and managing users](creating-and-managing-users.md)
+For more information, read this article: [Managing contributors (Community plugin)](community-plugin-piwigo.md)

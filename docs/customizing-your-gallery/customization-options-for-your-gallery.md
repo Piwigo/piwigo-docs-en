@@ -132,11 +132,3 @@ Preferences can be different for each user, but, as an administrator, you can:
 - Edit your own preferences and those of other users.
 
 [Learn more about preferences](../managing-users/creating-and-managing-users.md)
-
-Article summary
-
----
-
-Next →
-
-[Managing the languages available in your gallery](managing-languages-available-gallery-piwigo.md)

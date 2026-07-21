@@ -77,15 +77,3 @@ If you need to create multiple themed selections, the User Collections plugin is
 It lets you create collections, add files to them, and share them via link or email.
 
 [Learn more about User Collections](user-collections-plugin-piwigo.md)
-
-Article summary
-
----
-
-← Previous
-
-[Search for a photo in your gallery](search-for-a-photo-in-your-gallery.md)
-
-Next →
-
-[Create collections (User Collections plugin)](user-collections-plugin-piwigo.md)

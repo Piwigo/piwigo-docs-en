@@ -114,11 +114,3 @@ When an administrator is viewing a photo's comments in the gallery, they have ac
 Of course, these actions are also available from the gallery's comment page.
 
 When administrators are notified by email after every comment upload (without approval), they receive an email which contains a link to read, and potentially edit or delete the comment.
-
-Article summary
-
----
-
-Next →
-
-[Customizing comment management with plugins](plugins-comments-management-piwigo.md)

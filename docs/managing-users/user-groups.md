@@ -100,15 +100,3 @@ You can then tick the list of groups to merge.
 ![Fusion groupes.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-2e06b614.jpg)
 
 You can choose which group to keep in the drop-down list on the right: all users of the other groups will be added to the target group, and all other groups will be deleted.
-
-Article summary
-
----
-
-← Previous
-
-[Sending notification emails to users](sending-notification-emails-to-users.md)
-
-Next →
-
-[Managing contributors (Community plugin)](community-plugin-piwigo.md)

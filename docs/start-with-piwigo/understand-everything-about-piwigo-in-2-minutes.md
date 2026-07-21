@@ -180,5 +180,3 @@ If you make this choice, you must understand its consequences:
 If you want to use a self-hosted gallery all while enjoying the support of our team, you can choose to go for our [maintenance contract](https://piwigo.com/pricing?plan=self_hosted).
 
 To learn more about self-hosting, [click here](../self-hosting-piwigo/index.md).
-
-Article summary

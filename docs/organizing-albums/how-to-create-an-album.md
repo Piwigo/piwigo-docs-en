@@ -57,5 +57,3 @@ Next, select the file in your computer that you would like to synchronize with P
 ![piwigo-remote-sync.upload.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-1a7d31fb.png)
 
 Click on Upload : the transfer is starting. The synchronized photos will appear on the screen.
-
-Article summary

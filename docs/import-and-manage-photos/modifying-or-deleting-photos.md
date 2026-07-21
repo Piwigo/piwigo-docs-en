@@ -93,15 +93,3 @@ To do this, you need to install the **Rotate Image** plugin.
 Once this plugin is activated, a new "Rotate" tab is added to the photo editing screen.
 
 ![Plugin Rotate Image.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-e216d6fb.jpg)
-
-Article summary
-
----
-
-← Previous
-
-[File formats compatible with Piwigo](file-formats-compatible-piwigo.md)
-
-Next →
-
-[Batch management: Modifying and managing a selection of photos](batch-manager-piwigo.md)

@@ -185,11 +185,3 @@ Statistics in Piwigo may sometimes be "polluted" by visits from robots (search e
 To exclude them, simply activate the **No Stats for Robots** plugin.
 
 This plugin excludes visits from known robots from your visit statistics.
-
-Article summary
-
----
-
-Next →
-
-[Maintenance of your Piwigo gallery](maintenance-piwigo-gallery.md)

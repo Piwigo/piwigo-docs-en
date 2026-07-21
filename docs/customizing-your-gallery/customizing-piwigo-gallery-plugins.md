@@ -372,13 +372,3 @@ Once they are done with their shopping, they can go through with their order on 
 ![Panier achats.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-ae87289b.jpg)
 
 ---
-
-Article summary
-
-← Previous
-
-[Adding pages to your gallery](add-pages-to-piwigo-gallery.md)
-
-Next →
-
-[Customizing your gallery’s CSS](customize-css-code-piwigo-gallery.md)

@@ -88,11 +88,3 @@ Click on "Apply action": the process begins. The photos are processed one by one
 Once the batch has been processed, the photos are tagged! You can go to the "Single mode" tab in the batch manager to make sure you like the chosen tags.
 
 ![Tags générés en masse.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-e3fc3d90.jpg)
-
-Article summary
-
----
-
-← Previous
-
-[Creating and managing tags](creating-and-managing-tags.md)

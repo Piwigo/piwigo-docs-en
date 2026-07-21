@@ -354,15 +354,3 @@ The plugin's configuration page lets you set up some options, such as the number
 
 !!! warning "Warning :"
     Activating the plugin doesn't generate palettes on every image of your photo library. A photo's palette is generated when it is displayed for the first time after activating the plugin. At first, the search by color will then yield very few results since your photos' palettes will not have been generated yet.
-
-Article summary
-
----
-
-← Previous
-
-[Albums in your gallery](albums-in-your-gallery.md)
-
-Next →
-
-[Tags in your gallery](tags-in-your-gallery.md)

@@ -106,11 +106,3 @@ A search engine lets you filter collections by name and by user.
 ![Paramètres plugin.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-6208ae8d.jpg)
 
 From this screen, the administrator can find the collections created, edit them, export them in CSV format, and delete them.
-
-Article summary
-
----
-
-← Previous
-
-[Manage your favorites](manage-your-favorites.md)

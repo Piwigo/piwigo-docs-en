@@ -155,15 +155,3 @@ Once you are done with selecting tags, click on the desired action:
 Read this article to discover how to use tags in your gallery, as well as options and plugins to dive deeper into using tags.
 
 [Tags in your gallery](../browsing-your-piwigo-gallery/tags-in-your-gallery.md)
-
-Article summary
-
----
-
-← Previous
-
-[Tags: introduction](tags-introduction.md)
-
-Next →
-
-[Tag Recognition: Tag your photos automatically with AI](tag-recognition-plugin-piwigo.md)

@@ -84,5 +84,3 @@ One very useful option is the automatic deletion of photos after uploading them 
 ![iPhone 17 Pro - 02.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-031cfe5d.webp)
 
 ![iPhone 17 Pro - 03.webp](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-aa79e59c.webp)
-
-Article summary

@@ -31,15 +31,3 @@ By adding custom CSS code with this method, you are making sure that Piwigo's co
 !!! warning "Warning :"
 
     If you are using a self-hosted Piwigo gallery, don't edit the setup files directly! Otherwise, your changes will be crushed in the next update.
-
-Article summary
-
----
-
-← Previous
-
-[Customizing your gallery with plugins](customizing-piwigo-gallery-plugins.md)
-
-Next →
-
-[Adding a custom banner to your gallery](adding-a-custom-banner-to-your-gallery.md)

@@ -59,11 +59,3 @@ In turn, tags are used to describe the content.
 This way, we can easily find all blue pictures, across all albums, simply by searching for the "blue" tag.
 
 But we can also refine our search by combining the "blue" + "building" tags, to find all blue building pictures.
-
-Article summary
-
----
-
-Next →
-
-[Creating and managing tags](creating-and-managing-tags.md)

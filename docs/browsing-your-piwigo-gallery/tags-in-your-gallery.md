@@ -177,15 +177,3 @@ The tag colors are visible in your gallery, in the Related tags menu and the Tag
 Some users don't like the term "tag" and prefer "keyword".
 
 This is why there is a "Tag To Keyword" plugin, which replaces the word "tag" with "keyword" once activated.
-
-Article summary
-
----
-
-← Previous
-
-[The Photo page in your gallery](the-photo-page-in-your-gallery.md)
-
-Next →
-
-[Search for a photo in your gallery](search-for-a-photo-in-your-gallery.md)

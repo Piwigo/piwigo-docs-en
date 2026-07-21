@@ -285,15 +285,3 @@ The Caddie menu simply displays the batch manager screen, filtered through the "
 To empty the caddie, click on the "Empty caddie" button below the filter.
 
 ![Empty caddie.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-dc919217.jpg)
-
-Article summary
-
----
-
-← Previous
-
-[Modifying or deleting photos](modifying-or-deleting-photos.md)
-
-Next →
-
-[Managing your files’ properties and metadata](properties-metadata-photos-piwigo.md)

@@ -62,11 +62,3 @@ In order to display the different formats available for a photo in your gallery,
 Once this plugin has been activated, a file's download button shows the different formats available as well as the file size. Click on the chosen format to download it.
 
 ![Download formats.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-867a63cf.jpg)
-
-Article summary
-
----
-
-← Previous
-
-[Managing your files’ properties and metadata](properties-metadata-photos-piwigo.md)

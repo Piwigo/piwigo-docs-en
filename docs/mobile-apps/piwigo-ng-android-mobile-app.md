@@ -69,8 +69,6 @@ Settings allow you to customize your app experience and your usage.
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-3d51f5ea.png)
 
-Article summary
-
 Among other things, a dark mode has been added in the latest version of the app.
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-81e767f0.png)

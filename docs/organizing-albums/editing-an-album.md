@@ -155,13 +155,3 @@ The people involved will receive an email containing a link to the album, along 
 
 !!! warning "Warning :"
     Before sending a notification, remember to make sure that the users have access to this album in the Permissions tab.
-
-Article summary
-
----
-
-← Previous
-
-[Managing your albums](managing-your-albums.md)
-
-Next →

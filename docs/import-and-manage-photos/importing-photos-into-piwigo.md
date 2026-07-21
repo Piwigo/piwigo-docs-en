@@ -217,11 +217,3 @@ If you choose this option, you will be able to choose to recreate all of your Fl
 And voilà!
 
 As you can see, importing photos from your Flickr account and into Piwigo is very easy 🙂
-
-Article summary
-
----
-
-Next →
-
-[File formats compatible with Piwigo](file-formats-compatible-piwigo.md)

@@ -191,11 +191,3 @@ When this plugin is activated, an additional menu is added when an administrator
     This plugin also lets you switch languages with one click or view your gallery as any other user: therefore, it is very useful for testing.
 
 [Learn more about the Admin Tools plugin](../administration-piwigo/plugins-for-administrators.md)
-
-Article summary
-
----
-
-Next →
-
-[The Modus theme](modus-theme-piwigo.md)

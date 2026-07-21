@@ -191,15 +191,3 @@ But on the home page, instead of the "Related Tags" menu, we will display a "Tag
 When the [Community](../managing-users/community-plugin-piwigo.md) is activated, the **Upload 1 Menu** plugin lets you display the "Add photos" menu in the gallery's main menu, next to the "Explore" menu.
 
 ![Plugin UP.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-55e5277b.jpg)
-
-Article summary
-
----
-
-← Previous
-
-[Managing the languages available in your gallery](managing-languages-available-gallery-piwigo.md)
-
-Next →
-
-[Adding pages to your gallery](add-pages-to-piwigo-gallery.md)

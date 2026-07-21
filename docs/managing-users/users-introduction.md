@@ -35,11 +35,3 @@ If you select this option, users will be able to edit their preferences themselv
 Preferences are visualization options: theme, language, number of photos per page... [Learn more about preferences](creating-and-managing-users.md)
 
 If you deselect this option, users will not be able to edit their preferences.
-
-Article summary
-
----
-
-Next →
-
-[Log in to Piwigo](log-in-to-piwigo.md)

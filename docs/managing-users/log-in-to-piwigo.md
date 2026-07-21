@@ -179,15 +179,3 @@ A score below 100 is considered to be weak. A score between 100 and 500 is withi
 The Management tab lets you manage password renewal requests and unlock locked accounts.
 
 ![Gestion utilisateurs PP.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-c5454ae0.jpg)
-
-Article summary
-
----
-
-← Previous
-
-[Users: introduction](users-introduction.md)
-
-Next →
-
-[User statuses](user-statuses.md)

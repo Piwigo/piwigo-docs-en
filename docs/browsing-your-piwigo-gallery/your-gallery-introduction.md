@@ -102,11 +102,3 @@ To obtain more information about customizing your gallery's appearance, visit th
 [Themes](../piwigo-themes/index.md)
 
 [Customizing your gallery](../customizing-your-gallery/index.md)
-
-Article summary
-
----
-
-Next →
-
-[Albums in your gallery](albums-in-your-gallery.md)

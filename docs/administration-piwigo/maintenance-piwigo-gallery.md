@@ -170,15 +170,3 @@ Once the Delete Hit/Rate plugin is activated, two new purge actions are availabl
 - Purge all ratings on the gallery
 
 ![Actions de purge.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-23ad9743.jpg)
-
-Article summary
-
----
-
-← Previous
-
-[Viewing the statistics of your Piwigo gallery](viewing-statistics-piwigo-gallery.md)
-
-Next →
-
-[Plugins for administrators](plugins-for-administrators.md)

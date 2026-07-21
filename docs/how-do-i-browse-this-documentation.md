@@ -51,5 +51,3 @@ To turn dark mode on or off, click on the icon depicting a sun in the top right 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-e0ab6b25.png)
 
 ![image.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-deb148c2.png)
-
-Article summary

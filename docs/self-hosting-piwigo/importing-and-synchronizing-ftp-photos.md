@@ -184,5 +184,3 @@ Let's go over these errors together.
 From Piwigo's administration, you can re-synchronize a photo's metadata by clicking on the "synchronize metadata" icon from a photo's editing screen.
 
 ![Synchroniser unitaire.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-ada63451.jpg)
-
-Article summary

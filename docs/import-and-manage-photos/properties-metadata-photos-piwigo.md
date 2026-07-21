@@ -625,13 +625,3 @@ If you need to do so, you must install the **Edit Filename** plugin.
 Once this plugin is activated, the name of the source file can be edited through the photo's editing page.
 
 ![Edit Filename.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-632b69a5.jpg)
-
-Article summary
-
----
-
-← Previous
-
-Next →
-
-[Multiple formats for one single photo](multiple-formats-piwigo.md)

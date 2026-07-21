@@ -201,11 +201,3 @@ This plugin allows you to show the ID of the user who added the photo on its pag
 The plugin's settings let you decide where you want this information to be displayed (right before "Albums" by default).
 
 If the "See photos by user" plugin is activated, you can make the username clickable, to allow access to the page that lists all photos added by this user.
-
-Article summary
-
----
-
-← Previous
-
-[User groups](user-groups.md)

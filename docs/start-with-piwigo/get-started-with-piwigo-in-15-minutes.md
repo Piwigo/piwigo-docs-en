@@ -249,5 +249,3 @@ It's not over! You still have many things to discover to become a pro on Piwigo,
 - [Customizing](../customizing-your-gallery/index.md) your gallery
 - Using the [batch manager](../import-and-manage-photos/batch-manager-piwigo.md) to modify your files in bulk
 - And many more features that will soon become essential!
-
-Article summary

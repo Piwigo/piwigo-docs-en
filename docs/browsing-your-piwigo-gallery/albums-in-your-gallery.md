@@ -397,20 +397,8 @@ Once the plugin has been activated, go into its configuration to set what you wa
 
 ![TT example.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-531023f7.jpg)
 
-Article summary
-
 ### RV Thumb Scroller: Infinite scroll on the Album page
 
 The **RV Thumb Scroller** plugin allows you to turn off page links on the Album page.
 
 If you activate it, the photo's thumbnails will progressively load when scrolling on the page, no matter the number of photos in the album.
-
----
-
-← Previous
-
-[Your gallery: introduction](your-gallery-introduction.md)
-
-Next →
-
-[The Photo page in your gallery](the-photo-page-in-your-gallery.md)
