@@ -21,7 +21,7 @@ Lastly, you can download it by scanning this QR-Code:
 
 To log into your gallery on the Piwigo NG app, you need to enter its URL, your username, and your password.
 
-![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-d432f660.png)
+![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-d432f660.png){ width=40% }
 
 ### Access all your albums from your mobile phone or tablet
 
@@ -31,23 +31,15 @@ The app's design is independent from the theme you chose for your web gallery, d
 
 The app also offers the ability to search for photos or view the most visited photos, the best rated, the most recent and the photos by tag.
 
-![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-7819c506.png)
-
-![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-040331de.png)
-
-![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-59b08630.png)
+![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-7819c506.png){ width=30% } ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-040331de.png){ width=30% } ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-59b08630.png){ width=30% }
 
 ### Organize your photos
 
 Next, you can use the app to organize your photo library (if you have an administrator account): moving albums, moving or copying photos from one album to another, renaming or deleting your albums, creating sub-albums, editing the properties of your photos (name, description, tags...), choosing an album's thumbnail…
 
-![Screenshot_20240819_105738.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-6f64f08c.jpg)
+![Screenshot_20240819_105738.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-6f64f08c.jpg){ width=45% } ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-99b42b1b.png){ width=45% }
 
-![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-99b42b1b.png)
-
-![Screenshot_20240819_105744.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-339004aa.jpg)
-
-![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-4e1d603f.png)
+![Screenshot_20240819_105744.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-339004aa.jpg){ width=45% } ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-4e1d603f.png){ width=45% }
 
 ### Import photos from your mobile device to your Piwigo gallery
 
@@ -57,18 +49,14 @@ From the app, you can import the photos and videos of your mobile device to new 
 
 You can keep using the app while photos are being downloaded in the background.
 
-![Screenshot_20240819_111147.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-22511b1a.jpg)
-
-![Screenshot_20240819_120215_Gallery.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-f6377daf.jpg)
+![Screenshot_20240819_111147.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-22511b1a.jpg){ width=45% } ![Screenshot_20240819_120215_Gallery.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-f6377daf.jpg){ width=45% }
 
 ### App settings
 
 Settings allow you to customize your app experience and your usage.
 
-![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-0e338812.png)
-
-![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-3d51f5ea.png)
+![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-0e338812.png){ width=45% } ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-3d51f5ea.png){ width=45% }
 
 Among other things, a dark mode has been added in the latest version of the app.
 
-![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-81e767f0.png)
+![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-81e767f0.png){ align=right width=45% }
