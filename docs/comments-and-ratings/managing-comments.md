@@ -1,3 +1,8 @@
+---
+title: Managing comments - Piwigo Documentation
+description: With Piwigo, you can allow users in your gallery to add comments on the content of your photo library.
+---
+
 # Managing comments
 
 With Piwigo, you can allow users in your gallery to add comments on the content of your photo library.

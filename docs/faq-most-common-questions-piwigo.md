@@ -1,3 +1,8 @@
+---
+title: FAQ - Most common questions about Piwigo
+description: On this page, we have summarized all the answers to questions we are frequently asked about using Piwigo. If you have a problem, start by looking here!
+---
+
 # FAQ - The most common questions about Piwigo
 
 **On this page, we have summarized all the answers to questions we are frequently asked about using Piwigo. If you have a problem, start by looking here!**

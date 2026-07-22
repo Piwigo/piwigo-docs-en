@@ -1,3 +1,8 @@
+---
+title: Languages and translation - Piwigo documentation
+description: You can create a multilingual photo library with Piwigo and let visitors browse your photo library in the language of their choice. In this article we explain how.
+---
+
 # Managing the languages available in your gallery
 
 Piwigo's interface is available in over 70 languages.

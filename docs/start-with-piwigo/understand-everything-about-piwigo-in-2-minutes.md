@@ -1,3 +1,8 @@
+---
+title: Understand everything about Piwigo in 2 minutes
+description: Piwigo is an open source photo library and DAM software. In less than 2 minutes, this article explains how it works and what it's for.
+---
+
 # Introduction: understand everything about Piwigo in 2 minutes
 
 !!! info "Read also: [Get started with Piwigo in 15 minutes](get-started-with-piwigo-in-15-minutes.md)"

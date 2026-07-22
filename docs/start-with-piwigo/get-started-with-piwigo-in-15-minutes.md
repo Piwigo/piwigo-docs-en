@@ -1,3 +1,9 @@
+---
+title: Piwigo Tutorial - Get started with Piwigo in 15 minutes
+description: Need help getting started with Piwigo? In this video, which takes less than 15 minutes, you'll learn all you need to know to get started with Piwigo.
+---
+
+
 # Get started with Piwigo in 15 minutes
 
 !!! info "Read also: [Introduction: understand everything about Piwigo in 2 minutes](understand-everything-about-piwigo-in-2-minutes.md)"

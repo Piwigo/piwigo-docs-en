@@ -1,3 +1,8 @@
+---
+title: The Modus theme - Piwigo documentation
+description: Modus for Piwigo theme documentation: customization options, features...
+---
+
 # The Modus theme
 
 ## Presentation of the Modus theme

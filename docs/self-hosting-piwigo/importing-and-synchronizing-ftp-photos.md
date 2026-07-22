@@ -1,3 +1,8 @@
+---
+title: FTP import and synchronization - Piwigo documentation
+description: If you're using a Piwigo installed on your own server (or a server managed by your organization), you can transfer directories from your computer to your Piwigo using the FTP protocol.
+---
+
 # FTP import and synchronization
 
 !!! info "Read also: [Importing photos into Piwigo](../import-and-manage-photos/importing-photos-into-piwigo.md)"

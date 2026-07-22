@@ -1,3 +1,8 @@
+---
+title: Multiple formats - Piwigo Documentation
+description: Discover how to offer several versions (JPG, PNG, PDF...) of a single image in your Piwigo gallery, with the multiple formats feature.
+---
+
 # Multiple formats for one single photo
 
 Multiple formats allow you to offer different versions when downloading a single photo or image. For example :

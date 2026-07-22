@@ -1,3 +1,8 @@
+---
+title: Move your Piwigo to another server
+description: You want to move your Piwigo to a new web hoster,  move from piwigo.com to your own environment or move your gallery to a sub-directory? This is the right place!
+---
+
 # Move your Piwigo to another server
 
 You want to move your Piwigo to a new web hoster,  move from piwigo.com to your own environment or move your gallery to a sub-directory? This is the right place!

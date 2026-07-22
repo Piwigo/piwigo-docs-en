@@ -1,3 +1,8 @@
+---
+title: Users - Piwigo Documentation
+description: Introduction to the user concept in Piwigo and user configuration options.
+---
+
 # Users: introduction
 
 ## Users in Piwigo

@@ -1,5 +1,7 @@
 ---
 icon: lucide/image-down
+title: How to import and manage photos ? Piwigo Documentation
+description: In this section, you'll find all the articles you need to import, manage and modify your photos and other media files in the Piwigo DAM and photo library software.
 ---
 
 # Import and manage photos

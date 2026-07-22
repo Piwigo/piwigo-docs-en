@@ -1,4 +1,6 @@
 ---
+title: Piwigo Documentation - DAM and photo library software
+description: Piwigo open source photo library management software documentation. All the answers to your questions about using Piwigo are here!
 icon: lucide/house
 ---
 
@@ -30,7 +32,7 @@ Read the article below to learn how to browse this website and find answers to y
 <div class="grid pwg-doc-home-list" markdown>
 
 
-- :new: [**Start with Piwigo**](start-with-piwigo/index.md)
+- :new: [Start with Piwigo](start-with-piwigo/index.md)
 - :camera: [Import and manage photos](import-and-manage-photos/index.md)
 - :desktop: [Browsing your Piwigo gallery](browsing-your-piwigo-gallery/index.md)
 - :open_file_folder: [Organizing albums](organizing-albums/index.md)

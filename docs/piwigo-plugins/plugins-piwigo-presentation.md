@@ -1,3 +1,8 @@
+---
+description: How to install a plugin in Piwigo? What's it for? All our explanations in this article.
+title: Plugins on Piwigo - Piwigo documentation
+---
+
 # Plugins on Piwigo: Presentation
 
 If you are already using Piwigo, and you have already gone through this documentation, you surely understand that plugins are a major part of Piwigo.

@@ -1,3 +1,8 @@
+---
+title: The Boostrap Darkroom theme - Piwigo documentation
+description: Boostrap Darkroom for Piwigo theme documentation: customization options, features...
+---
+
 # The Bootstrap Darkroom theme
 
 ## Presentation of the Bootstrap Darkroom theme

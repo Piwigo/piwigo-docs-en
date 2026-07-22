@@ -1,5 +1,7 @@
 ---
 icon: lucide/message-circle-more
+title: Comments and ratings - Piwigo Documentation
+description: In this section's articles, discover how you can manage comments and ratings on your Piwigo gallery’s photos.
 ---
 
 # Comments and ratings

@@ -1,4 +1,6 @@
 ---
+title: Customizing your gallery - Piwigo documentation
+description: There are many options for customizing your Piwigo gallery! Options, languages, menus, plugins... This series of articles takes you on a tour of the possibilities.
 icon: lucide/sliders-horizontal
 ---
 

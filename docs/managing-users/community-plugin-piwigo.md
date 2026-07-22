@@ -1,3 +1,8 @@
+---
+title: Community Plugin - Piwigo Documentation
+description: The Community plugin lets you manage contributors, i.e. authorize non-administrator users to import files into Piwigo.
+---
+
 # Managing contributors (Community plugin)
 
 ## Why use the Community plugin?

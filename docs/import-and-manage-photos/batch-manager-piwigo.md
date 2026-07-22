@@ -1,3 +1,8 @@
+---
+title: Batch Manager - Piwigo Documentation
+description: How can I modify, delete or update a selection of files in bulk in Piwigo? This is the purpose of the Batch Management feature.
+---
+
 # Batch management: Modifying and managing a selection of photos
 
 **How do I edit, delete, update a selection of files in bulk in Piwigo?**

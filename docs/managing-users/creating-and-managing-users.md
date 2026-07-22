@@ -1,3 +1,8 @@
+---
+title: Creating and managing users - Piwigo Documentation
+description: Comment créer et modifier les utilisateurs dans Piwigo ? Quels sont les paramètres et options disponibles ? On explique tout dans cet article.
+---
+
 # Creating and managing users
 
 ## Viewing and managing users

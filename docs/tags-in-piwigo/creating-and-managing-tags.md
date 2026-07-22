@@ -1,3 +1,8 @@
+---
+title: How to create and manage tags - Piwigo Documentation
+description: In this article, you'll discover how to create, organize and use tags to index and organize your photos and other media in Piwigo software.
+---
+
 # Creating and managing tags
 
 Tags are an essential tool to organize your photo library and make searching for content easier. How can you create them and organize them in Piwigo?

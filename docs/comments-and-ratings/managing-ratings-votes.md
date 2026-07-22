@@ -1,3 +1,8 @@
+---
+title: Managing ratings (votes)
+description: This article explains how to allow visitors to your Piwigo gallery to rate your photos.
+---
+
 # Managing ratings (votes)
 
 With Piwigo, you can allow visitors of your gallery to rate photos and other files by assigning them a number of stars. This allows you to set up a voting system to organize photo competitions, for example.

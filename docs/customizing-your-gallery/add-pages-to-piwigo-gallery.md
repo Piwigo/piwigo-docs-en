@@ -1,3 +1,8 @@
+---
+title: Adding pages to your gallery - Piwigo documentation
+description: Would you like to add personalized pages to your Piwigo gallery? With the help of a few plugins, you can.
+---
+
 # Adding pages to your gallery
 
 Do you want to add custom pages to your Piwigo gallery? This is possible with the help of a few plugins.

@@ -1,3 +1,8 @@
+---
+title: User groups - Piwigo Documentation
+description: What are user groups in Piwigo and how do you use them? We explain everything in this article.
+---
+
 # User groups
 
 When having a lot of users, managing settings and permissions for each of them quickly becomes a headache.

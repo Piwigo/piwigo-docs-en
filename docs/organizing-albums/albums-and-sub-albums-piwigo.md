@@ -1,3 +1,8 @@
+---
+title: Albums and sub-albums - Piwigo Documentation
+description: Read this article to find out how albums work in Piwigo and what options are available.
+---
+
 # Albums and sub-albums : introduction
 
 ## In a nutshell

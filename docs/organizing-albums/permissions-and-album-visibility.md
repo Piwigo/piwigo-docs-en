@@ -1,3 +1,8 @@
+---
+title: Permission and albums visibility - Piwigo Documentation
+description: In this chapter, we will see how to manage and edit permissions on albums in Piwigo, meaning the albums' status (private / public), and the management of user rights on the albums.
+---
+
 # Permissions and album visibility
 
 In this chapter, we will see how to manage and edit permissions on albums in Piwigo, meaning the albums' status (private / public), and the management of user rights on the albums.

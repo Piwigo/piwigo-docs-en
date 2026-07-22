@@ -1,3 +1,8 @@
+---
+title: User statuses - Piwigo Documentation
+description: Administrator, User, Webmaster... What are the different user statuses in Piwigo and what are they for?
+---
+
 # User statuses
 
 To understand user management in Piwigo, the first thing to know is how **Statuses** work.

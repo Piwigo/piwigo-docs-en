@@ -1,3 +1,8 @@
+---
+title: Search on your gallery - Piwigo Documentation
+description: How to search for a photo on your Piwigo gallery? How does the multi-criteria search work? We take a look in this article.
+---
+
 # Search for a photo in your gallery
 
 Several options are available to you in order to conduct a search in your Piwigo gallery, be it a simple quick search by keyword, or a multi-criteria search that combines several filters.

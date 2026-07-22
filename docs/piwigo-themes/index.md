@@ -1,4 +1,6 @@
 ---
+title: Themes - Piwigo documentation
+description: What is a theme in Piwigo? What are the possibilities of the main themes, Modus and Bootstrap Darkroom? We take a look in these articles.
 icon: lucide/palette
 ---
 

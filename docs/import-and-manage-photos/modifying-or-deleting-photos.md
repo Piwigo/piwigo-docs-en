@@ -1,3 +1,8 @@
+---
+title: Modifying or deleting photos - Piwigo Documentation
+description: How to edit a photo in Piwigo? How can administrators modify or delete an existing file?
+---
+
 # Modifying or deleting photos
 
 As a Piwigo administrator, you may need to modify an image or any other file type at any time.

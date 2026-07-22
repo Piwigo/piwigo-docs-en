@@ -1,3 +1,8 @@
+---
+title: Managing albums - Piwigo Documentation
+description: How do you view and reorganize your albums in Piwigo administration, view their content, edit and delete them? We explain it all in this article!
+---
+
 # Managing your albums
 
 ## Viewing the album list in the administration

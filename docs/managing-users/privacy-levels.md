@@ -1,3 +1,8 @@
+---
+title: Privacy levels - Piwigo Documentation
+description: Privacy levels allow you to fine-tune the rights of users of your Piwigo gallery. We explain everything in this article.
+---
+
 # Privacy levels
 
 ## Privacy levels: what for?

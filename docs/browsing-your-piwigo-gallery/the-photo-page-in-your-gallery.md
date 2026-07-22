@@ -1,3 +1,8 @@
+---
+title: The Photo page in your gallery - Piwigo Documentation
+description: To understand how the Photo page works on your Piwigo gallery and how to customize it, read this article!
+---
+
 # The Photo page in your gallery
 
 As soon as you access a file (image or other) in the Piwigo gallery, from an album, a search, or any other method, you access the Photo page.

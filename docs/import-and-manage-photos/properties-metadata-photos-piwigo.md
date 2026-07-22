@@ -1,3 +1,8 @@
+---
+title: Photo properties and metadata - Piwigo Documentation
+description: This article introduces all of the possibilities offered by Piwigo to describe, organize, present and index your files with the properties and metadata.
+---
+
 # Managing your files’ properties and metadata
 
 **This article introduces all of the possibilities offered by Piwigo to describe, organize, present and index your files with the properties and metadata.**

@@ -1,3 +1,8 @@
+---
+title: User Collections - Piwigo Documentation
+description: Documentation of the User Collections plugin for Piwigo, which allows users to create selections of files for easy sharing.
+---
+
 # Create collections (User Collections plugin)
 
 ## What is the User Collections plugin?

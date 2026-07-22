@@ -1,3 +1,8 @@
+---
+title: How do I browse this documentation?
+description: Welcome to the Piwigo documentation!
+---
+
 # How do I browse this documentation?
 
 **Welcome to the Piwigo documentation!**

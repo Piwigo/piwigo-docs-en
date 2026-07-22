@@ -1,3 +1,8 @@
+---
+title: What is a tag in Piwigo ? Piwigo documentation
+description: What are tags used for in Piwigo? Tags are very important for organizing, describing and easily finding your photos and other files - in short, for indexing them.
+---
+
 # Tags: introduction
 
 ## What is a tag? What is it for?

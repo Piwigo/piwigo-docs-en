@@ -1,3 +1,8 @@
+---
+title: LocalFiles Editor - Piwigo documentation
+description: How do you use the LocalFiles Editor plugin to customize your Piwigo configuration options? We explain it all in this article.
+---
+
 # Editing the local configuration with LocalFiles Editor
 
 ## Introduction

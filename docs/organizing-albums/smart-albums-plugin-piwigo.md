@@ -1,3 +1,8 @@
+---
+title: Smart Albums - Piwigo Documentation
+description: The SmartAlbums plugin for Piwigo allows you to create automatically-fed smart albums in your media library.
+---
+
 # SmartAlbums
 
 You can create "smart" albums, automatically fed by photos that fit certain criteria.

@@ -1,4 +1,6 @@
 ---
+title: Administration Piwigo - Piwigo Documentation
+description: If you manage your Piwigo, you need access to advanced features. We present them to you in these articles.
 icon: lucide/settings
 ---
 

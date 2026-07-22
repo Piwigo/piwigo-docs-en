@@ -1,3 +1,8 @@
+---
+title: Editing an album - Piwigo Documentation
+description: How do I edit an album in Piwigo? What information and properties are available? How do I manage album permissions?
+---
+
 # Editing an album
 
 ## Editing an album from the administration

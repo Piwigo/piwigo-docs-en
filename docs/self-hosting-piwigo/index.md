@@ -1,5 +1,7 @@
 ---
 icon: lucide/cloudy
+title: Hosting your Piwigo - Piwigo documentation
+description: Here you'll find Piwigo documentation for users who host Piwigo on their own server (self-hosting).
 ---
 
 # Host your Piwigo gallery

@@ -1,3 +1,8 @@
+---
+title: How to create an album? Piwigo Documentation
+description: How to create an album or sub-album in Piwigo? How to manage permissions? We explain it all in this article.
+---
+
 # Documentation : Piwigo Remote Sync
 
 ← [Importing photos into Piwigo](../import-and-manage-photos/importing-photos-into-piwigo.md)

@@ -1,3 +1,8 @@
+---
+title: Tags in your gallery - Piwigo Documentation
+description: How can you use tags in your Piwigo gallery? Which display options are available to you? Here is where we explain everything!
+---
+
 # Tags in your gallery
 
 **How can you use tags in your Piwigo gallery? Which display options are available to you? Here is where we explain everything!**

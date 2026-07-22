@@ -1,3 +1,8 @@
+---
+title: Custom CSS - Piwigo documentation
+description: If you have HTML and CSS skills, you can make modifications to the design of your Piwigo theme.
+---
+
 # Customizing your gallery’s CSS
 
 If you have skills when it comes to HTML and CSS, you can perform changes to your theme's design.

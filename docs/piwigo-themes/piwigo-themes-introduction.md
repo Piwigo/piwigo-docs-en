@@ -1,3 +1,8 @@
+---
+title: What is a theme? Piwigo documentation
+description: What are themes used for in Piwigo? How do I install and customize them?
+---
+
 # Piwigo themes: introduction
 
 ## What is a theme in Piwigo?

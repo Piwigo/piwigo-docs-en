@@ -1,3 +1,8 @@
+---
+title: Statistics in Piwigo - Piwigo Documentation
+description: Piwigo provides several ways for administrators, either as standard or via plugins, to monitor the use of their photo library and track its performance.
+---
+
 # Viewing the statistics of your Piwigo gallery
 
 Piwigo provides administrators with multiple ways, as standard or with plugins, to monitor the use of their photo library and to track how it performs.

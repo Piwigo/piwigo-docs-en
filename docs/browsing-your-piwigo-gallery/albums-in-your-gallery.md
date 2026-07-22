@@ -1,3 +1,8 @@
+---
+title: Albums in your gallery - Piwigo documentation
+description: To learn how to navigate albums and customize their display on your Piwigo gallery, read this article!
+---
+
 # Albums in your gallery
 
 In a Piwigo gallery, it is most common to browse using albums. As a reminder, in Piwigo, a photo has to be located in an album, which can be considered as a directory or a category.

@@ -1,3 +1,8 @@
+---
+title: Customizing the menu - Piwigo documentation 
+description: How do you customize your Piwigo gallery's navigation bar, modify the tree structure and add new menu items? We explain it all in this article.
+---
+
 # Customizing your gallery’s menu
 
 How can you customize your gallery's menu bar, modify the tree structure and add new menu items? We will explain everything in this article.

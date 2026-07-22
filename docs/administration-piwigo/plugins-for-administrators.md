@@ -1,3 +1,8 @@
+---
+title: Plugins for administrators - Piwigo documentation
+description: In addition to Piwigo's classic administration functions, a number of additional options are available via plugins. We take a look at them in this article.
+---
+
 # Plugins for administrators
 
 In addition to Piwigo's standard administration features, some further options are available through plugins.

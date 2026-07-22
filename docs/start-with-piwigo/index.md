@@ -1,4 +1,6 @@
 ---
+title: Start with Piwigo - Piwigo Documentation
+description: Discover resources for getting to grips with Piwigo quickly and discovering its possibilities.
 icon: lucide/help-circle
 ---
 

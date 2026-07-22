@@ -1,4 +1,6 @@
 ---
+title: Plugins - Piwigo documentation
+description: What are plugins for on Piwigo? How do you choose and install them on your gallery? All our advice in the documentation.
 icon: lucide/plug
 ---
 

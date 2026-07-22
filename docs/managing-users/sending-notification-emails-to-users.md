@@ -1,3 +1,8 @@
+---
+title: Email notifications - Piwigo Documentation
+description: How do you send notification emails to users of your Piwigo gallery? We explain everything in this article.
+---
+
 # Sending notification emails to users
 
 You might need to send emails to some Piwigo users, in order to notify them that new photos or new albums have been created.

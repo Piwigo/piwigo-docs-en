@@ -1,3 +1,8 @@
+---
+title: Gallery presentation - Piwigo Documentation
+description: Your Piwigo gallery is the website that showcases your photo library. How do you access and customize your gallery? We summarize everything in this article.
+---
+
 # Your gallery: introduction
 
 ## Preamble

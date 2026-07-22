@@ -1,5 +1,7 @@
 ---
 icon: lucide/tablet-smartphone
+title: Piwigo mobile apps - Piwigo documentation
+description: Piwigo offers two mobile applications for iOS and Android. Discover their features and download links here.
 ---
 
 # Mobile apps

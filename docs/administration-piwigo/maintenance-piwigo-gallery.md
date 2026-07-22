@@ -1,3 +1,8 @@
+---
+title: Piwigo maintenance - Piwigo documentation
+description: For Piwigo "technical" administrators, a Maintenance menu is available, accessible only to users with Webmaster status.
+---
+
 # Maintenance of your Piwigo gallery
 
 For Piwigo's "technical" administrators, a Maintenance menu is available to you, only accessible for users with the Webmaster status.

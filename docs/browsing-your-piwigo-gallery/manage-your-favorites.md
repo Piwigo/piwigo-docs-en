@@ -1,3 +1,8 @@
+---
+title: Manage favorites - Piwigo Documentation
+description: How can you add photos to your favorites in Piwigo and find them again easily? In this article, we summarize all our tips.
+---
+
 # Manage your favorites
 
 How can you add photos to your favorites in Piwigo and find them again easily? In this article, we summarize all our tips.

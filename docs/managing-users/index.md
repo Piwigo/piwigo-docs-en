@@ -1,4 +1,6 @@
 ---
+title: Managing users - Piwigo Documentation
+description: To understand everything about user management and their permissions in Piwigo, read this series of articles.
 icon: lucide/users
 ---
 

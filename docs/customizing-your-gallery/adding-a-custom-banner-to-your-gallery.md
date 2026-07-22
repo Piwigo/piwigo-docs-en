@@ -1,3 +1,8 @@
+---
+title: Create a custom banner - Piwigo documentation
+description: How do you create a customized banner for your Piwigo gallery? We take a look in this article.
+---
+
 # Adding a custom banner to your gallery
 
 **Many users want to add a custom banner to their gallery, in the form of an image, a text, or a mix of both.**

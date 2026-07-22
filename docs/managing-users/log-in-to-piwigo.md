@@ -1,3 +1,8 @@
+---
+title: How to log in to Piwigo - Piwigo Documentation
+description: How do I log in to my Piwigo account? What are the options for creating an account and logging in? Everything is explained in this article.
+---
+
 # Log in to Piwigo
 
 ## How to log in to Piwigo ?

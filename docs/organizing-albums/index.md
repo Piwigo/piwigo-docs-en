@@ -1,4 +1,6 @@
 ---
+title: Organizing albums - Piwigo Documentation
+description: Discover here how albums work in Piwigo, how to use them and manage them in the administration.
 icon: lucide/folder
 ---
 
