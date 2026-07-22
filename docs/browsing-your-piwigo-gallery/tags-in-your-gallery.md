@@ -107,7 +107,7 @@ By default, tags are all at the same level, unlike albums: they follow a tree st
 
 However, you can create a tag tree structure with one level using the **Tag Groups** plugin.
 
-!!! info "Info :" If you are a piwigo.com customer, this plugin is only available from the Enterprise plan and higher.
+!!! info "Info :" If you are a Piwigo cloud customer, this plugin is only available from the Enterprise plan and higher.
 
 This plugin lets you create tag groups: for example, a "Color" group, in which you will find one tag per color; or a "City" group in which you will find one tag per city.
 
@@ -135,7 +135,7 @@ To display tags by group, on the Tags page, click on the "Show tag groups" butto
 
 If you want the Tags page to display tags in groups by default, it is possible.
 
-If you are a piwigo.com plan customer, you must reach out to support to activate this option.
+If you are a Piwigo cloud plan customer, you must reach out to support to activate this option.
 
 If you are using a self-hosted Piwigo gallery, you can activate it by editing the local configuration with LocalFiles Editor, using the configuration setting below.
 
@@ -145,7 +145,7 @@ $conf['tags_default_display_mode'] = 'groups';
 
 **How do I activate multi-criteria filters by tag group?**
 
-If you are a piwigo.com plan customer, you must reach out to support to activate this option.
+If you are a Piwigo cloud plan customer, you must reach out to support to activate this option.
 
 If you are using a self-hosted Piwigo gallery, you can activate it by editing the local configuration with LocalFiles Editor, using the configuration setting below.
 

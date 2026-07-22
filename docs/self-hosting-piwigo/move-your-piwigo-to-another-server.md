@@ -1,11 +1,11 @@
 ---
 title: Move your Piwigo to another server
-description: You want to move your Piwigo to a new web hoster,  move from piwigo.com to your own environment or move your gallery to a sub-directory? This is the right place!
+description: You want to move your Piwigo to a new web hoster,  move from Piwigo cloud to your own environment or move your gallery to a sub-directory? This is the right place!
 ---
 
 # Move your Piwigo to another server
 
-You want to move your Piwigo to a new web hoster,  move from piwigo.com to your own environment or move your gallery to a sub-directory? This is the right place!
+You want to move your Piwigo to a new web hoster,  move from Piwigo cloud to your own environment or move your gallery to a sub-directory? This is the right place!
 ## Move Piwigo to a new server
 
 To move your Piwigo to a new web hoster, you need to follow these steps in the right order.
@@ -47,17 +47,17 @@ define('DB_COLLATE', '');
 ?>
 ```
 
-## Move from Piwigo.com
+## Move from Piwigo cloud
 
-You already have a Piwigo hosted on piwigo.com and you want to move it to your own environment? Follow the guide.
+You already have a Piwigo hosted on Piwigo cloud and you want to move it to your own environment? Follow the guide.
 
-- on your Piwigo.com account, page [Administration > My account > Manage > tab My data], ask to retrieve your data. They will be provided as a list of 500MB zip files. You can also request for an FTP access, if you contact Piwigo.com support for that.
+- on your Piwigo cloud account, page [Administration > My account > Manage > tab My data], ask to retrieve your data. They will be provided as a list of 500MB zip files. You can also request for an FTP access, if you contact Piwigo cloud support for that.
 - extract content of the zip files. In the first zip file, you will get the SQL database dump + the “local” directory. All zip files, including the first one, will include the “upload” directory.
 - download the latest version of Piwigo (not the netInstall), extract files, transfer them on your hosting but do not start the installation.
-- edit file local/config/database.inc.php so that it matches your database credentials on your new hosting server. Please note that tables have no prefix on Piwigo.com, so change `$prefixeTable = '';`
+- edit file local/config/database.inc.php so that it matches your database credentials on your new hosting server. Please note that tables have no prefix on Piwigo cloud, so change `$prefixeTable = '';`
 - transfer directories “local” and “upload” on your new hosting server
 - import your database dump
-- you're good to go, an you may certainly have to install/activate a few plugins you were using on Piwigo.com, but your Piwigo will tell you.
+- you're good to go, an you may certainly have to install/activate a few plugins you were using on Piwigo cloud, but your Piwigo will tell you.
 
 ## Move a gallery from the root to a subdirectory
 

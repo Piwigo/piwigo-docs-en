@@ -27,7 +27,7 @@ There are many benefits:
 - Piwigo allows you to share a file or a set of files in a secure and fast manner, through a simple link share. This prevents from sending emails with an attachment, duplicates, risks of mistakes…
 - Piwigo allows you to create a real website, public or private, to host and showcase your pictures. This library is customizable to your colors.
 
-To learn more, [visit our website](https://piwigo.com/).
+To learn more, [visit our website](https://Piwigo cloud/).
 
 # How Piwigo works
 
@@ -58,7 +58,7 @@ The gallery is the face of Piwigo: it's a website that allows people to view all
 
 ## The users
 
-When you create your account on piwigo.com, you have all the rights: your default status is “webmaster”.
+When you create your account on Piwigo cloud, you have all the rights: your default status is “webmaster”.
 
 You can then create new users:
 
@@ -128,7 +128,7 @@ A plugin is an extension that adds code to your Piwigo gallery. This method prev
 
 By reading this documentation, you will discover many plugins that you could find useful. 
 
-If you are a piwigo.com customer, you can also reach out to support to describe your needs: we will explain which plugins fits them best.
+If you are a Piwigo cloud customer, you can also reach out to support to describe your needs: we will explain which plugins fits them best.
 
 Here are some examples of very popular plugins:
 
@@ -144,7 +144,7 @@ But there are dozens and dozens more!
 
 # Piwigo subscriptions
 
-To use Piwigo, you can create an account on the [piwigo.com](http://piwigo.com/) website: you will benefit from a 30-day free trial to give the software a try.
+To use Piwigo, you can create an account on the [Piwigo cloud](http://piwigo.org/) website: you will benefit from a 30-day free trial to give the software a try.
 
 After that, in order to continue using Piwigo, you will have to choose a subscription plan.
 
@@ -155,7 +155,7 @@ We offer 4 plans, each being calibrated to best answer the needs of each differe
 - An Enterprise plan for middle-sized companies and organizations
 - A VIP plan for bigger companies and organizations with the most demanding needs
 
-[View plans](https://piwigo.com/pricing)
+[View plans](https://piwigo.org/pricing)
 
 Each plan has several restrictions:
 
@@ -182,6 +182,6 @@ If you make this choice, you must understand its consequences:
 - You will be solely responsible for updates and backups;
 - If you modify the sources files of your Piwigo, in the event of an update, your changes will be "crushed";
 
-If you want to use a self-hosted gallery all while enjoying the support of our team, you can choose to go for our [maintenance contract](https://piwigo.com/pricing?plan=self_hosted).
+If you want to use a self-hosted gallery all while enjoying the support of our team, you can choose to go for our [maintenance contract](https://piwigo.org/pricing?plan=self_hosted).
 
 To learn more about self-hosting, [click here](../self-hosting-piwigo/index.md).

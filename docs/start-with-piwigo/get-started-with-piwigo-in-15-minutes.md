@@ -20,14 +20,14 @@ And if you prefer written text, follow the guide below.
 
 ## Create your account
 
-If you made it here, you might have already installed Piwigo on your server or created your account on piwigo.com.
+If you made it here, you might have already installed Piwigo on your server or created your account on Piwigo cloud.
 
-But if you want to create an account on [piwigo.com](http://piwigo.com), [visit this page](https://piwigo.com/signup).
+But if you want to create an account on Piwigo cloud, [visit this page](https://piwigo.org/signup).
 
 In order to create your account, we only need 3 elements:
 
 - Your e-mail address: choose an e-mail address you have access to. This is where you will receive the important information regarding your account. Of course, you will be able to change it in the future.
-- Username: choose it carefully! Not only will it be your login to connect to Piwigo, but it will also be the first part of your gallery's web address! Indeed, all [piwigo.com](http://piwigo.com/) accounts have a web address along the lines of "username.piwigo.com". If you want, you will be able to pair your gallery with a custom domain name later.
+- Username: choose it carefully! Not only will it be your login to connect to Piwigo, but it will also be the first part of your gallery's web address! Indeed, all [Piwigo cloud](http://piwigo.org/) accounts have a web address along the lines of "username.piwigo.com". If you want, you will be able to pair your gallery with a custom domain name later.
 - Your password: choose a secure password. Try to remember it, we will not be able to give it to you (but if you do forget it, don't panic, you can always request a new one).
 
 ![Création compte Piwigo.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-5b4cf5e4.jpg)

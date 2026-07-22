@@ -118,7 +118,7 @@ This plugin's Configuration screen allows you to extract a file's metadata, eith
 
 As we said, Piwigo show some EXIF Metadata by default. But you can display more EXIF fields if your want to. 
 
-If you are a piwigo.com customer, you need to contact support.
+If you are a Piwigo cloud customer, you need to contact support.
 
 If you manage a self hosted Piwigo gallery, you just have to edit the configuration file using [LocalFiles Editor](../self-hosting-piwigo/editing-configuration-localfiles-editor-plugin.md).
 
@@ -166,7 +166,7 @@ If you manage a self hosted Piwigo gallery, you just have to edit the configurat
 
 As we said, Piwigo does not show IPTC metadata by default. But it is possible !
 
- If you are a piwigo.com customer, you need to contact support.
+ If you are a Piwigo cloud customer, you need to contact support.
 
 If you manage a self hosted Piwigo gallery, you just have to edit the configuration files using [LocalFiles Editor](../self-hosting-piwigo/editing-configuration-localfiles-editor-plugin.md).
 
@@ -199,7 +199,7 @@ By default, EXIF and IPTC metadata can be shown on the photo page, but but they 
 
 If you want, you can map some metadata with Piwigo properties, so they can be used to search and sort photos on your gallery. For example, the “Model” EXIF field can be added in tags, if you want to filter photo by camera model.
 
- If you are a piwigo.com customer, you need to contact support to do so.
+ If you are a Piwigo cloud customer, you need to contact support to do so.
 
 If you manage a self hosted Piwigo gallery, you just have to edit the configuration files using [LocalFiles Editor](../self-hosting-piwigo/editing-configuration-localfiles-editor-plugin.md).
 

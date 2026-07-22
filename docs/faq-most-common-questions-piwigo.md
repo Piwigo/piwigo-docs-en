@@ -38,20 +38,20 @@ Click on the arrow to show the answer to a question.
     - Changing the webmaster's email address: in order for the emails to reach their destination, your Piwigo gallery must be allowed to send emails with the address of your site's webmaster. Sending emails from Piwigo might not work with an address like Gmail, Yahoo, etc. Ideally, the webmaster's email address should have the same domain name as your gallery. For example, if your gallery's address is photos.mysite.com, the webmaster's email address would ideally be something such as *@mysite.com.
     - Installing the Protect Notification plugin: the Protect Notification plugin replaces the emails' sender with an address such as no-reply@mysite.com (mysite.com being replaced with your gallery's domain name). Generally, installing this plugin solves the email issues. Since February 2024, Protect Notification is activated by default on new Piwigo accounts.
     - ⚠️ These solutions do not solve the issues with receiving emails sent by the Contact Form plugin, since those are sent using the email address entered in the form. To solve issues with the Contact Form plugin, [visit this page](customizing-your-gallery/add-pages-to-piwigo-gallery.md).
-- How do I delete my piwigo.com account?
+- How do I delete my Piwigo cloud account?
     
     Contact support at support@piwigo.com.
     
-- How do I associate my piwigo.com gallery with a custom domain name?
+- How do I associate my Piwigo cloud gallery with a custom domain name?
     
-    By default, all piwigo.com accounts have a web address in the form of *.piwigo.com. You can add your own domain name, or a simple subdomain. 
+    By default, all Piwigo cloud accounts have a web address in the form of *.piwigo.com. You can add your own domain name, or a simple subdomain. 
     
-    Given that piwigo.com does not sell domain names, you will need to purchase it from a domain name provider, such as OVH. 
+    Given that Piwigo cloud does not sell domain names, you will need to purchase it from a domain name provider, such as OVH. 
     Send us an email at support@piwigo.com and tell us what your domain name (or subdomain name) is. 
-    We will set up the piwigo.com servers and explain to you how to set up your domain name. 
+    We will set up the Piwigo cloud servers and explain to you how to set up your domain name. 
     Once the DNS configuration is propagated, we will add a layer of security with HTTPS.
     
-- How do I rename my piwigo.com account?
+- How do I rename my Piwigo cloud account?
     
     Contact support at support@piwigo.com.
     
@@ -101,7 +101,7 @@ Click on the arrow to show the answer to a question.
     
 - How do I modify my gallery's footer?
     
-    By default, your gallery displays a text at the bottom of the page with a link to piwigo.com or piwigo.org (depending on whether your gallery is hosted on piwigo.com or your own hosting). 
+    By default, your gallery displays a text at the bottom of the page with a link to Piwigo cloud or piwigo.org (depending on whether your gallery is hosted on Piwigo cloud or your own hosting). 
     
     If you want to customize your gallery's footer, you can install the **Perso Footer** plugin ([learn more](customizing-your-gallery/customizing-piwigo-gallery-plugins.md)).
     
@@ -121,9 +121,9 @@ Click on the arrow to show the answer to a question.
     
     [Adding a custom banner to your gallery](customizing-your-gallery/adding-a-custom-banner-to-your-gallery.md)
     
-- How do I get an invoice on piwigo.com?
+- How do I get an invoice on Piwigo cloud?
     
-    Do you need an invoice for your piwigo.com subscription?
+    Do you need an invoice for your Piwigo cloud subscription?
     
     - If you need an invoice before making a payment: ask support. Be careful: requesting an invoice requires you to pay it.
     - If you need an invoice after payment: no worries, it is automatically available in your Piwigo administration, in the My Account > Manage menu, in the billing tab.

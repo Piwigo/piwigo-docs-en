@@ -19,7 +19,7 @@ The screen shows the languages activated in your Piwigo gallery, lets you activa
 
 ![Liste langues.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-40c57bcb.jpg)
 
-If you created your account from the piwigo.com website, the configuration is as follows:
+If you created your account from the Piwigo cloud website, the configuration is as follows:
 
 - The language activated is English
 - The default language is English.

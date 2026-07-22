@@ -144,7 +144,7 @@ To learn more, visit the dedicated documentation by clicking the link below:
 
 ## Importing and synchronizing one of your computer's folder trees as FTP
 
-If you are using a Piwigo that is hosted on your own server, and not on [piwigo.com](http://piwigo.com/), you can synchronize one of your computer's folders with your gallery.
+If you are using a Piwigo that is hosted on your own server, and not on [Piwigo cloud](http://piwigo.org/), you can synchronize one of your computer's folders with your gallery.
 
 To do so, you will need an FTP client software.
 

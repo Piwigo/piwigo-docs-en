@@ -34,7 +34,7 @@ You can also create a tag directly each time you are able to assign a tag to a p
 
 If you need to import a list of existing tags into your Piwigo gallery, or create several tags quickly, simply activate the "Add tags mass" plugin.
 
-!!! info "If you are a piwigo.com customer, this plugin is only available from the Team plan and higher"
+!!! info "If you are a Piwigo cloud customer, this plugin is only available from the Team plan and higher"
 
 Once this plugin has been activated, go to the plugin's configuration to add tags in bulk.
 
@@ -50,7 +50,7 @@ Your photos may already be tagged with keywords added from a photo processing so
 
 These keywords are part of your photos' IPTC metadata, and they can be imported to Piwigo in tag form.
 
-This is the case by default: if you want to edit these settings, and you are a piwigo.com plan customer, you need to contact support.
+This is the case by default: if you want to edit these settings, and you are a Piwigo cloud plan customer, you need to contact support.
 
 !!! warning "Piwigo does not handle the import of tags you may assign to a photo from MacOS's Finder."
 

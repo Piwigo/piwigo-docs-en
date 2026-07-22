@@ -124,7 +124,7 @@ Every time a user requests for a version of a photo to be displayed on the galle
 
 The "Environment" tab shows information about your Piwigo gallery.
 
-For customers hosted on piwigo.com, only the information below is available:
+For customers hosted on Piwigo cloud, only the information below is available:
 
 - Current version of Piwigo
 - List of plugins activated

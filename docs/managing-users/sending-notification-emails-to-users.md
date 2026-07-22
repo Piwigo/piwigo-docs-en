@@ -76,7 +76,7 @@ Click on "Send" to trigger the sending of the email.
 
 ## Protect Notification: Editing the sender of notification emails
 
-Sometimes, notification emails sent by Piwigo may land in the spam folder. This comes from the fact that they are sent using the main administrator's (webmaster's) email address. Since the piwigo.com server isn't allowed to send emails from this email address, the emails are considered to be unsafe.
+Sometimes, notification emails sent by Piwigo may land in the spam folder. This comes from the fact that they are sent using the main administrator's (webmaster's) email address. Since the Piwigo cloud server isn't allowed to send emails from this email address, the emails are considered to be unsafe.
 
 To solve this problem, you can install the **Protect Notif** plugin.
 

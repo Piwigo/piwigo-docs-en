@@ -252,7 +252,7 @@ You can also set rules for the amount of time that archives will be stored on th
 
 The advanced features list the options that can be edited through Piwigo's configuration file.
 
-You can edit them using [LocalFile Editor](../self-hosting-piwigo/editing-configuration-localfiles-editor-plugin.md) if you are working on a self-hosted Piwigo gallery; if you are a piwigo.com plan customer, reach out to support to edit one of these settings.
+You can edit them using [LocalFile Editor](../self-hosting-piwigo/editing-configuration-localfiles-editor-plugin.md) if you are working on a self-hosted Piwigo gallery; if you are a Piwigo cloud plan customer, reach out to support to edit one of these settings.
 
 ### ShareAlbum: Share a security link to an album
 
@@ -369,7 +369,7 @@ With Piwigo, it is possible for each user to add a photo to their favorites to f
 The **Quick Fav** plugin allows you to add a photo with only one click from its thumbnail, on the Album page or another listing page.
 
 !!! warning "Warning :"
-    For now, this plugin is only compatible with the Bootstrap Darkroom theme. Furthermore, it is only accessible to [piwigo.com](http://piwigo.com/) customers (this will be fixed soon).
+    For now, this plugin is only compatible with the Bootstrap Darkroom theme. Furthermore, it is only accessible to [Piwigo cloud](http://piwigo.org/) customers (this will be fixed soon).
 
 Once this plugin has been activated, a heart appears when hovering the mouse over a photo: a click on this heart adds the photo to the user's favorites.
 

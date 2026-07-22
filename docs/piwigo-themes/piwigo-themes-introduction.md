@@ -39,9 +39,9 @@ But naturally, you can choose:
 - to use another theme for your gallery
 - to deactivate the Smart Pocket mobile theme (in this case, on a mobile screen, your gallery will use the same theme as with a computer. This is not a problem with the Modus and Bootstrap Darkroom themes, which are *responsive*, meaning they adapt to all screen sizes).
 
-## Piwigo.com customers and self-hosting: the differences when adding a new theme
+## Piwigo cloud customers and self-hosting: the differences when adding a new theme
 
-Do you want to add a new theme? First of all, you should know that things are slightly different depending on whether you have an account on [piwigo.com](http://piwigo.com/) or are using a self-hosted Piwigo gallery.
+Do you want to add a new theme? First of all, you should know that things are slightly different depending on whether you have an account on [Piwigo cloud](http://piwigo.org/) or are using a self-hosted Piwigo gallery.
 
 - I am using a self-hosted gallery
     
@@ -51,9 +51,9 @@ Do you want to add a new theme? First of all, you should know that things are sl
     
     You also need to think about updating your installed themes when a new update is available.
     
-- I have a Piwigo account hosted on piwigo.com
+- I have a Piwigo account hosted on Piwigo cloud
     
-    If you created an account on piwigo.com, your Piwigo gallery is hosted on our servers.
+    If you created an account on Piwigo cloud, your Piwigo gallery is hosted on our servers.
     
     Your account was set up with a list of pre-installed themes. You can't install a new one. You don't need to update your themes.
     
@@ -152,7 +152,7 @@ Elegant is a theme that was very popular for many years and is still used a lot.
 
 ![Thème Elegant.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-57c3ebf0.jpg)
 
-Colors can't be edited directly from the Elegant theme configuration: [piwigo.com](http://piwigo.com/) customers need to contact support to request it or to get access to Piwigo's style sheet.
+Colors can't be edited directly from the Elegant theme configuration: [Piwigo cloud](http://piwigo.org/) customers need to contact support to request it or to get access to Piwigo's style sheet.
 
 Elegant offers some configuration options:
 

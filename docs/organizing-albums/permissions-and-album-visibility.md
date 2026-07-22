@@ -32,7 +32,7 @@ As soon as a person visits your gallery's website on the Internet without loggin
 For each private album, you will be able to decide who, among users and user groups, is allowed to view it.
 
 !!! info "Info :"
-    When creating a new root album in Piwigo, it is always public by default. If you want to change this behavior, contact support if you are a piwigo.com customer. If not, add the following setting to your configuration using [LocalFiles Editor](../self-hosting-piwigo/editing-configuration-localfiles-editor-plugin.md): `$conf['newcat_default_status'] = 'private';`
+    When creating a new root album in Piwigo, it is always public by default. If you want to change this behavior, contact support if you are a Piwigo cloud customer. If not, add the following setting to your configuration using [LocalFiles Editor](../self-hosting-piwigo/editing-configuration-localfiles-editor-plugin.md): `$conf['newcat_default_status'] = 'private';`
 
 ### Editing permissions on an album
 
@@ -80,7 +80,7 @@ Apart from the status (private / public), sub-albums don't automatically inherit
 Let's take an example: you have a private album, accessible to users X and Y. If you create a sub-album of this private album, it will not be accessible to users X and Y by default (only to administrators).
 
 !!! info "Info :"
-    If you want sub-albums to automatically inherit their parent albums' permissions, contact support if you are a piwigo.com customer. Otherwise, add the following setting to your configuration using [LocalFiles Editor](../self-hosting-piwigo/editing-configuration-localfiles-editor-plugin.md): `$conf['inheritance_by_default'];`
+    If you want sub-albums to automatically inherit their parent albums' permissions, contact support if you are a Piwigo cloud customer. Otherwise, add the following setting to your configuration using [LocalFiles Editor](../self-hosting-piwigo/editing-configuration-localfiles-editor-plugin.md): `$conf['inheritance_by_default'];`
 
 ## Managing album access in bulk (public / private)
 

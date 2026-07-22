@@ -54,7 +54,7 @@ For each message, we show the administrator's name, the date, and the message.
 
 ## Protect Notification: Changing the sender of notification emails
 
-Sometimes, notification emails sent by Piwigo may land in the spam folder. This comes from the fact that they are sent using the main administrator's (webmaster's) email address. If your server (or the piwigo.com server if you are a customer) isn't allowed to send emails from this email address, the emails are considered to be unsafe.
+Sometimes, notification emails sent by Piwigo may land in the spam folder. This comes from the fact that they are sent using the main administrator's (webmaster's) email address. If your server (or the Piwigo cloud server if you are a customer) isn't allowed to send emails from this email address, the emails are considered to be unsafe.
 
 To solve this problem, you can install the **Protect Notif** plugin.
 
@@ -77,7 +77,7 @@ The **Download Limits** plugin lets administrators restrict the number of downlo
 
 ## Export Data: Exporting your Piwigo gallery's data
 
-!!! info "If you are a piwigo.com plan customer, this plugin is only available from the Team plan and higher"
+!!! info "If you are a Piwigo cloud plan customer, this plugin is only available from the Team plan and higher"
 
 
 The **Export Data** plugin lets administrators export data from Piwigo to a spreadsheet.
@@ -109,7 +109,7 @@ By default, the basic version of FCK Editor is displayed on most pages, so the a
 
 **How to enable all these features?**
 
-- If your Piwigo is hosted on piwigo.com, contact support.
+- If your Piwigo is hosted on Piwigo cloud, contact support.
 - If you are self-hosting Piwigo, follow the tutorial below.
 - Click here to display the tutorial
     
@@ -157,7 +157,7 @@ The **LocalFiles Editor** plugin lets you edit Piwigo files directly from the ad
 !!! warning "this feature is for advanced users only!"
 
 
-For piwigo.com customers, this plugin only lets you add custom CSS code.
+For Piwigo cloud customers, this plugin only lets you add custom CSS code.
 
 For other users who are using a self-hosted Piwigo gallery, this plugin lets you edit other files (local configuration, language files, etc).
 

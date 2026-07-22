@@ -7,9 +7,9 @@ description: What file formats are compatible with Piwigo? Images, videos, PDFs.
 
 **Which file formats are compatible with Piwigo? We'll explain everything!**
 
-## Piwigo.com customers and self-hosting: the differences
+## Piwigo cloud customers and self-hosting: the differences
 
-First of all, things are slightly different whether you have an account on [piwigo.com](https://piwigo.com/) or are using a self-hosted gallery.
+First of all, things are slightly different whether you have an account on [Piwigo cloud](https://piwigo.org/) or are using a self-hosted gallery.
 
 - I am using a self-hosted gallery
     
@@ -17,9 +17,9 @@ First of all, things are slightly different whether you have an account on [piwi
     
     Furthermore, if you are using a self-hosted gallery, you need to install and activate the VideoJS plugin to be able to upload multimedia files (video and audio) to your gallery.
     
-- My account is hosted on piwigo.com
+- My account is hosted on Piwigo cloud
     
-    If you have created an account on piwigo.com, the management of image, video and audio files is activated by default.
+    If you have created an account on Piwigo cloud, the management of image, video and audio files is activated by default.
     
     But, in order to accept "Premium" file formats (PDF, PSD, AI...), you will need to opt for a Team, Enterprise, or VIP subscription.
     
@@ -94,7 +94,7 @@ Piwigo allows you to import video and audio files using the following extensions
 - .mp3
 
 !!! info "Info :"
-    If you are using a self-hosted gallery, you need to install and activate the VideoJS plugin to display this file type. If you are a customer of a piwigo.com plan, this plugin is activated by default.
+    If you are using a self-hosted gallery, you need to install and activate the VideoJS plugin to display this file type. If you are a customer of a Piwigo cloud plan, this plugin is activated by default.
 
 When you upload a file into Piwigo, a preview thumbnail is created using the first image of your video. The video can be viewed from your gallery, using Piwigo's integrated video player. You can play the video using the big "play" button.
 
@@ -152,9 +152,9 @@ You can also choose to convert your .mov files to MP4 format before importing th
 
 To find out how to convert a file, read the next chapter.
 
-**From Piwigo administration (piwigo.com customers only)**
+**From Piwigo administration (Piwigo cloud customers only)**
 
-If you are a piwigo.com customer, you can ask support to set up automatic conversion of .mov to .mp4 files.
+If you are a Piwigo cloud customer, you can ask support to set up automatic conversion of .mov to .mp4 files.
 
 If we activate this option, .mov files imported into Piwigo from the administration will be automatically converted to .mp4. When downloading, the user chooses whether to download the .mov version or the .mp4 version.
 
@@ -191,7 +191,7 @@ You will find detailed documentation about the VideoJS plugin [on its GitHub pag
 
 ## ⭐️ Other file formats
 
-These file formats are only for clients of a Team, Enterprise or VIP plan on piwigo.com, or users who host Piwigo themselves.
+These file formats are only for clients of a Team, Enterprise or VIP plan on Piwigo cloud, or users who host Piwigo themselves.
 
 - PDF files
 - SVG files
@@ -232,7 +232,7 @@ You can also click on the “Download this file” icon: you will download the d
 
 ## 📄 Other document formats
 
-If you need to upload other file formats (Excel, Word, Open Office...) to an account hosted on piwigo.com, you can request it by contacting support if you are a piwigo.com customer, or by modifying your configuration file if you are using a self-hosted gallery.
+If you need to upload other file formats (Excel, Word, Open Office...) to an account hosted on Piwigo cloud, you can request it by contacting support if you are a Piwigo cloud customer, or by modifying your configuration file if you are using a self-hosted gallery.
 
 These files will not be readable directly on Piwigo, but you will be able to download them to then open them in the appropriate software.
 
@@ -250,7 +250,7 @@ If you want to offer different file formats for a single image on your gallery (
 
 [Learn more about the multiple formats](multiple-formats-piwigo.md)
 
-!!! info "If you are a piwigo.com plan customer, this feature is only available from the Enterprise plan and higher"
+!!! info "If you are a Piwigo cloud plan customer, this feature is only available from the Enterprise plan and higher"
 
 ## Embedded Videos: Bring files that are hosted on other platforms (YouTube...) into your gallery
 

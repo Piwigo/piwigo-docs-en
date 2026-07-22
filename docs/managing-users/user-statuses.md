@@ -68,7 +68,7 @@ To learn how to edit the "Guest" account, [read this article](creating-and-manag
 
 ## Contributor status (Community plugin)
 
-In our [pricing plans](https://piwigo.com/pricing), we refer to the “Contributor” status.
+In our [pricing plans](https://piwigo.org/pricing), we refer to the “Contributor” status.
 
 This status is not a user type in the strict sense: it refers to non-administrator users who are authorised to import files into Piwigo when the Community plugin is enabled.
 

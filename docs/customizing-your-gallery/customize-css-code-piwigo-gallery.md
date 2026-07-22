@@ -21,7 +21,7 @@ The **LocalFiles Editor** plugin lets you edit Piwigo files directly from the ad
 
 !!! warning "This feature is for experienced users only!"
 
-For piwigo.com customers, this plugin only lets you add custom CSS code.
+For Piwigo cloud customers, this plugin only lets you add custom CSS code.
 
 For users of a self-hosted Piwigo gallery, this plugin lets you edit other files (local configuration, language files, personal plugin). [Learn more](../self-hosting-piwigo/editing-configuration-localfiles-editor-plugin.md)
 

@@ -126,7 +126,7 @@ An intermediate screen lets you confirm your choice.
 The “main” Piwigo user is by default the first user:
 
 - the one who installed Piwigo, if your gallery is self-hosted;
-- the one who created the account, if you use an account on [piwigo.com](http://piwigo.com/).
+- the one who created the account, if you use an account on [Piwigo cloud](http://piwigo.org/).
 
 This user has “webmaster” status.
 
@@ -366,7 +366,7 @@ You can then edit these users in bulk using selection mode (see chapter: [Editin
 
 To add a note or a comment to a user, you can activate the **Add User Note** plugin.
 
-!!! info "If you are a piwigo.com customer, this plugin is only available from the Team plan and higher"
+!!! info "If you are a Piwigo cloud customer, this plugin is only available from the Team plan and higher"
 
 This plugin adds a “Notes” tab to a user's edit window.
 
@@ -380,7 +380,7 @@ When a note has been entered on a user, an icon appears next to its name in the 
 
 You can create custom fields associated with users.
 
-!!! info "If you are a piwigo.com plan customer, this plugin is only available from the Team plan and higher."
+!!! info "If you are a Piwigo cloud plan customer, this plugin is only available from the Team plan and higher."
 
 To do this, you need to activate the User Custom Fields plugin.
 

@@ -140,7 +140,7 @@ It allows you to browse through the sub-album tree, which is not available by de
 
 The **See My Photos** plugin lets you add a "My photos" menu item in the gallery, available inside the "Specials" block.
 
-!!! info "If you are a piwigo.com customer, this plugin is only available from the Team plan and higher."
+!!! info "If you are a Piwigo cloud customer, this plugin is only available from the Team plan and higher."
 
 This link allows users to see all photos they imported into Piwigo themselves. This is particularly useful when using the [Community](../managing-users/community-plugin-piwigo.md) plugin.
 
@@ -148,7 +148,7 @@ This link allows users to see all photos they imported into Piwigo themselves. T
 
 The **See photos by user** lets users of the gallery easily filter photos based on the user who added them.
 
-!!! info "If you are a piwigo.com customer, this plugin is only available from the Team plan and higher."
+!!! info "If you are a Piwigo cloud customer, this plugin is only available from the Team plan and higher."
 
 You can refine this plugin's settings from its configuration page in the administration:
 
@@ -191,7 +191,7 @@ But on the home page, instead of the "Related Tags" menu, we will display a "Tag
 
 ### Upload 1 Menu: adding an “Add photos” menu
 
-!!! info "If you are a piwigo.com customer, this plugin is only available from the Team plan and higher."
+!!! info "If you are a Piwigo cloud customer, this plugin is only available from the Team plan and higher."
 
 When the [Community](../managing-users/community-plugin-piwigo.md) is activated, the **Upload 1 Menu** plugin lets you display the "Add photos" menu in the gallery's main menu, next to the "Explore" menu.
 

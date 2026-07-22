@@ -21,7 +21,7 @@ All of these users who aren't administrators but are allowed to import content i
 
 To activate this feature, you need to install the **Community** plugin.
 
-!!! info "If you are a piwigo.com customer, this plugin is only available from the Team plan and higher."
+!!! info "If you are a Piwigo cloud customer, this plugin is only available from the Team plan and higher."
 
 ## Setting which users are authorized to send photos and their permissions
 
@@ -103,7 +103,7 @@ Users who are authorized to add photos to the gallery have access to a new menu 
 ![Ajout photos Community.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-ba709fad.jpg)
 
 !!! note "Note :"
-    The "Upload photos" menu can be displayed on the home page, to the right of the "Explore" menu. To do this, install the Upload 1 Menu plugin. If you are a piwigo.com customer, this plugin is only available from the Team plan and higher.
+    The "Upload photos" menu can be displayed on the home page, to the right of the "Explore" menu. To do this, install the Upload 1 Menu plugin. If you are a Piwigo cloud customer, this plugin is only available from the Team plan and higher.
 
 
 The Upload photos menu lets you access the photo upload page.
@@ -177,7 +177,7 @@ Then, simply select the photos and click on "Validate" (upload the photos) or "R
 
 Some plugins are useful for Piwigo galleries who use the Community plugin: here is the list.
 
-!!! info "If you are a piwigo.com, this plugins are only available from the Team plan and higher."
+!!! info "If you are a Piwigo cloud, this plugins are only available from the Team plan and higher."
 
 ### Upload 1 Menu
 

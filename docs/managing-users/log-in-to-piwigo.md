@@ -21,7 +21,7 @@ If you are using the Bootstrap Darkroom theme, the login button opens a modal wi
 
 The URL of your Piwigo log in page is [`mygallery.com`](http://mygallery.com)/identification.php, `mygallery.com` representing the root URL of your gallery. 
 
-If your gallery is hosted on piwigo.com and you have not customize your gallery’s domain name, your log in URL looks like `mygallery`.piwigo.com/identification.php, `mygallery` representing the username you have chosen when you first created your account.
+If your gallery is hosted on Piwigo cloud and you have not customize your gallery’s domain name, your log in URL looks like `mygallery`.piwigo.com/identification.php, `mygallery` representing the username you have chosen when you first created your account.
 
 To log into Piwigo, you can use your username OR your email address in the "Username" field.
 
@@ -49,7 +49,7 @@ If you are using the Bootstrap Darkroom theme, the administration access menu ca
 
 ## How to recover your Piwigo password?
 
-If you lost your password, it cannot possibly be retrieved, whether you are a piwigo.com customer, or using a self-hosted Piwigo gallery. For this reason, you need to reset your password.
+If you lost your password, it cannot possibly be retrieved, whether you are a Piwigo cloud customer, or using a self-hosted Piwigo gallery. For this reason, you need to reset your password.
 
 To reset your password, you need to go to your Piwigo's login window and click on "Forgot your password?".
 
@@ -73,12 +73,12 @@ You can also search in your inbox for the email that was sent when creating your
 
 If you are the only user of your Piwigo gallery, or if you are the main administrator (the webmaster), you should have received your login credentials by email.
 
-- If your Piwigo gallery is hosted on [piwigo.com](http://piwigo.com/): you have received an email when creating your Piwigo account.
+- If your Piwigo gallery is hosted on [Piwigo cloud](http://piwigo.org/): you have received an email when creating your Piwigo account.
 - If you are using a self-hosted Piwigo gallery: when installing Piwigo for the first time, if you went through the install form, you may have selected the option to "receive my credentials by email".
 
 ### Are you really struggling to log in to Piwigo?
 
-If you have an account on piwigo.com, reach out to support: we will find a way to retrieve it.
+If you have an account on Piwigo cloud, reach out to support: we will find a way to retrieve it.
 
 If you are using a self-hosted Piwigo gallery, sadly, we can't help you. However, if you have access to Piwigo's database, you can retrieve your username in the Users table.
 

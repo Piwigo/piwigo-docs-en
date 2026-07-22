@@ -54,7 +54,7 @@ You can also choose between 3 display options:
 
 - Tag cloud
 - Group by letters
-- Use Cumulus mode (the Cumulus Tag Clouds plugin needs to be activated. This plugin is not available for piwigo.com customers)
+- Use Cumulus mode (the Cumulus Tag Clouds plugin needs to be activated. This plugin is not available for Piwigo cloud customers)
 
 ![Bloc tags config.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-5d29b359.jpg)
 

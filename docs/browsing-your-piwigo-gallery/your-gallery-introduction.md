@@ -25,7 +25,7 @@ If you are an administrator, you have access to the administration AND the galle
 
 ## Your gallery's home page
 
-Every gallery is different! However, when installing Piwigo or when creating an account on the piwigo.com site, we all start with the same gallery, empty of all content.
+Every gallery is different! However, when installing Piwigo or when creating an account on the Piwigo cloud site, we all start with the same gallery, empty of all content.
 
 This gallery uses the [Modus](../piwigo-themes/modus-theme-piwigo.md) theme and Piwigo's default settings. This is the "default" version we will be presenting here. But as you will see later, there are many ways to customize your gallery.
 
@@ -33,7 +33,7 @@ Your gallery's home page features the following elements:
 
 - The browsing menu, which contains a search field and a login link
 - An album list (if you have created at least one album) and a tool bar
-- A page footer with a default text. For galleries hosted on piwigo.com, you will also find a login link there.
+- A page footer with a default text. For galleries hosted on Piwigo cloud, you will also find a login link there.
 
 ![Menu explained.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-851b9a0c.jpg)
 

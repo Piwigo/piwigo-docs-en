@@ -101,7 +101,7 @@ To learn more about creating a banner for your gallery, read this article:
 
 If you want to go further in the customization of your Modus theme, you can:
 
-- Contact support if you are a piwigo.com customer
+- Contact support if you are a Piwigo cloud customer
 - Contact support if you are using a self-hosted Piwigo gallery and have signed a maintenance contract
 - Visit the [Modus page on GitHub](https://github.com/Piwigo)
 - Ask a question on [Piwigo's forum](https://piwigo.org/forum/)

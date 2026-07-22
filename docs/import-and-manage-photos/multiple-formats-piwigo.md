@@ -11,11 +11,11 @@ Multiple formats allow you to offer different versions when downloading a single
 - a JPG version, a PSD version and a PDF version
 - etc.
 
-!!! info "If you are a piwigo.com customer, this plugin is only available from the Enterprise plan and higher."
+!!! info "If you are a Piwigo cloud customer, this plugin is only available from the Enterprise plan and higher."
 
 ## How do I activate multiple formats ?
 
-The answer is different whether you are using a self-hosted Piwigo gallery or are a piwigo.com customer.
+The answer is different whether you are using a self-hosted Piwigo gallery or are a Piwigo cloud customer.
 
 - I am hosting my gallery myself (or my organization is doing so)
     
@@ -33,9 +33,9 @@ The answer is different whether you are using a self-hosted Piwigo gallery or ar
     $conf['format_ext'] = array('cr2', 'tif', 'tiff', 'nef', 'dng', 'ai', 'psd');
     ```
     
-- I am a piwigo.com customer
+- I am a Piwigo cloud customer
     
-    This feature is available for [piwigo.com](http://piwigo.com/) customers who have subscribed to an Enterprise or VIP plan. To activate it on your gallery, you need to make a request to the support.
+    This feature is available for [Piwigo cloud](http://piwigo.org/) customers who have subscribed to an Enterprise or VIP plan. To activate it on your gallery, you need to make a request to the support.
     
 
 ## Adding multiple formats on a photo

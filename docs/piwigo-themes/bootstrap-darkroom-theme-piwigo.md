@@ -49,7 +49,7 @@ Activating the "full width" option allows your content to fill up all the space 
 
 Lets you display a logo instead of the site name, in the top left.
 
-If you activate this option, you will need to set the relative path to access the image in your Piwigo gallery in the "Path" field. If you need help, contact support is you are a piwigo.com customer.
+If you activate this option, you will need to set the relative path to access the image in your Piwigo gallery in the "Path" field. If you need help, contact support is you are a Piwigo cloud customer.
 
 **Page header (banner)**
 
@@ -194,7 +194,7 @@ You can also choose the display mode for the share buttons:
 
 If you want to go further in the customization of your Bootstrap Darkroom theme, you can:
 
-- Contact support if you are a piwigo.com plan customer
+- Contact support if you are a Piwigo cloud plan customer
 - Contact support if you are using a self-hosted Piwigo gallery and have signed a maintenance contract
 - Visit the [theme’s documentation](https://github.com/Piwigo/piwigo-bootstrap-darkroom/wiki) on GitHub
 - Ask a question on the [Piwigo forum](https://piwigo.org/forum/)

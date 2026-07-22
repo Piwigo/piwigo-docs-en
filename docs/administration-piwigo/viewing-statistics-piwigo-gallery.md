@@ -25,7 +25,7 @@ The dashboard lets you view the usage of your gallery at a glance:
 - Pages seen (from the beginning)
 - Plugins installed
 - Storage used
-- Only for piwigo.com: Number of days remaining on the current period (trial period, subscription...)
+- Only for Piwigo cloud: Number of days remaining on the current period (trial period, subscription...)
 
 Each icon is also a shortcut to the management screen for each topic.
 

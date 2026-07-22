@@ -18,7 +18,7 @@ When installing Piwigo for the first time, you have access to Piwigo’s core sy
 - Piwigo’s administration
 - The gallery with the default Modus theme
 
-By default, some plugins are already installed on your Piwigo, depending on whether it is a self hosted gallery or a piwigo.com account.
+By default, some plugins are already installed on your Piwigo, depending on whether it is a self hosted gallery or a Piwigo cloud account.
 
 - Self-hosted galleries
     
@@ -28,12 +28,12 @@ By default, some plugins are already installed on your Piwigo, depending on whet
     - Language Switch (allows to change the gallery’s language easily)
     - LocalFiles Editor (allows to edit local configuration files from the administration)
     - Take A Tour of Your Piwigo (adds an interactive guided tour of Piwigo’s administration for new users)
-- Galleries hosted on piwigo.com
+- Galleries hosted on Piwigo cloud
     
-    If you create an account on piwigo.com, the following plugins will be activated by default:
+    If you create an account on Piwigo cloud, the following plugins will be activated by default:
     
     - Stop Spammer (a plugin to avoid spam, not to be deactivated)
-    - VideoJS (the video management plugin, activated by default for piwigo.com customers since March 2023).
+    - VideoJS (the video management plugin, activated by default for Piwigo cloud customers since March 2023).
 
 **But you shouldn't stop with the pre-installed plugins.** 
 
@@ -41,13 +41,13 @@ Piwigo is a modular tool to which you can choose whether or not to add features:
 
 If you know WordPress, this is the exact same principle. By the way, you will notice that very few websites created using WordPress work without any plugins. Similarly, it would really be a shame to use Piwigo without enhancing it with the plugins that correspond to your needs.
 
-## Plugin management: difference between piwigo.com customers and self-hosting
+## Plugin management: difference between Piwigo cloud customers and self-hosting
 
-The way plugins work is different whether you have an account on piwigo.com or are using a self-hosted Piwigo gallery.
+The way plugins work is different whether you have an account on Piwigo cloud or are using a self-hosted Piwigo gallery.
 
-### You are a piwigo.com customer
+### You are a Piwigo cloud customer
 
-If you are a customer for a hosting plan on piwigo.com, you don't need to install or update plugins.
+If you are a customer for a hosting plan on Piwigo cloud, you don't need to install or update plugins.
 
 You have access to a limited list of plugins, depending on the subscription plan you chose. They are already installed on your Piwigo gallery, and you can activate or deactivate them as you wish.
 
@@ -77,7 +77,7 @@ If you are searching for a specific plugin, combine the Ctrl+F keys on your keyb
 
 ### You are using a self-hosted Piwigo gallery
 
-If you are using a Piwigo gallery that is installed on your own hosting platform, and not on piwigo.com, things are a little bit different.
+If you are using a Piwigo gallery that is installed on your own hosting platform, and not on Piwigo cloud, things are a little bit different.
 
 In order to use a new plugin, you first need to install it on your server, then activate it.
 
@@ -91,7 +91,7 @@ The List tab lets you view the plugins that are already activated in your Piwigo
 
 **Updating the plugins**
 
-Unlike piwigo.com customers, you need to update your plugins yourself when a new version is available. The Search for updates tab is available to you for this purpose, allowing you to see if updates are available and install them.
+Unlike Piwigo cloud customers, you need to update your plugins yourself when a new version is available. The Search for updates tab is available to you for this purpose, allowing you to see if updates are available and install them.
 
 ![Plugins mise à jour.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-efa434ef.jpg)
 
@@ -107,7 +107,7 @@ You can search for a plugin by keyword or filter the plugins (by date, author, t
 
 ![Ajouter un plugin.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-163c6615.jpg)
 
-In this list are some plugins that aren't available on piwigo.com. These are community-made plugins, which the Piwigo developer team hasn't always tested or approved: therefore, we can't guarantee that they work correctly, nor that they are compatible!
+In this list are some plugins that aren't available on Piwigo cloud. These are community-made plugins, which the Piwigo developer team hasn't always tested or approved: therefore, we can't guarantee that they work correctly, nor that they are compatible!
 
 !!! info "Info :"
     The plugins we are showcasing in the current documentation are the ones available on Piwigo Cloud, which our team has tested and approved. However, of course, this does not mean that the other plugins available aren't interesting.

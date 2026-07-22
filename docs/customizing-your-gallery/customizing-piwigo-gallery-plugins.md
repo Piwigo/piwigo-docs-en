@@ -252,7 +252,7 @@ We have listed them all below.
 
 ## Perso Footer: Customizing your gallery’s footer
 
-By default, your gallery's footer shows a presentation text for Piwigo, as well as a login / logout link and a link for sending an email to the gallery's webmaster (piwigo.com subscribers only).
+By default, your gallery's footer shows a presentation text for Piwigo, as well as a login / logout link and a link for sending an email to the gallery's webmaster (Piwigo cloud subscribers only).
 
 ![Pied de page basique.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-02bf4b28.jpg)
 
@@ -266,7 +266,7 @@ If you install the FCKEditor plugin on top of that, adding a visual editor to te
 
 ## Personal Favicon: Customizing your gallery's icon in the browser
 
-By default, your Piwigo gallery's Favicon, meaning the icon that is displayed in the browser, is the Piwigo.com icon.
+By default, your Piwigo gallery's Favicon, meaning the icon that is displayed in the browser, is the Piwigo cloud icon.
 
 ![Untitled](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-8435a237.png)
 
