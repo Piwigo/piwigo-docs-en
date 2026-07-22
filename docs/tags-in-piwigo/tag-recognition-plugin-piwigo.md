@@ -1,5 +1,5 @@
 ---
-title: Tag Recognition: Tag your photos automatically with AI
+title: "Tag Recognition: Tag your photos automatically with AI"
 description: Do you have an important number of photos and you want to tag them quickly and automatically? This is possible using the Tag Recognition plugin.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Importing photos into Piwigo - Piwigo Documentation
-description: This article shows you how to add files to Piwigo from different sources: the administration, your gallery, the Piwigo mobile application, other software...
+description: "This article shows you how to add files to Piwigo from different sources: the administration, your gallery, the Piwigo mobile application, other software..."
 ---
 
 # Importing photos into Piwigo
