@@ -153,6 +153,11 @@ nav = [
 		{"Local configuration" = "self-hosting-piwigo/editing-configuration-localfiles-editor-plugin.md"},
 		{"Move your Piwigo" = "self-hosting-piwigo/move-your-piwigo-to-another-server.md"},
 		{"Issues with thumbnails generation" = "self-hosting-piwigo/issues-generation-thumbnails-representative.md"},
+	]},
+	{"Legal" = [
+	    "legal/index.md",
+		{"Terms and Conditions of Use" = "legal/terms-of-service.md"},
+		{"Privacy Policy" = "legal/privacy.md"}
 	]}
 ]
 
