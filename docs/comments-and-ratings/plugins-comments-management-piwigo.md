@@ -1,6 +1,6 @@
 ---
 title: Plugins for comment management - Piwigo Documentation
-description: Discover several plugins for Piwigo software to go further in managing comments: subscribe to comments, avoid SPAM, ...
+description: "Discover several plugins for Piwigo software to go further in managing comments: subscribe to comments, avoid SPAM, ..."
 ---
 
 # Customizing comment management with plugins

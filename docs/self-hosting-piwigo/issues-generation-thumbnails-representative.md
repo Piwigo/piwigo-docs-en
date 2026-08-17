@@ -1,6 +1,6 @@
 ---
 title: Issues with generating thumbnails and representatives
-description: When you upload files to Piwigo, there is a whole process at work. Files are uploaded to the server but also registered in the database, and some other files are generated on the go:
+description: When you upload files to Piwigo, there is a whole process at work. Files are uploaded to the server but also registered in the database, and some other files are generated on the go
 ---
 
 # Issues with generating thumbnails and representatives
