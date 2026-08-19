@@ -126,7 +126,7 @@ An intermediate screen lets you confirm your choice.
 The “main” Piwigo user is by default the first user:
 
 - the one who installed Piwigo, if your gallery is self-hosted;
-- the one who created the account, if you use an account on [Piwigo cloud](http://piwigo.org/).
+- the one who created the account, if you use an account on [Piwigo Cloud](https://piwigo.org/get-piwigo#cloud).
 
 This user has “webmaster” status.
 

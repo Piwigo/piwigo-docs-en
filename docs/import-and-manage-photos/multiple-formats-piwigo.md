@@ -35,7 +35,7 @@ The answer is different whether you are using a self-hosted Piwigo gallery or ar
     
 - I am a Piwigo cloud customer
     
-    This feature is available for [Piwigo cloud](http://piwigo.org/) customers who have subscribed to an Enterprise or VIP plan. To activate it on your gallery, you need to make a request to the support.
+    This feature is available for [Piwigo Cloud](https://piwigo.org/get-piwigo#cloud) customers who have subscribed to an Enterprise or VIP plan. To activate it on your gallery, you need to make a request to the support.
     
 
 ## Adding multiple formats on a photo

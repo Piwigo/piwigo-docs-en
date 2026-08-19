@@ -369,7 +369,7 @@ With Piwigo, it is possible for each user to add a photo to their favorites to f
 The **Quick Fav** plugin allows you to add a photo with only one click from its thumbnail, on the Album page or another listing page.
 
 !!! warning "Warning :"
-    For now, this plugin is only compatible with the Bootstrap Darkroom theme. Furthermore, it is only accessible to [Piwigo cloud](http://piwigo.org/) customers (this will be fixed soon).
+    For now, this plugin is only compatible with the Bootstrap Darkroom theme. Furthermore, it is only accessible to [Piwigo Cloud](https://piwigo.org/get-piwigo#cloud) customers (this will be fixed soon).
 
 Once this plugin has been activated, a heart appears when hovering the mouse over a photo: a click on this heart adds the photo to the user's favorites.
 

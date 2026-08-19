@@ -41,7 +41,7 @@ But naturally, you can choose:
 
 ## Piwigo cloud customers and self-hosting: the differences when adding a new theme
 
-Do you want to add a new theme? First of all, you should know that things are slightly different depending on whether you have an account on [Piwigo cloud](http://piwigo.org/) or are using a self-hosted Piwigo gallery.
+Do you want to add a new theme? First of all, you should know that things are slightly different depending on whether you have an account on [Piwigo Cloud](https://piwigo.org/get-piwigo#cloud) or are using a self-hosted Piwigo gallery.
 
 - I am using a self-hosted gallery
     
@@ -152,7 +152,7 @@ Elegant is a theme that was very popular for many years and is still used a lot.
 
 ![Thème Elegant.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-57c3ebf0.jpg)
 
-Colors can't be edited directly from the Elegant theme configuration: [Piwigo cloud](http://piwigo.org/) customers need to contact support to request it or to get access to Piwigo's style sheet.
+Colors can't be edited directly from the Elegant theme configuration: [Piwigo Cloud](https://piwigo.org/get-piwigo#cloud) customers need to contact support to request it or to get access to Piwigo's style sheet.
 
 Elegant offers some configuration options:
 

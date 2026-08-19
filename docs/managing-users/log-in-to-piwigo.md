@@ -73,7 +73,7 @@ You can also search in your inbox for the email that was sent when creating your
 
 If you are the only user of your Piwigo gallery, or if you are the main administrator (the webmaster), you should have received your login credentials by email.
 
-- If your Piwigo gallery is hosted on [Piwigo cloud](http://piwigo.org/): you have received an email when creating your Piwigo account.
+- If your Piwigo gallery is hosted on [Piwigo Cloud](https://piwigo.org/get-piwigo#cloud): you have received an email when creating your Piwigo account.
 - If you are using a self-hosted Piwigo gallery: when installing Piwigo for the first time, if you went through the install form, you may have selected the option to "receive my credentials by email".
 
 ### Are you really struggling to log in to Piwigo?

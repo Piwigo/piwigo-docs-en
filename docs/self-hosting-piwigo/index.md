@@ -9,7 +9,7 @@ description: Here you'll find Piwigo documentation for users who host Piwigo on 
 As a reminder, you can use Piwigo in two ways:
 
 - By downloading the free Piwigo software on the [piwigo.org](https://piwigo.org/) website and installing it on your web host;
-- Or by subscribing to a "Cloud" subscription plan on [Piwigo cloud](https://piwigo.org/), which includes hosting, updates, and access to support.
+- Or by subscribing to a "Cloud" subscription plan on [Piwigo cloud](https://piwigo.org/get-piwigo#cloud), which includes hosting, updates, and access to support.
 
 **This section lists all articles of the documentation which involve users that are using a self-hosted version.**
 

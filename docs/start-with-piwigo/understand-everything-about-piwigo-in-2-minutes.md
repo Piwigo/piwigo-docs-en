@@ -144,7 +144,7 @@ But there are dozens and dozens more!
 
 # Piwigo subscriptions
 
-To use Piwigo, you can create an account on the [Piwigo cloud](http://piwigo.org/) website: you will benefit from a 30-day free trial to give the software a try.
+To use Piwigo, you can create an account on the [Piwigo Cloud](https://piwigo.org/get-piwigo#cloud) website: you will benefit from a 30-day free trial to give the software a try.
 
 After that, in order to continue using Piwigo, you will have to choose a subscription plan.
 
