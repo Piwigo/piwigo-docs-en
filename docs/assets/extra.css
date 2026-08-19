@@ -1,5 +1,16 @@
+/* Custom colours */
+:root > * {
+    --md-primary-fg-color: #329f83;
+    --md-primary-fg-color--light: #d8f4ec;
+    --md-primary-fg-color--dark: #29554a;
+    --md-accent-fg-color: #ff7700;
+    --md-accent-fg-color--light: #fff2e5;
+    --md-accent-fg-color--dark: #bb600f;
+}
+
 /* Remove repo link */
-.md-header__source, .md-nav__source {
+.md-header__source,
+.md-nav__source {
     display: none;
 }
 
@@ -8,12 +19,14 @@ body:has(#piwigo-documentation) .md-sidebar--secondary {
     display: none;
 }
 
+/* Remove dots before list element on index page */
 .pwg-doc-home-list ul li {
     list-style-type: none;
 }
 
+/* Minor footer style overrides */
 .pwg_custom_copyright_middledot {
-    margin: 10px
+    margin: 10px;
 }
 
 .pwg_custom_social_zensical {
