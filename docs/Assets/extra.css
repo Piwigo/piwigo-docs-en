@@ -1,5 +1,5 @@
 /* Remove repo link */
-.md-header__source {
+.md-header__source, .md-nav__source {
     display: none;
 }
 
