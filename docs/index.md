@@ -13,7 +13,7 @@ icon: lucide/house
 Here you can find answers to most of your questions about using Piwigo: importing photos, managing users, plugins and customization…
 
 !!! info "Your opinion is valuable !"
-    If you have a comment about this documentation, if you are missing a piece of information, if you notice a mistake : [send us your feedback here](https://framaforms.org/your-feedback-on-piwigo-documentation-1721135452)!
+    If you have a comment about this documentation, if you are missing a piece of information, if you notice a mistake : [send us your feedback here](https://piwigo.org/contact)!
 
 ## Quick start
 
