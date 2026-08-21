@@ -11,7 +11,7 @@
 # The site_name is shown in the page header and the browser window title
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
-site_name = "<div>Piwigo Documentation<span> - DAM and photo library software</span></div>"
+site_name = "<span>Piwigo Documentation - DAM and photo library software</span>"
 
 # The site_description is included in the HTML head and should contain a
 # meaningful description of the site content for use by search engines.
@@ -33,9 +33,7 @@ site_url = "https://doc.piwigo.org/"
 # fragment.
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
-copyright = """
-<a href= "https://piwigo.org">Piwigo.org</a> &copy; 2002-2026
-"""
+copyright = "&copy; 2002-2026"
 
 repo_url = "https://github.com/Piwigo/piwigo-docs-en"
 edit_uri = "edit/main/docs/"

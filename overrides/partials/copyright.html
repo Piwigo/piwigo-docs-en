@@ -1,10 +1,14 @@
-{#-
-    Overrides the copyright section to add "· Get help"
--#}
+<!--Add link to piwigo.org-->
+<!--Add "· Get help" link after the copyright-->
+<!--Remove "Made With Zensical" generator-->
+
 <div class="md-copyright">
   {% if config.copyright %}
     <div class="md-copyright__highlight">
-      {{ config.copyright }} <span class="pwg_custom_copyright_middledot">·</span> <a href="https://piwigo.org/contact">Get help</a>
+      <a href= "https://piwigo.org">Piwigo.org</a>
+      {{ config.copyright }}
+      <span class="pwg_custom_copyright_middledot">·</span>
+      <a href="https://piwigo.org/contact">Get help</a>
     </div>
   {% endif %}
 </div>

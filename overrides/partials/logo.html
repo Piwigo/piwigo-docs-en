@@ -1,8 +1,0 @@
-{% if config.theme.logo %}
-    <picture>
-        {% set href = config.theme.favicon | d("assets/images/favicon.png") %}
-        <source srcset="{{ href | url }}" media="(max-width: 76.25em)" />
-        <img src="{{ config.theme.logo | url }}" alt="{{ config.site_name }}" />
-    </picture>
-{% else %} {% set icon = config.theme.icon.logo or "material/library" %} {%
-include ".icons/" ~ icon ~ ".svg" %} {% endif %}

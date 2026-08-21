@@ -20,10 +20,13 @@ h1, h2, h3, h4, h5 {
     display: none;
 }
 
-/* Shorten title in mobile layout */
+/* Replace title by logo in mobile side nav */
 @media screen and (max-width: 76.25em) {
-    label[for="__drawer"].md-nav__title > div > span {
+    label[for="__drawer"].md-nav__title > span {
         display: none;
+    }
+    label[for="__drawer"].md-nav__title > a {
+        width: 100% !important;
     }
 }
 
