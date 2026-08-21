@@ -10,13 +10,17 @@
     --md-default-fg-color: #3C3C3Cde !important;
 }
 
+/* Set headers font (Sora Extra Bold 800) */
 h1, h2, h3, h4, h5 {
     font-family: "Sora", sans-serif;
 }
 
-/* Remove repo link */
-.md-header__source,
-.md-nav__source {
+/* Hide repo stats and make text bigger */
+.md-source__repository {
+    font-size: .7rem;
+}
+
+.md-source__repository > ul {
     display: none;
 }
 
