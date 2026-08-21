@@ -1,5 +1,6 @@
 {% extends "base.html" %}
 
+<!-- Add extra metadata -->
 {% block site_meta %}
   {{ super() }}
   <!-- Google site -->
@@ -23,8 +24,13 @@
   <meta property="og:locale" content="en-US">
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ page.canonical_url }}">
+  <!-- Add Sora font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@800&display=swap" rel="stylesheet">
 {% endblock %}
 
+<!-- Remove " - {{ config.site_name }}" from titles -->
 {% block htmltitle %}
   {% if page.meta and page.meta.title %}
     <title>{{ page.meta.title }}</title>
