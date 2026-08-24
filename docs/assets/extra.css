@@ -10,9 +10,14 @@
     --md-default-fg-color: #3C3C3Cde !important;
 }
 
-/* Set headers font (Sora Extra Bold 800) */
+/* Set fonts */
+:root {
+    --md-text-font:"Red Hat Display";
+    --md-code-font:"Chivo Mono";
+}
+
 h1, h2, h3, h4, h5 {
-    font-family: "Sora", sans-serif;
+    font-family: "Sora", sans-serif; /*  (Sora Extra Bold 800) */
 }
 
 /* Hide repo stats and make text bigger */
