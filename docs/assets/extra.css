@@ -10,6 +10,10 @@
     --md-default-fg-color: #3C3C3Cde !important;
 }
 
+.md-sidebar__scrollwrap:hover {
+    scrollbar-color: #8D8E8E #0000;
+}
+
 /* Set fonts */
 :root {
     --md-text-font:"Red Hat Display";
