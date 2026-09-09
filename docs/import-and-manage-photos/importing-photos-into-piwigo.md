@@ -140,7 +140,7 @@ To do this, you need to install the [Piwigo Remote Sync](https://piwigo.org/ext/
 
 To learn more, visit the dedicated documentation by clicking the link below:
 
-[Documentation : Piwigo Remote Sync](../organizing-albums/how-to-create-an-album.md)
+[Documentation : Piwigo Remote Sync](importing-photos-into-piwigo/documentation-piwigo-remote-sync.md)
 
 ## Importing and synchronizing one of your computer's folder trees as FTP
 
