@@ -71,7 +71,7 @@ You can choose to sort comments by photo or by date, and use the search engine t
 
 ![Voir commentaires.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-89e11245.jpg)
 
-!!! "note" Note: from this page, administrators can approve, edit and delete comments.
+!!! info "From this page, administrators can approve, edit and delete comments."
 
 ## Managing, editing, deleting comments
 

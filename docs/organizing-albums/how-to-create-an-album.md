@@ -3,62 +3,58 @@ title: How to create an album? Piwigo Documentation
 description: How to create an album or sub-album in Piwigo? How to manage permissions? We explain it all in this article.
 ---
 
-# Documentation : Piwigo Remote Sync
+# How to create an album?
 
-← [Importing photos into Piwigo](../import-and-manage-photos/importing-photos-into-piwigo.md)
+## Creating an album when uploading photos
 
-## Piwigo Remote Sync : what is it ?
+When you [import content into Piwigo](../import-and-manage-photos/importing-photos-into-piwigo.md), you can associate them with an existing album by picking within the drop-down list. The list shows all albums and sub-albums located in your photo gallery.
 
-Piwigo Remote Sync is a file transfer tool for Piwigo.
+Sub-albums, or "child" albums, appear as follows:
 
-It allows you to synchronize a folder tree from your computer with your Piwigo gallery.
+Parent album / Child album
 
-## Piwigo Remote Sync : how does it work ?
+![Importer photos.jpg](https://ressources.piwigo.com/i?/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-3f28ab39-la.jpg)
 
-The way it works is simple : Piwigo Remote Sync will automatically create albums by following the organization of your local file trees. You can launch the synchronization multiple times : Piwigo Remote Sync will only add what's new.
+You can also choose to create a new album to upload your photos into it.
 
-## Installing Piwigo Remote Sync
+To create a sub-album, meaning an album within an existing album, choose the parent album in which you want to create this sub-album from the list, and click on "Create a new album".
 
-To install Piwigo Remote Sync, simply download it [on this page](https://piwigo.org/ext/extension_view.php?eid=851) by clicking the Download button.
+The window that opens mentions the parent album's name, you can edit it by clicking on the drop-down list.
 
-The app appears as a file titled remotesync-ui.jar. Simply double-click on this file to launch the app. Piwigo Remote Sync works on Windows, Mac and Linux.
+The only thing left is to enter the name of your child album and click on "Create".
 
-Do you have a problem with installing or launching Piwigo Remote Sync ?
+![Nouvel album.jpg](https://ressources.piwigo.com/i?/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-ea888d42-me.jpg)
 
-Visit the FAQ below.
+If you want to create you new album at the root of your photo library (without a parent album), select the first dotted line, and click on the "Create" button.
 
-### Piwigo Remote Sync FAQ
+![Sous albums.jpg](https://ressources.piwigo.com/i?/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-ea888d42-me.jpg)
 
-- **Error message : Unable to locate Java Runtime**
-    
-    In order to function, Piwigo Remote Sync needs Java Runtime, a component that allows computer programs developed through Java to be executed. [Download Java Runtime through its official page](https://www.java.com/download/manual.jsp).
-    
-- **MacOS error message : The app can't be opened because it is from an unidentified developer**
-    
-    If you are using a newer Mac computer, the message "The app can't be opened because it is from an unidentified developer" may be displayed when double-clicking the remotesync-ui.jar file.
-    
-    1. In your Mac's Finder, locate the remotesync-ui.jar file.
-        
-        ![](https://help.apple.com/assets/63BCA927AAE78C58DD7FBE35/63BCA92EAAE78C58DD7FBE76/fr_FR/058e4af8e726290f491044219d2eee73.png)
-        
-        Don't use Launchpad. Launchpad doesn't allow you to use the context menu.
-        
-    2. Click on remotesync-ui.jar while pressing the Control (Ctrl) key, then choose Open in the context menu.
-    3. Click on Open.
-        
-        The app is saved as an exception in your safety settings and you will then be able to open it by clicking twice on it, just like any other saved app.
-        
+## Creating an album from the album manager
 
-## Using Piwigo Remote Sync
+To create one or more albums, go to the administration and choose Albums > Manage in the left menu.
 
-When launching Piwigo Remote Sync, the following window opens.
+You then end up in the album manager, which provides you with many features (see next chapter: [managing your albums](managing-your-albums.md)).
 
-![piwigo-remote-sync.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-4b3b57e5.png)
+### **Creating an album at the root**
 
-Enter your gallery's URL, as well as your username and password.
+To create an album at the root (rather than inside of an existing album), click on the "Add Album" button.
 
-Next, select the file in your computer that you would like to synchronize with Piwigo by clicking on the ... icon.
+A window opens, which lets you enter the album's name, and choose its default position (first or last in the album list). 
 
-![piwigo-remote-sync.upload.png](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-1a7d31fb.png)
+Of course, you will later be able to edit this position manually, or by changing the albums' sort order (see chapter: [Changing the order of the albums](managing-your-albums.md)).
 
-Click on Upload : the transfer is starting. The synchronized photos will appear on the screen.
+![Album racine.jpg](https://ressources.piwigo.com/i?/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-ae691faa-me.jpg)
+
+### **Creating a sub-album**
+
+To create a sub-album, choose the parent album in the list, and click on the folder with a + to the right of the line. The parent album is highlighted for more precision, so that you can't make a mistake.
+
+![Ajouter album.jpg](https://ressources.piwigo.com/i?/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-a9b0b83e-la.jpg)
+
+A window opens, just like when you create a root album, to choose your sub-album's name and default position in the list. The parent album's name is mentioned.
+
+## Permissions on newly created albums
+
+When you create a new album, who is allowed to view its content?
+
+To understand how permissions work on albums, read [this article](permissions-and-album-visibility.md).

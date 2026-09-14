@@ -91,7 +91,7 @@ Once email-based 2FA is enabled in the plugin settings, go to your profile and s
 
 Check your inbox, and when you receive the code, enter it in the appropriate field.
 
-![Capture d’écran 2025-11-17 à 17.51.08.png](Two%20Factor%20Authentication%20enable%202FA%20on%20Piwigo/Capture_decran_2025-11-17_a_17.51.08.png)
+![Capture d’écran 2025-11-17 à 17.51.08.png](https://ressources.piwigo.com/_datas/c/v/7/cv7jpz6hf8/i/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-a1a17274-me.png)
 
 
 !!! warning "**Warning**"

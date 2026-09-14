@@ -73,7 +73,7 @@ The **Quick Fav** plugin allows you to add a photo with one click from its thumb
 
 It also lets you add all the content of an album to your favorites in one click.
 
-[Learn more about Quick Fav](albums-in-your-gallery.md)
+[Learn more about Quick Fav](albums-in-your-gallery.md#quick-fav-add-a-photo-to-your-favorites-from-the-album-page)
 
 ## User Collections: Sort your favorites into themed collections
 

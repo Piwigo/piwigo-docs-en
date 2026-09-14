@@ -126,7 +126,7 @@ To set up this two-factor authentication system, you must install and activate t
 
 Click below to read the documentation for this plugin:
 
-[Two Factor Authentication: enable 2FA on Piwigo](user-groups.md)
+[Two Factor Authentication: enable 2FA on Piwigo](./log-in-to-piwigo/two-factor-authentication-enable-two-factor-authentification-on-piwigo.md)
 
 ## How to turn on single sign on (SSO) in Piwigo?
 

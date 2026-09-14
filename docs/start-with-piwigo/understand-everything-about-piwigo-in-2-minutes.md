@@ -27,7 +27,7 @@ There are many benefits:
 - Piwigo allows you to share a file or a set of files in a secure and fast manner, through a simple link share. This prevents from sending emails with an attachment, duplicates, risks of mistakes…
 - Piwigo allows you to create a real website, public or private, to host and showcase your pictures. This library is customizable to your colors.
 
-To learn more, [visit our website](https://Piwigo cloud/).
+To learn more, [visit our website](https://piwigo.org/).
 
 # How Piwigo works
 

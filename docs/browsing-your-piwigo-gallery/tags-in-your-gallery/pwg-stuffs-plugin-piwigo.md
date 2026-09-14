@@ -32,11 +32,11 @@ Submit. You now land on the block management page.
 
 In front of "Main block", select "Hide on home page".
 
-![Gérer les blocs.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-30d37c64.jpg)
+![Gérer les blocs.jpg](https://ressources.piwigo.com/i?/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-30d37c64-la.jpg)
 
 And you're done! Your home page now shows a login form.
 
-![Formulaire connexion.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-0bf39463.jpg)
+![Formulaire connexion.jpg](https://ressources.piwigo.com/i?/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-0bf39463-la.jpg)
 
 Let's go back to the block management. You can delete an added block by clicking on the red cross, and edit its settings by clicking on the tool-shaped icon.
 

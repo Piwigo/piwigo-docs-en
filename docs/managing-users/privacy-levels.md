@@ -15,7 +15,8 @@ This way, when a user is logged into your gallery, they are only viewing albums 
 
 But in some cases, you might need to manage a finer level of rights, file-by-file, beyond albums. This is what "privacy levels" are useful for.
 
-!!! warning "Warning!" This is one of Piwigo's advanced features, which we don't recommend using if you are a beginner.
+!!! warning "Warning!"
+    This is one of Piwigo's advanced features, which we don't recommend using if you are a beginner.
 
 
 ## Privacy levels: how does it work?
