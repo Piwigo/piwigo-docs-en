@@ -29,7 +29,7 @@ It is used namely for:
 
 Click below to read the complete documentation for PWG Stuffs.
 
-[PWG Stuffs: adding blocks in your gallery](../browsing-your-piwigo-gallery/tags-in-your-gallery/pwg-stuffs-plugin-piwigo.md)
+[PWG Stuffs: adding blocks in your gallery](./customizing-piwigo-gallery-plugins/pwg-stuff-adding-blocks-in-your-gallery.md)
 
 ## Fotorama: another slideshow for your gallery
 

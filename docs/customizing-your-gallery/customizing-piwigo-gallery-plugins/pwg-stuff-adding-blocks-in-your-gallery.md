@@ -1,6 +1,6 @@
 ---
-title: "PWG Stuffs Plugin - Piwigo Documentation"
-description: "The PWG Stuffs plugin offers a variety of options for adding blocks to your gallery. These blocks enhance your existing pages. It is, therefore, a very comprehensive plugin for customizing your gallery."
+title: "PWG Stuffs plugin - Piwigo documentation"
+description: "The PWG Stuffs plugin offers various options for adding blocks to your gallery. These blocks enhance existing pages. It's a very complete plugin for customizing your gallery."
 ---
 
 # PWG Stuffs: adding blocks in your gallery
@@ -22,21 +22,21 @@ This is possible thanks to the **PWG Stuffs** plugin.
 
 In the settings for the PWG Stuffs plugin, go to the "Add a block" tab. Choose "Login" in the list and click on "Add a block".
 
-![Plugin PWG.jpg](https://ressources.piwigo.com/i?/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-889c76a3-me.jpg)
+![Plugin PWG.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-889c76a3.jpg)
 
 You now have access to your block's configuration options. Here, you can customize the title of your login block, specify whether or not this title is displayed on the home page, and set which pages this block is displayed on.
 
-![Nouveau bloc.jpg](https://ressources.piwigo.com/picture?/1638/category/181-pwg_stuffs_adding_blocks_in_your_gallery)
+![Nouveau bloc.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-c04f30b6.jpg)
 
 Submit. You now land on the block management page.
 
 In front of "Main block", select "Hide on home page".
 
-![Gérer les blocs.jpg](https://ressources.piwigo.com/i?/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-30d37c64-me.jpg)
+![Gérer les blocs.jpg](https://ressources.piwigo.com/i?/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-30d37c64-la.jpg)
 
 And you're done! Your home page now shows a login form.
 
-![Formulaire connexion.jpg](https://ressources.piwigo.com/i?/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-30d37c64-me.jpg)
+![Formulaire connexion.jpg](https://ressources.piwigo.com/i?/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-0bf39463-la.jpg)
 
 Let's go back to the block management. You can delete an added block by clicking on the red cross, and edit its settings by clicking on the tool-shaped icon.
 
@@ -46,7 +46,7 @@ To add a tag (or keyword) cloud on your home page or another page in your galler
 
 In the settings for the PWG Stuffs plugin, go to the "Add a block" tab. Choose "Tags" in the list then click on "Add a block".
 
-![Bloc tags.jpg](https://ressources.piwigo.com/i?/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-d714fa7c-me.jpg)
+![Bloc tags.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-d714fa7c.jpg)
 
 You now have access to your block's configuration options. Here, you can customize the title of your tag cloud block, specify whether or not this title is displayed on the home page, and set which pages this block is displayed on.
 
@@ -54,21 +54,21 @@ You can also choose between 3 display options:
 
 - Tag cloud
 - Group by letters
-- Use Cumulus mode (the Cumulus Tag Clouds plugin needs to be activated. This plugin is not available for piwigo.com customers)
+- Use Cumulus mode (the Cumulus Tag Clouds plugin needs to be activated. This plugin is not available for Piwigo cloud customers)
 
-![Bloc tags config.jpg](https://ressources.piwigo.com/i?/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-5d29b359-me.jpg)
+![Bloc tags config.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-5d29b359.jpg)
 
 Choose the “Tag cloud” option and submit.
 
 And you're done! Your home page now shows a tag cloud.
 
-![Nuage tags accueil.jpg](https://ressources.piwigo.com/i?/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-4e9e6494-me.jpg)
+![Nuage tags accueil.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-4e9e6494.jpg)
 
 Let's go back to the block management, edit the block created by clicking on the tool-shaped icon and let's now choose the "Group by letters" option.
 
 Tags are now grouped by letter and in alphabetical order.
 
-![Tags par lettre.jpg](https://ressources.piwigo.com/i?/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-8abb5e4c-me.jpg)
+![Tags par lettre.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-8abb5e4c.jpg)
 
 ## Other features
 
@@ -96,11 +96,11 @@ You can manage authorizations:
 
 Let's say that we only want to display a block for anonymous users (not logged into the gallery). In this case, we will activate the rights by user type.
 
-![Config blocs PWG.jpg](https://ressources.piwigo.com/i?/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-0a7a7157-me.jpg)
+![Config blocs PWG.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-0a7a7157.jpg)
 
 In the settings for a block, we will now be able to select the users who are allowed to see this block. In our case, we will only select "Guest". This way, only users who are not logged in will see this block.
 
-![Modifier bloc tags.jpg](https://ressources.piwigo.com/i?/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-88811045-me.jpg)
+![Modifier bloc tags.jpg](https://ressources.piwigo.com/uploads/c/v/7/cv7jpz6hf8/2026/07/03/20260703190344-88811045.jpg)
 
 ## Alternating modules
 

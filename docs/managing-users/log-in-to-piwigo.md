@@ -33,7 +33,7 @@ Once logged in, you are redirected to your gallery.
 
 If you want the home page to display a login form directly, it is possible using the **PWG Stuffs** plugin.
 
-[Learn more](../browsing-your-piwigo-gallery/tags-in-your-gallery/pwg-stuffs-plugin-piwigo.md)
+[Learn more](../customizing-your-gallery/customizing-piwigo-gallery-plugins/pwg-stuff-adding-blocks-in-your-gallery.md)
 
 ## How to log in to Piwigo's administration?
 

@@ -75,7 +75,7 @@ Do you want to display a tag cloud on your gallery's home page, just like [this 
 
 You can do this by activating the **PWG Stuffs** plugin.
 
-[Learn more](tags-in-your-gallery/pwg-stuffs-plugin-piwigo.md)
+[Learn more](../customizing-your-gallery/customizing-piwigo-gallery-plugins/pwg-stuff-adding-blocks-in-your-gallery.md)
 
 ### Menu Tags: Listing all the tags in the menu
 

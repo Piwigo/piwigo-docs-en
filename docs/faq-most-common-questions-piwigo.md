@@ -111,7 +111,7 @@ Click on the arrow to show the answer to a question.
     #copyright{display: none;}
     ```
     
-    Finally, in addition to the default footer, you can also create a custom footer by creating a custom block using the [PWG Stuffs](browsing-your-piwigo-gallery/tags-in-your-gallery/pwg-stuffs-plugin-piwigo.md) plugin. 
+    Finally, in addition to the default footer, you can also create a custom footer by creating a custom block using the [PWG Stuffs](customizing-your-gallery/customizing-piwigo-gallery-plugins/pwg-stuff-adding-blocks-in-your-gallery.md) plugin. 
     
 - How do I add a custom banner / photo to my Piwigo website?
     
