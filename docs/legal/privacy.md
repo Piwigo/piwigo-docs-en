@@ -65,7 +65,7 @@ The Editor may change its Privacy Policy at any time, and in the Editor's sole d
 
 The Editor encourages visitors to frequently check this page for any changes to its Privacy Policy.
 
-*Some of the terms in this privacy policy were borrowed from [Automattic.com](http://automattic.com/privacy/), who was gracious enough to make their privacy policy available under a Creative Commons Sharealike license. This Privcy Policy was partly translated from the [French version](http://fr.piwigo.com/privacy).*
+*Some of the terms in this privacy policy were borrowed from [Automattic.com](http://automattic.com/privacy/), who was gracious enough to make their privacy policy available under a Creative Commons Sharealike license. This Privacy Policy was partly translated from the [French version](https://doc-fr.piwigo.org/mentions-legales/confidentialite/).*
 
 ??? note "Historique de la politique de confidentialité"
     - 2026-01-30 : details on Mailjet's nationality and abandonment of Helpscout
