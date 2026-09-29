@@ -1,6 +1,6 @@
 
 
-!!! info "Ce guide concerne uniquement les utilisateurs de l'image Docker officielle."
+!!! info "This guide only apply to the official Piwigo image"
     This guide only apply to the official Piwigo image, if you are using a Linux server container please use their documentation instead.    
      If you want to switch to the official image you can [follow this guide](https://github.com/Piwigo/piwigo-docker/wiki/Migration-Guide-from-the-LinuxServer)
 
