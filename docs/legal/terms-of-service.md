@@ -39,7 +39,7 @@ The Editor reserves the right to impose limits on the use of the Services where 
 - use of stored data by an external website (hotlinking)
 - display on an external website of all or part of the content originating from the Site
 - use of framing techniques allowing the user’s account to be displayed within a page of an external site
-existence of links from websites contrary to public order or accepted standards of decency, of a violent, pornographic or pedophilic nature, likely to infringe human dignity, or intended to display or sell prohibited or illegal objects, substances or works
+- existence of links from websites contrary to public order or accepted standards of decency, of a violent, pornographic or pedophilic nature, likely to infringe human dignity, or intended to display or sell prohibited or illegal objects, substances or works
 
 The measures that may be implemented by the Editor include, without limitation: (i) storage quotas or restrictions, (ii) limits on access to the Services over a given period, (iii) suspension or closure of the user’s account.
 
@@ -47,13 +47,17 @@ Although the Editor provides the Services on a redundant platform with backups a
 
 The Services may give rise to communications from the Site or the Editor, such as messages relating to the operation and development of the Services, as well as informational communications.
 
-## 5. Subscriptions
+## 5. Registration
 
 If the user is a minor, they represent and acknowledge that they have obtained authorization from their parents or legal guardian to register and use the Services. The holder of parental authority agrees to guarantee the user's compliance with these Terms of Use.
 
 Registration for the Services requires the provision of certain information such as name and email address. Additional information may be requested during use of the Services. The user agrees to provide accurate and up-to-date information.
 
-Upon registration, the user selects a unique identifier and a personal password. The user is solely responsible for the use and confidentiality of these credentials.
+Upon registration, the user selects a unique identifier and a strictly personal password. Only the registered user is authorized to use these credentials, and the user undertakes to keep them confidential.
+
+Each gallery administrator account is assigned to a single, named natural person, who alone is authorized to use it. The maximum number of administrator accounts depends on the subscribed plan, as described on the Site's pricing page. Sharing an administrator account between several people, including within the same organization, is prohibited, as is any method intended to exceed the number of administrators included in the subscribed plan, in particular the use of a generic account (for example "communication@...") by several people.
+
+In the event of a breach of this rule, the Editor will send the user a notification email requesting them to remedy the breach. If the breach is not remedied within seven (7) calendar days, the Editor may, at its discretion, (i) switch the subscription to the plan matching the actual number of people using the administration, invoicing the difference pro rata for the remaining period, or (ii) suspend or terminate the account under the conditions set out in Article 11.
 
 The user agrees to immediately notify the Editor of (i) any unauthorized use of their account and/or password, (ii) any security breach affecting their account, (iii) any abnormal modification of their content.
 
@@ -231,6 +235,7 @@ The Editor reserves the right to refuse to carry out a data export if the custom
 
 ??? note "Terms of Service history log:"
     
+    - 2026-11-25: named administrator accounts, sharing of credentials between several people prohibited
     - 2026-03-17: rewording of the Terms and Conditions of Use, incorporation of the new service offerings for self-hosted customers and of a chapter about data reversibility
     - 2024-04-11: more details about "sexually explicit" content forbidden
     - 2024-01-25: details about account deletion
