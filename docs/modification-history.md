@@ -1,6 +1,6 @@
 ---
 title: Modification history
-description: "17/11/2025 : Piwigo 26 update : Adding of the documentation of the Two Factor Authentication plugin"
+description: "26/11/2026: Add clause to Terms of Service: named administrator accounts"
 ---
 
 # Modification history
